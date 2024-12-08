@@ -1,7 +1,7 @@
 # Awesome Large Vision Language Models (VLLMs)
 
 
-### 🔥🔥🔥 Visual Large Language Models for Generalized and Specialized Applications
+## 🔥🔥🔥 Visual Large Language Models for Generalized and Specialized Applications
 
 <p align="center">
     <img src="assets/VLM_revolution.png" width="90%" height="90%">
@@ -61,7 +61,8 @@
 | ![Star](https://img.shields.io/github/stars/BradyFU/Awesome-Multimodal-Large-Language-Models.svg?style=social&label=Star) <br> [**A Survey on Multimodal Large Language Models**](https://arxiv.org/pdf/2306.13549.pdf) <br> | T-PAMI | 2024-11-29 | Github | [Project](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) |
 | ![Star](https://img.shields.io/github/stars/BradyFU/Awesome-Multimodal-Large-Language-Models.svg?style=social&label=Star) <br> [**MME-Survey: A Comprehensive Survey on Evaluation of Multimodal LLMs**](https://arxiv.org/pdf/2411.15296) <br> | AriXv | 2024-11-22 | Github | [Project](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) |
 | [**A Survey on Multimodal Large Language Models**](https://academic.oup.com/nsr/advance-article-pdf/doi/10.1093/nsr/nwae403/60676453/nwae403.pdf) <br> | National Science Review | 2024-11-12 | Github | Project |
-| [**The Revolution of Multimodal Large Language Models: A Survey**](https://arxiv.org/pdf/2402.12451) <br> | ArXiv | 2024-6-6 | Github | Project |
+| [**Video Understanding with Large Language Models: A Survey**](https://arxiv.org/pdf/2312.17432) <br> | ArXiv | 2024-6-24 | Github | [Project](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding) |
+| ![Star](https://img.shields.io/github/stars/yunlong10/Awesome-LLMs-for-Video-Understanding.svg?style=social&label=Star) <br> [**The Revolution of Multimodal Large Language Models: A Survey**](https://arxiv.org/pdf/2402.12451) <br> | ArXiv | 2024-6-6 | Github | Project |
 | ![Star](https://img.shields.io/github/stars/lhanchao777/LVLM-Hallucinations-Survey.svg?style=social&label=Star) <br> [**A Survey on Hallucination in Large Vision-Language Models**](https://arxiv.org/pdf/2402.00253) <br> | ArXiv | 2024-5-6 | Github | [Project](https://github.com/lhanchao777/LVLM-Hallucinations-Survey) |
 | [**Exploring the Frontier of Vision-Language Models: A Survey of Current Methodologies and Future Directions**](https://arxiv.org/pdf/2404.07214) <br> | ArXiv | 2024-4-12 | Github | Project |
 | ![Star](https://img.shields.io/github/stars/MM-LLMs/mm-llms.github.io.svg?style=social&label=Star) <br> [**MM-LLMs: Recent Advances in MultiModal Large Language Models**](https://arxiv.org/pdf/2401.13601v4) <br> | ArXiv | 2024-2-20 | Github | [Project](https://mm-llms.github.io/) |
@@ -74,118 +75,118 @@
 ### Image-to-text
 #### General domain
 ##### General ability
-|  Title  |   Venue  |   Date   |   Code   |   Project   |
-|:--------|:--------:|:--------:|:--------:|:--------:|
+|  Model  |  Title  |   Venue  |   Date   |   Code   |   Project   |
+|:--------|:--------|:--------:|:--------:|:--------:|:--------:|
 
 ##### REC
-|  Title  |   Venue  |   Date   |   Code   |   Project   |
-|:--------|:--------:|:--------:|:--------:|:--------:|
+|  Model  |  Title  |   Venue  |   Date   |   Code   |   Project   |
+|:--------|:--------|:--------:|:--------:|:--------:|:--------:|
 
 ##### RES
-|  Title  |   Venue  |   Date   |   Code   |   Project   |
-|:--------|:--------:|:--------:|:--------:|:--------:|
+|  Model  |  Title  |   Venue  |   Date   |   Code   |   Project   |
+|:--------|:--------|:--------:|:--------:|:--------:|:--------:|
 
 ##### OCR
-|  Title  |   Venue  |   Date   |   Code   |   Project   |
-|:--------|:--------:|:--------:|:--------:|:--------:|
+|  Model  |  Title  |   Venue  |   Date   |   Code   |   Project   |
+|:--------|:--------|:--------:|:--------:|:--------:|:--------:|
 
 ##### Retrieval
-|  Title  |   Venue  |   Date   |   Code   |   Project   |
-|:--------|:--------:|:--------:|:--------:|:--------:|
+|  Model  |  Title  |   Venue  |   Date   |   Code   |   Project   |
+|:--------|:--------|:--------:|:--------:|:--------:|:--------:|
 
 #### VLLM + X
 ##### Remote sensing
-|  Title  |   Venue  |   Date   |   Code   |   Project   |
-|:--------|:--------:|:--------:|:--------:|:--------:|
+|  Model  |  Title  |   Venue  |   Date   |   Code   |   Project   |
+|:--------|:--------|:--------:|:--------:|:--------:|:--------:|
 
 ##### Medical
-|  Title  |   Venue  |   Date   |   Code   |   Project   |
-|:--------|:--------:|:--------:|:--------:|:--------:|
+|  Model  |  Title  |   Venue  |   Date   |   Code   |   Project   |
+|:--------|:--------|:--------:|:--------:|:--------:|:--------:|
 
 ##### Science and math
-|  Title  |   Venue  |   Date   |   Code   |   Project   |
-|:--------|:--------:|:--------:|:--------:|:--------:|
+|  Model  |  Title  |   Venue  |   Date   |   Code   |   Project   |
+|:--------|:--------|:--------:|:--------:|:--------:|:--------:|
 
 ##### Graphics and UI
-|  Title  |   Venue  |   Date   |   Code   |   Project   |
-|:--------|:--------:|:--------:|:--------:|:--------:|
+|  Model  |  Title  |   Venue  |   Date   |   Code   |   Project   |
+|:--------|:--------|:--------:|:--------:|:--------:|:--------:|
 
 ##### Financial analysis
-|  Title  |   Venue  |   Date   |   Code   |   Project   |
-|:--------|:--------:|:--------:|:--------:|:--------:|
+|  Model  |  Title  |   Venue  |   Date   |   Code   |   Project   |
+|:--------|:--------|:--------:|:--------:|:--------:|:--------:|
 
 ### Video-to-text
 ####  General domain
-|  Title  |   Venue  |   Date   |   Code   |   Project   |
-|:--------|:--------:|:--------:|:--------:|:--------:|
+|  Model  |  Title  |   Venue  |   Date   |   Code   |   Project   |
+|:--------|:--------|:--------:|:--------:|:--------:|:--------:|
 
 #### Video conversation
-|  Title  |   Venue  |   Date   |   Code   |   Project   |
-|:--------|:--------:|:--------:|:--------:|:--------:|
+|  Model  |  Title  |   Venue  |   Date   |   Code   |   Project   |
+|:--------|:--------|:--------:|:--------:|:--------:|:--------:|
 
 #### Egocentric view
-|  Title  |   Venue  |   Date   |   Code   |   Project   |
-|:--------|:--------:|:--------:|:--------:|:--------:|
+|  Model  |  Title  |   Venue  |   Date   |   Code   |   Project   |
+|:--------|:--------|:--------:|:--------:|:--------:|:--------:|
 
 
 ## Vision-to-action
 
 ### Autonomous driving
 #### Perception
-|  Title  |   Venue  |   Date   |   Code   |   Project   |
-|:--------|:--------:|:--------:|:--------:|:--------:|
+|  Model  |  Title  |   Venue  |   Date   |   Code   |   Project   |
+|:--------|:--------|:--------:|:--------:|:--------:|:--------:|
 
 #### Planning
-|  Title  |   Venue  |   Date   |   Code   |   Project   |
-|:--------|:--------:|:--------:|:--------:|:--------:|
+|  Model  |  Title  |   Venue  |   Date   |   Code   |   Project   |
+|:--------|:--------|:--------:|:--------:|:--------:|:--------:|
 
 #### Prediction
-|  Title  |   Venue  |   Date   |   Code   |   Project   |
-|:--------|:--------:|:--------:|:--------:|:--------:|
+|  Model  |  Title  |   Venue  |   Date   |   Code   |   Project   |
+|:--------|:--------|:--------:|:--------:|:--------:|:--------:|
 
 ### Embodied AI
 #### Perception
-|  Title  |   Venue  |   Date   |   Code   |   Project   |
-|:--------|:--------:|:--------:|:--------:|:--------:|
+|  Model  |  Title  |   Venue  |   Date   |   Code   |   Project   |
+|:--------|:--------|:--------:|:--------:|:--------:|:--------:|
 
 #### Manipulation
-|  Title  |   Venue  |   Date   |   Code   |   Project   |
-|:--------|:--------:|:--------:|:--------:|:--------:|
+|  Model  |  Title  |   Venue  |   Date   |   Code   |   Project   |
+|:--------|:--------|:--------:|:--------:|:--------:|:--------:|
 
 #### Planning
-|  Title  |   Venue  |   Date   |   Code   |   Project   |
-|:--------|:--------:|:--------:|:--------:|:--------:|
+|  Model  |  Title  |   Venue  |   Date   |   Code   |   Project   |
+|:--------|:--------|:--------:|:--------:|:--------:|:--------:|
 
 #### Navigation
-|  Title  |   Venue  |   Date   |   Code   |   Project   |
-|:--------|:--------:|:--------:|:--------:|:--------:|
+|  Model  |  Title  |   Venue  |   Date   |   Code   |   Project   |
+|:--------|:--------|:--------:|:--------:|:--------:|:--------:|
 
 ### Automated tool management
-|  Title  |   Venue  |   Date   |   Code   |   Project   |
-|:--------|:--------:|:--------:|:--------:|:--------:|
+|  Model  |  Title  |   Venue  |   Date   |   Code   |   Project   |
+|:--------|:--------|:--------:|:--------:|:--------:|:--------:|
 
 
 ## Text-to-vision
-|  Title  |   Venue  |   Date   |   Code   |   Project   |
-|:--------|:--------:|:--------:|:--------:|:--------:|
+|  Model  |  Title  |   Venue  |   Date   |   Code   |   Project   |
+|:--------|:--------|:--------:|:--------:|:--------:|:--------:|
 
 
 ### Text-to-image
-|  Title  |   Venue  |   Date   |   Code   |   Project   |
-|:--------|:--------:|:--------:|:--------:|:--------:|
+|  Model  |  Title  |   Venue  |   Date   |   Code   |   Project   |
+|:--------|:--------|:--------:|:--------:|:--------:|:--------:|
 
 
 ### Text-to-3D
-|  Title  |   Venue  |   Date   |   Code   |   Project   |
-|:--------|:--------:|:--------:|:--------:|:--------:|
+|  Model  |  Title  |   Venue  |   Date   |   Code   |   Project   |
+|:--------|:--------|:--------:|:--------:|:--------:|:--------:|
 
 
 ### Text-to-video
-|  Title  |   Venue  |   Date   |   Code   |   Project   |
-|:--------|:--------:|:--------:|:--------:|:--------:|
+|  Model  |  Title  |   Venue  |   Date   |   Code   |   Project   |
+|:--------|:--------|:--------:|:--------:|:--------:|:--------:|
 
 ## Other applications
 ### Face
-|  Title  |   Venue  |   Date   |   Code   |   Project   |
-|:--------|:--------:|:--------:|:--------:|:--------:|
+|  Model  |  Title  |   Venue  |   Date   |   Code   |   Project   |
+|:--------|:--------|:--------:|:--------:|:--------:|:--------:|
 
