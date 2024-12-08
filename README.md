@@ -15,8 +15,7 @@
 2024.12.30: We release our VLLM application paper list repo!
 
 <font size=5><center><b> Table of Contents </b> </center></font>
-- [Awesome-vllms ](#awesome-vllms)
-    - [🔥🔥🔥 Visual Large Language Models for Generalized and Specialized Applications](#-vllms-app)
+- [🔥🔥🔥 Visual Large Language Models for Generalized and Specialized Applications](#awesome-vllms)
   - [Existing VLM surveys](#existing-vlm-surveys)
   - [Vision-to-text](#vision-to-text)
     - [Image-to-text](#image-to-text)
