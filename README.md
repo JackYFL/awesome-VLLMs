@@ -48,7 +48,12 @@
 ## Existing VLM surveys
 |  Title  |   Venue  |   Date   |   Code   |   Project   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| ![Star](https://img.shields.io/github/stars/OpenGVLab/InternVL.svg?style=social&label=Star) <br> [**Expanding Performance Boundaries of Open-Source Multimodal Models with Model, Data, and Test-Time Scaling**](https://github.com/OpenGVLab/InternVL/blob/main/InternVL2_5_report.pdf) <br> | Tech Report | 2024-12-05 | [Github](https://github.com/OpenGVLab/InternVL) | [Project](https://internvl.opengvlab.com) |
+| ![Star](https://img.shields.io/github/stars/BradyFU/Awesome-Multimodal-Large-Language-Models.svg?style=social&label=Star) <br> [**A Survey on Multimodal Large Language Models**](https://arxiv.org/pdf/2306.13549.pdf) <br> | T-PAMI | 2024-11-29 | [Github](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/main) | [Project](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) |
+| ![Star](https://img.shields.io/github/stars/BradyFU/Awesome-Multimodal-Large-Language-Models.svg?style=social&label=Star) <br> [**MME-Survey: A Comprehensive Survey on Evaluation of Multimodal LLMs**](https://arxiv.org/pdf/2411.15296) <br> | AriXv | 2024-11-22 | [Github](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/tree/main) | [Project](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) |
+| [**Exploring the Reasoning Abilities of Multimodallarge Language Models (mllms): a Comprehensive survey on Emerging Trends in Multimodal Reasonings**](https://arxiv.org/pdf/2401.06805) <br> | AriXv | 2024-1-18 | Github | Project |
+| ![Star](https://img.shields.io/github/stars/MM-LLMs/mm-llms.github.io.svg?style=social&label=Star) <br> [**MM-LLMs: Recent Advances in MultiModal Large Language Models**](https://arxiv.org/pdf/2401.13601v4) <br> | ArXiv | 2024-2-20 | [Github](https://mm-llms.github.io/) | [Project](https://mm-llms.github.io/) |
+
+
 
 ## Vision-to-text
 ### Image-to-text
