@@ -45,6 +45,11 @@
       - [Text-to-3D](#text-to-3D)
       - [Text-to-video](#text-to-video)
 
+## Existing VLM surveys
+|  Title  |   Venue  |   Date   |   Code   |   Project   |
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| ![Star](https://img.shields.io/github/stars/OpenGVLab/InternVL.svg?style=social&label=Star) <br> [**Expanding Performance Boundaries of Open-Source Multimodal Models with Model, Data, and Test-Time Scaling**](https://github.com/OpenGVLab/InternVL/blob/main/InternVL2_5_report.pdf) <br> | Tech Report | 2024-12-05 | [Github](https://github.com/OpenGVLab/InternVL) | [Project](https://internvl.opengvlab.com) |
+
 ## Vision-to-text
 ### Image-to-text
 #### General domain
