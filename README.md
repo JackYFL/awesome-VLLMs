@@ -3,6 +3,11 @@
 
 ### 🔥🔥🔥 Visual Large Language Models for Generalized and Specialized Applications
 
+<p align="center">
+    <img src="assets/VLM_revolution.png" width="90%" height="90%">
+</p>
+
+
 ## 📢 News
 
 🚀 **What's New in This Update**:
