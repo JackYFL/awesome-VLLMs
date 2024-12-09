@@ -179,11 +179,12 @@
 #### Planning
 |  Model  |  Title  |   Venue  |   Date   |   Code   |   Project   |
 |:--------|:--------|:--------:|:--------:|:--------:|:--------:|
+|SurrealDriver | ![Star](https://img.shields.io/github/stars/AIR-DISCOVER/Driving-Thinking-Dataset.svg?style=social&label=Star) <br> [**SurrealDriver: Designing LLM-powered Generative Driver Agent Framework based on Human Drivers’ Driving-thinking Data**](https://arxiv.org/pdf/2309.13193) <br> | ArXiv | 2024-7-22 | [Github](https://github.com/AIR-DISCOVER/Driving-Thinking-Dataset) | Project |
 |DriveVLM | [**DriveVLM: The Convergence of Autonomous Driving and Large Vision-Language Models**](https://arxiv.org/abs/2402.12289) <br> | CoRL | 2024-6-25 | Github | [Project](https://tsinghua-mars-lab.github.io/DriveVLM/) |
 |DiLu | ![Star](https://img.shields.io/github/stars/PJLab-ADG/DiLu.svg?style=social&label=Star) <br> [**DiLu: A Knowledge-Driven Approach to Autonomous Driving with Large Language Models**](https://arxiv.org/pdf/2309.16292) <br> | ICLR | 2024-2-22 | [Github](https://github.com/PJLab-ADG/DiLu) | [Project](https://pjlab-adg.github.io/DiLu/) |
 |GPT-Driver | ![Star](https://img.shields.io/github/stars/PointsCoder/GPT-Driver.svg?style=social&label=Star) <br> [**DGPT-Driver: Learning to Drive with GPT**](https://arxiv.org/abs/2402.12289) <br> | NeurlPS Workshop | 2023-12-5 | [Github](https://github.com/PointsCoder/GPT-Driver) | [Project](https://pointscoder.github.io/projects/gpt_driver/index.html) |
 |ADriver-I | [**ADriver-I: A General World Model for Autonomous Driving**](https://arxiv.org/pdf/2311.13549) <br> | ArXiv | 2023-11-22 | [Github](https://github.com/PJLab-ADG/DiLu) | [Project](https://pjlab-adg.github.io/DiLu/) |
-|SurrealDriver | ![Star](https://img.shields.io/github/stars/AIR-DISCOVER/Driving-Thinking-Dataset.svg?style=social&label=Star) <br> [**SurrealDriver: Designing LLM-powered Generative Driver Agent Framework based on Human Drivers’ Driving-thinking Data**](https://arxiv.org/pdf/2309.13193) <br> | ArXiv | 2024-7-22 | [Github](https://github.com/AIR-DISCOVER/Driving-Thinking-Dataset) | Project |
+|LMDrive | ![Star](https://img.shields.io/github/stars/opendilab/LMDrive.svg?style=social&label=Star) <br> [**LMDrive: Closed-Loop End-to-End Driving with Large Language Models**](https://arxiv.org/pdf/2309.13193) <br> | CVPR | 2023-12-21 | [Github](https://github.com/opendilab/LMDrive) | [Project](https://hao-shao.com/projects/lmdrive.html) |
 
 [<u><🎯Back to Top></u>](#head-content)
 
