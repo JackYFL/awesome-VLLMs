@@ -172,6 +172,7 @@
 #### Planning
 |  Model  |  Title  |   Venue  |   Date   |   Code   |   Project   |
 |:--------|:--------|:--------:|:--------:|:--------:|:--------:|
+|LanguageMPC | [**LanguageMPC: Large Language Models as Decision Makers for Autonomous Driving**](https://arxiv.org/pdf/2310.03026) <br> | ArXiv | 2023-10-13 | Github | [Project](https://sites.google.com/view/llm-ad) |
 
 [<u><🎯Back to Top></u>](#head-content)
 
