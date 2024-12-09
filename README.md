@@ -193,8 +193,8 @@
 #### Prediction
 |  Model  |  Title  |   Venue  |   Date   |   Code   |   Project   |
 |:--------|:--------|:--------:|:--------:|:--------:|:--------:|
-|Prompt4Driving | ![Star](https://img.shields.io/github/stars/wudongming97/Prompt4Driving.svg?style=social&label=Star) <br> [**Language Prompt for Autonomous Driving**](https://arxiv.org/pdf/2309.04379) <br> | ArXiv | 2023-9-8 | [Github](https://github.com/wudongming97/Prompt4Driving) | Project |
 |BEV-InMLLM | ![Star](https://img.shields.io/github/stars/xmed-lab/NuInstruct.svg?style=social&label=Star) <br> [**Holistic autonomous driving understanding by bird’s-eye-view injected multi-Modal large model**](https://openaccess.thecvf.com/content/CVPR2024/papers/Ding_Holistic_Autonomous_Driving_Understanding_by_Birds-Eye-View_Injected_Multi-Modal_Large_Models_CVPR_2024_paper.pdf) <br> | CVPR | 2024-1-2 | [Github](https://github.com/xmed-lab/NuInstruct) | Project |
+|Prompt4Driving | ![Star](https://img.shields.io/github/stars/wudongming97/Prompt4Driving.svg?style=social&label=Star) <br> [**Language Prompt for Autonomous Driving**](https://arxiv.org/pdf/2309.04379) <br> | ArXiv | 2023-9-8 | [Github](https://github.com/wudongming97/Prompt4Driving) | Project |
 
 [<u><🎯Back to Top></u>](#head-content)
 
@@ -213,11 +213,12 @@
 #### Manipulation
 |  Model  |  Title  |   Venue  |   Date   |   Code   |   Project   |
 |:--------|:--------|:--------:|:--------:|:--------:|:--------:|
+|LLARVA| ![Star](https://img.shields.io/github/stars/Dantong88/LLARVA.svg?style=social&label=Star) <br> [**LLARVA: Vision-Action Instruction Tuning Enhances Robot Learning**](https://arxiv.org/pdf/2406.11815) <br> | CoRL | 2024-6-17 | [Github](https://github.com/Dantong88/LLARVA) | [Project](https://llarva24.github.io) |
 |RT-X| ![Star](https://img.shields.io/github/stars/google-deepmind/open_x_embodiment.svg?style=social&label=Star) <br>  [**Open X-Embodiment: Robotic Learning Datasets and RT-X Models**](https://arxiv.org/pdf/2310.08864) <br> | ArXiv | 2024-6-1 | [Github](https://github.com/google-deepmind/open_x_embodiment) | [Project](https://robotics-transformer2.github.io) |
-|RT-2| [**RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control**](https://robotics-transformer2.github.io/assets/rt2.pdf) <br> | ArXiv | 2023-7-28 | Github | [Project](https://robotics-transformer-x.github.io) |
-|Instruct2Act| ![Star](https://img.shields.io/github/stars/OpenGVLab/Instruct2Act.svg?style=social&label=Star) <br> [**Instruct2Act: Mapping Multi-modality Instructions to Robotic Actions with Large Language Model**](https://arxiv.org/pdf/2305.11176) <br> | ArXiv | 2023-5-24 | [Github](https://github.com/OpenGVLab/Instruct2Act) | Project |
 |RoboFlamingo| [**Vision-Language Foundation Models as Effective Robot Imitators**](https://arxiv.org/pdf/2311.01378) <br> | ICLR | 2024-2-5 | Github | Project |
 |VoxPoser| ![Star](https://img.shields.io/github/stars/huangwl18/VoxPoser.svg?style=social&label=Star) <br>  [**VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models**](https://arxiv.org/pdf/2307.05973) <br> | CoRL | 2023-11-2 | [Github](https://github.com/huangwl18/VoxPoser) | [Project](https://voxposer.github.io) |
+|RT-2| [**RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control**](https://robotics-transformer2.github.io/assets/rt2.pdf) <br> | ArXiv | 2023-7-28 | Github | [Project](https://robotics-transformer-x.github.io) |
+|Instruct2Act| ![Star](https://img.shields.io/github/stars/OpenGVLab/Instruct2Act.svg?style=social&label=Star) <br> [**Instruct2Act: Mapping Multi-modality Instructions to Robotic Actions with Large Language Model**](https://arxiv.org/pdf/2305.11176) <br> | ArXiv | 2023-5-24 | [Github](https://github.com/OpenGVLab/Instruct2Act) | Project |
 
 [<u><🎯Back to Top></u>](#head-content)
 
