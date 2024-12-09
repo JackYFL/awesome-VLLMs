@@ -208,22 +208,23 @@
 [<u><🎯Back to Top></u>](#head-content)
 
 ### Automated tool management
-|  Model  |  Title  |   Venue  |   Date   |   Code   |   Project   |
-|:--------|:--------|:--------:|:--------:|:--------:|:--------:|
-| AVIS | [**Avis: Autonomous visual information seeking with large language model agent**](https://arxiv.org/abs/2306.08129) | NeurIPS | 2024 | N/A | N/A |
-| Tool-LMM | [**Tool-LMM: A Large Multi-Modal Model for Tool Agent Learning**](https://arxiv.org/abs/2401.10727) | arXiv | 2024 | Github | [Project](https://github.com/MLLM-Tool/MLLM-Tool) |
-| HuggingGPT | [**HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face**](https://arxiv.org/abs/2303.17580) | NeurIPS | 2024 | Github | [Project](https://github.com/microsoft/JARVIS) |
-| Chameleon | [**Chameleon: Plug-and-play compositional reasoning with large language models**](https://arxiv.org/abs/2304.09842) | NeurIPS | 2024 | Github | [Project](https://chameleon-llm.github.io/) |
+| Model      | Title                                                                                                                                          | Venue                          |  Date  |   Code    |  Project                           |
+|:-----------|:-----------------------------------------------------------------------------------------------------------------------------------------------|:------------------------------:|:------:|:---------:|:-----------------------------------:|
+| TROVE      | ![Star](https://img.shields.io/github/stars/zorazrw/trove.svg?style=social&label=Star) <br> [**TROVE: Inducing Verifiable and Efficient Toolboxes for Solving Programmatic Tasks**](https://arxiv.org/abs/2401.12869) | arXiv | 2024 | [Github](https://github.com/zorazrw/trove) | Project |
+| Tool-LMM   | ![Star](https://img.shields.io/github/stars/MLLM-Tool/MLLM-Tool.svg?style=social&label=Star) <br> [**Tool-LMM: A Large Multi-Modal Model for Tool Agent Learning**](https://arxiv.org/abs/2401.10727) | arXiv | 2024 | [Github](https://github.com/MLLM-Tool/MLLM-Tool) | Project |
+| CLOVA      | ![Star](https://img.shields.io/github/stars/clova-tool/CLOVA-tool.svg?style=social&label=Star) <br> [**CLOVA: A Closed-loop Visual Assistant with Tool Usage and Update**](https://arxiv.org/abs/2312.10908) | CVPR | 2024 | [Github](https://github.com/clova-tool/CLOVA-tool) | [Project](https://clova-tool.github.io/) |
+| CRAFT      | ![Star](https://img.shields.io/github/stars/lifan-yuan/CRAFT.svg?style=social&label=Star) <br> [**CRAFT: Customizing LLMs by Creating and Retrieving from Specialized Toolsets**](https://arxiv.org/abs/2309.17428) | arXiv | 2023 | [Github](https://github.com/lifan-yuan/CRAFT) | Project |
+| Confucius  | ![Star](https://img.shields.io/github/stars/shizhl/CTL.svg?style=social&label=Star) <br> [**Confucius: Iterative tool learning from introspection feedback by easy-to-difficult curriculum**](https://arxiv.org/abs/2308.14034) | AAAI | 2023 | [Github](https://github.com/shizhl/CTL) | Project |
+| AVIS       | [**Avis: Autonomous visual information seeking with large language model agent**](https://arxiv.org/abs/2306.08129) | NeurIPS | 2024 | N/A | N/A |
+| GPT4Tools  | ![Star](https://img.shields.io/github/stars/StevenGrove/GPT4Tools.svg?style=social&label=Star) <br> [**GPT4Tools: Teaching large language model to use tools via self-instruction**](https://arxiv.org/abs/2305.18752) | NeurIPS | 2024 | [Github](https://github.com/StevenGrove/GPT4Tools) | Project |
+| ToolkenGPT | ![Star](https://img.shields.io/github/stars/Ber666/ToolkenGPT.svg?style=social&label=Star) <br> [**ToolkenGPT: Augmenting frozen language models with massive tools via tool embeddings**](https://arxiv.org/abs/2305.11554) | NeurIPS | 2024 | [Github](https://github.com/Ber666/ToolkenGPT) | Project |
+| Chameleon  | ![Star](https://img.shields.io/github/stars/lupantech/chameleon-llm.svg?style=social&label=Star) <br> [**Chameleon: Plug-and-play compositional reasoning with large language models**](https://arxiv.org/abs/2304.09842) | NeurIPS | 2024 | [Github](https://github.com/lupantech/chameleon-llm) | [Project](https://chameleon-llm.github.io/) |
+| HuggingGPT | ![Star](https://img.shields.io/github/stars/microsoft/JARVIS.svg?style=social&label=Star) <br> [**HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face**](https://arxiv.org/abs/2303.17580) | NeurIPS | 2024 | [Github](https://github.com/microsoft/JARVIS) | Project |
 | TaskMatrix.AI | [**TaskMatrix.AI: Completing tasks by connecting foundation models with millions of APIs**](https://arxiv.org/abs/2303.16434) | Intelligent Computing (AAAS) | 2024 | N/A | N/A |
-| ViperGPT | [**ViperGPT: Visual Inference via Python Execution for Reasoning**](https://arxiv.org/abs/2303.08128) | ICCV | 2023 | Github | [Project](https://github.com/cvlab-columbia/viper) |
-| GPT4Tools | [**GPT4Tools: Teaching large language model to use tools via self-instruction**](https://arxiv.org/abs/2305.18752) | NeurIPS | 2024 | Github | [Project](https://github.com/StevenGrove/GPT4Tools) |
-| ToolkenGPT | [**ToolkenGPT: Augmenting frozen language models with massive tools via tool embeddings**](https://arxiv.org/abs/2305.11554) | NeurIPS | 2024 | Github | [Project](https://github.com/Ber666/ToolkenGPT) |
-| CRAFT | [**CRAFT: Customizing LLMs by Creating and Retrieving from Specialized Toolsets**](https://arxiv.org/abs/2309.17428) | arXiv | 2023 | Github | [Project](https://github.com/lifan-yuan/CRAFT) |
-| CLOVA | [**CLOVA: A Closed-loop Visual Assistant with Tool Usage and Update**](https://arxiv.org/abs/2312.10908) | CVPR | 2024 | N/A | N/A |
-| TROVE | [**TROVE: Inducing Verifiable and Efficient Toolboxes for Solving Programmatic Tasks**](https://arxiv.org/abs/2401.12869) | arXiv | 2024 | Github | [Project](https://github.com/zorazrw/trove) |
-| MM-ReACT | [**MM-ReACT: Prompting ChatGPT for Multimodal Reasoning and Action**](https://arxiv.org/abs/2303.11381) | arXiv | 2023 | Github | [Project](https://multimodal-react.github.io/) |
-| Confucius | [**Confucius: Iterative tool learning from introspection feedback by easy-to-difficult curriculum**](https://arxiv.org/abs/2308.14034) | AAAI | 2023 | Github | [Project](https://github.com/shizhl/CTL) |
-| MIND’S EYE | [**MIND’S EYE: GROUNDED LANGUAGE MODEL REASONING THROUGH SIMULATION**](https://arxiv.org/pdf/2210.05359) | arXiv | 2023 | N/A | N/A |
+| MM-ReACT   | ![Star](https://img.shields.io/github/stars/microsoft/MM-REACT.svg?style=social&label=Star) <br> [**MM-ReACT: Prompting ChatGPT for Multimodal Reasoning and Action**](https://arxiv.org/abs/2303.11381) | arXiv | 2023 | [Github](https://github.com/microsoft/MM-REACT) | [Project](https://multimodal-react.github.io/) |
+| ViperGPT   | ![Star](https://img.shields.io/github/stars/cvlab-columbia/viper.svg?style=social&label=Star) <br> [**ViperGPT: Visual Inference via Python Execution for Reasoning**](https://arxiv.org/abs/2303.08128) | ICCV | 2023 | [Github](https://github.com/cvlab-columbia/viper) | Project |
+| MIND’S EYE | [**MIND’S EYE: GROUNDED LANGUAGE MODEL REASONING THROUGH SIMULATION**](https://arxiv.org/abs/2210.05359) | arXiv | 2023 | N/A | N/A |
+
 
 
 
