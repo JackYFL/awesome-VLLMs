@@ -213,7 +213,7 @@
 #### Manipulation
 |  Model  |  Title  |   Venue  |   Date   |   Code   |   Project   |
 |:--------|:--------|:--------:|:--------:|:--------:|:--------:|
-|OpenVLA| ![Star](https://img.shields.io/github/stars/Dantong88/LLARVA.svg?style=social&label=Star) <br> [**OpenVLA: An Open-Source Vision-Language-Action Model**](https://arxiv.org/pdf/2406.09246) <br> | ArXiv | 2024-9-5 | [Github](https://github.com/openvla/openvla) | [Project](https://openvla.github.io) |
+|OpenVLA| ![Star](https://img.shields.io/github/stars/openvla/openvla.svg?style=social&label=Star) <br> [**OpenVLA: An Open-Source Vision-Language-Action Model**](https://arxiv.org/pdf/2406.09246) <br> | ArXiv | 2024-9-5 | [Github](https://github.com/openvla/openvla) | [Project](https://openvla.github.io) |
 |LLARVA| ![Star](https://img.shields.io/github/stars/Dantong88/LLARVA.svg?style=social&label=Star) <br> [**LLARVA: Vision-Action Instruction Tuning Enhances Robot Learning**](https://arxiv.org/pdf/2406.11815) <br> | CoRL | 2024-6-17 | [Github](https://github.com/Dantong88/LLARVA) | [Project](https://llarva24.github.io) |
 |RT-X| ![Star](https://img.shields.io/github/stars/google-deepmind/open_x_embodiment.svg?style=social&label=Star) <br>  [**Open X-Embodiment: Robotic Learning Datasets and RT-X Models**](https://arxiv.org/pdf/2310.08864) <br> | ArXiv | 2024-6-1 | [Github](https://github.com/google-deepmind/open_x_embodiment) | [Project](https://robotics-transformer2.github.io) |
 |RoboFlamingo| [**Vision-Language Foundation Models as Effective Robot Imitators**](https://arxiv.org/pdf/2311.01378) <br> | ICLR | 2024-2-5 | Github | Project |
