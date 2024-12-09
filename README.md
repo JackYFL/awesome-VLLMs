@@ -86,38 +86,38 @@
 ### Image-to-text
 #### General domain
 ##### General ability
-|  Model  |  Title  |   Venue  |   Date   |   Code   |   Project   |
+|  Name  |  Title  |   Venue  |   Date   |   Code   |   Project   |
 |:--------|:--------|:--------:|:--------:|:--------:|:--------:|
 
 [<u><🎯Back to Top></u>](#head-content)
 
 ##### REC
-|  Model  |  Title  |   Venue  |   Date   |   Code   |   Project   |
+|  Name  |  Title  |   Venue  |   Date   |   Code   |   Project   |
 |:--------|:--------|:--------:|:--------:|:--------:|:--------:|
 
 [<u><🎯Back to Top></u>](#head-content)
 
 ##### RES
-|  Model  |  Title  |   Venue  |   Date   |   Code   |   Project   |
+|  Name  |  Title  |   Venue  |   Date   |   Code   |   Project   |
 |:--------|:--------|:--------:|:--------:|:--------:|:--------:|
 
 [<u><🎯Back to Top></u>](#head-content)
 
 ##### OCR
-|  Model  |  Title  |   Venue  |   Date   |   Code   |   Project   |
+|  Name  |  Title  |   Venue  |   Date   |   Code   |   Project   |
 |:--------|:--------|:--------:|:--------:|:--------:|:--------:|
 
 [<u><🎯Back to Top></u>](#head-content)
 
 ##### Retrieval
-|  Model  |  Title  |   Venue  |   Date   |   Code   |   Project   |
+|  Name  |  Title  |   Venue  |   Date   |   Code   |   Project   |
 |:--------|:--------|:--------:|:--------:|:--------:|:--------:|
 
 [<u><🎯Back to Top></u>](#head-content)
 
 #### VLLM + X
 ##### Remote sensing
-|  Model  |  Title  |   Venue  |   Date   |   Code   |   Project   |
+|  Name  |  Title  |   Venue  |   Date   |   Code   |   Project   |
 |:--------|:--------|:--------:|:--------:|:--------:|:--------:|
 | VHM | ![Star](https://img.shields.io/github/stars/opendatalab/VHM.svg?style=social&label=Star) <br> [**VHM: Versatile and Honest Vision Language Model for Remote Sensing Image Analysis**](https://arxiv.org/pdf/2403.20213) <br> | ArXiv | 2024-11-06 | [Github](https://github.com/opendatalab/VHM) | [Project](https://fitzpchao.github.io/vhm_page/) |
 | LHRS-Bot | ![Star](https://img.shields.io/github/stars/NJU-LHRS/LHRS-Bot.svg?style=social&label=Star) <br> [**LHRS-Bot: Empowering Remote Sensing with VGI-Enhanced Large Multimodal Language Model**](https://arxiv.org/pdf/2402.02544) <br> | ECCV | 2024-07-16 | [Github](https://github.com/NJU-LHRS/LHRS-Bot) | Project |
@@ -132,7 +132,7 @@
 [<u><🎯Back to Top></u>](#head-content)
 
 ##### Medical
-|  Model  |  Title  |   Venue  |   Date   |   Code   |   Project   |
+|  Name  |  Title  |   Venue  |   Date   |   Code   |   Project   |
 |:--------|:--------|:--------:|:--------:|:--------:|:--------:|
 | PMC-VQA | ![Star](https://img.shields.io/github/stars/xiaoman-zhang/PMC-VQA.svg?style=social&label=Star) <br> [**PMC-VQA: Visual Instruction Tuning for Medical Visual Question Answering**](https://arxiv.org/pdf/2305.10415) <br> | ArXiv | 2024-09-08 | [Github](https://github.com/xiaoman-zhang/PMC-VQA) | Project |
 | MedVersa | [**A Generalist Learner for Multifaceted Medical Image Interpretation**](https://arxiv.org/pdf/2405.07988) <br> | ArXiv | 2024-05-13 | Github | Project |
@@ -146,7 +146,7 @@
 [<u><🎯Back to Top></u>](#head-content)
 
 ##### Science and math
-|  Model  |  Title  |   Venue  |   Date   |   Code   |   Project   |
+|  Name  |  Title  |   Venue  |   Date   |   Code   |   Project   |
 |:--------|:--------|:--------:|:--------:|:--------:|:--------:|
 | MAVIS | ![Star](https://img.shields.io/github/stars/ZrrSkywalker/MAVIS.svg?style=social&label=Star) <br> [**MAVIS: Mathematical Visual Instruction Tuning**](https://arxiv.org/pdf/2407.08739) <br> | ECCV | 2024-11-01 | [Github](https://github.com/ZrrSkywalker/MAVIS) | Project |
 | Math-LLaVA | ![Star](https://img.shields.io/github/stars/HZQ950419/Math-LLaVA.svg?style=social&label=Star) <br> [**Math-LLaVA: Bootstrapping Mathematical Reasoning for Multimodal Large Language Models**](https://arxiv.org/pdf/2406.172940) <br> | EMNLP | 2024-10-08 | [Github](https://github.com/HZQ950419/Math-LLaVA) | Project |
@@ -164,7 +164,7 @@
 [<u><🎯Back to Top></u>](#head-content)
 
 ##### Graphics and UI
-|  Model  |  Title  |   Venue  |   Date   |   Code   |   Project   |
+|  Name  |  Title  |   Venue  |   Date   |   Code   |   Project   |
 |:--------|:--------|:--------:|:--------:|:--------:|:--------:|
 | Graphist | ![Star](https://img.shields.io/github/stars/graphic-design-ai/graphist.svg?style=social&label=Star) <br> [**Graphic Design with Large Multimodal Model**](https://arxiv.org/pdf/2404.14368) <br> | ArXiv | 2024-04-22 | [Github](https://github.com/graphic-design-ai/graphist) | Project |
 | Ferret-UI | [**Ferret-UI: Grounded Mobile UI Understanding with Multimodal LLMs**](https://arxiv.org/pdf/2404.05719) <br> | ECCV | 2024-04-08 | Github | Project |
@@ -173,7 +173,7 @@
 [<u><🎯Back to Top></u>](#head-content)
 
 ##### Financial analysis
-|  Model  |  Title  |   Venue  |   Date   |   Code   |   Project   |
+|  Name  |  Title  |   Venue  |   Date   |   Code   |   Project   |
 |:--------|:--------|:--------:|:--------:|:--------:|:--------:|
 | FinTral | [**FinTral: A Family of GPT-4 Level Multimodal Financial Large Language Models**](https://arxiv.org/pdf/2402.10986) <br> | ACL | 2024-06-14 | Github | Project |
 | FinVis-GPT | ![Star](https://img.shields.io/github/stars/wwwadx/FinVis-GPT.svg?style=social&label=Star) <br> [**FinVis-GPT: A Multimodal Large Language Model for Financial Chart Analysis**](https://arxiv.org/pdf/2308.01430) <br> | ArXiv | 2023-07-31 | [Github](https://github.com/wwwadx/FinVis-GPT) | Project |
@@ -184,17 +184,17 @@
 
 [<u><🎯Back to Top></u>](#head-content)
 ####  General domain
-|  Model  |  Title  |   Venue  |   Date   |   Code   |   Project   |
+|  Name  |  Title  |   Venue  |   Date   |   Code   |   Project   |
 |:--------|:--------|:--------:|:--------:|:--------:|:--------:|
 
 [<u><🎯Back to Top></u>](#head-content)
 #### Video conversation
-|  Model  |  Title  |   Venue  |   Date   |   Code   |   Project   |
+|  Name  |  Title  |   Venue  |   Date   |   Code   |   Project   |
 |:--------|:--------|:--------:|:--------:|:--------:|:--------:|
 
 [<u><🎯Back to Top></u>](#head-content)
 #### Egocentric view
-|  Model  |  Title  |   Venue  |   Date   |   Code   |   Project   |
+|  Name  |  Title  |   Venue  |   Date   |   Code   |   Project   |
 |:--------|:--------|:--------:|:--------:|:--------:|:--------:|
 
 [<u><🎯Back to Top></u>](#head-content)
@@ -204,7 +204,7 @@
 ### Autonomous driving
 
 #### Perception
-|  Model  |  Title  |   Venue  |   Date   |   Code   |   Project   |
+|  Name  |  Title  |   Venue  |   Date   |   Code   |   Project   |
 |:--------|:--------|:--------:|:--------:|:--------:|:--------:|
 |DriveLM | ![Star](https://img.shields.io/github/stars/OpenDriveLab/DriveLM.svg?style=social&label=Star) <br> [**DriveLM: Driving with Graph Visual Question Answering**](https://arxiv.org/pdf/2312.14150) <br> | ECCV | 2024-7-17 | [Github](https://github.com/OpenDriveLab/DriveLM) | Project |
 |Talk2BEV | ![Star](https://img.shields.io/github/stars/llmbev/talk2bev.svg?style=social&label=Star) <br> [**Talk2BEV: Language-enhanced Bird’s-eye View Maps for Autonomous Driving**](https://arxiv.org/pdf/2310.02251) <br> | ICRA | 2024-5-13 | [Github](https://github.com/llmbev/talk2bev) | [Project](https://llmbev.github.io/talk2bev/) |
@@ -216,7 +216,7 @@
 [<u><🎯Back to Top></u>](#head-content)
 
 #### Planning
-|  Model  |  Title  |   Venue  |   Date   |   Code   |   Project   |
+|  Name  |  Title  |   Venue  |   Date   |   Code   |   Project   |
 |:--------|:--------|:--------:|:--------:|:--------:|:--------:|
 |DriveGPT4 | [**DriveGPT4: Interpretable End-to-End Autonomous Driving Via Large Language Model**](https://arxiv.org/pdf/2311.13549) <br> | RAL | 2024-8-7 | [Github](https://drive.google.com/drive/folders/1PsGL7ZxMMz1ZPDS5dZSjzjfPjuPHxVL5?usp=sharing) | [Project](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10629039) |
 |SurrealDriver | ![Star](https://img.shields.io/github/stars/AIR-DISCOVER/Driving-Thinking-Dataset.svg?style=social&label=Star) <br> [**SurrealDriver: Designing LLM-powered Generative Driver Agent Framework based on Human Drivers’ Driving-thinking Data**](https://arxiv.org/pdf/2309.13193) <br> | ArXiv | 2024-7-22 | [Github](https://github.com/AIR-DISCOVER/Driving-Thinking-Dataset) | Project |
@@ -229,7 +229,7 @@
 [<u><🎯Back to Top></u>](#head-content)
 
 #### Prediction
-|  Model  |  Title  |   Venue  |   Date   |   Code   |   Project   |
+|  Name  |  Title  |   Venue  |   Date   |   Code   |   Project   |
 |:--------|:--------|:--------:|:--------:|:--------:|:--------:|
 |BEV-InMLLM | ![Star](https://img.shields.io/github/stars/xmed-lab/NuInstruct.svg?style=social&label=Star) <br> [**Holistic autonomous driving understanding by bird’s-eye-view injected multi-Modal large model**](https://openaccess.thecvf.com/content/CVPR2024/papers/Ding_Holistic_Autonomous_Driving_Understanding_by_Birds-Eye-View_Injected_Multi-Modal_Large_Models_CVPR_2024_paper.pdf) <br> | CVPR | 2024-1-2 | [Github](https://github.com/xmed-lab/NuInstruct) | Project |
 |Prompt4Driving | ![Star](https://img.shields.io/github/stars/wudongming97/Prompt4Driving.svg?style=social&label=Star) <br> [**Language Prompt for Autonomous Driving**](https://arxiv.org/pdf/2309.04379) <br> | ArXiv | 2023-9-8 | [Github](https://github.com/wudongming97/Prompt4Driving) | Project |
@@ -238,7 +238,7 @@
 
 ### Embodied AI
 #### Perception
-|  Model  |  Title  |   Venue  |   Date   |   Code   |   Project   |
+|  Name  |  Title  |   Venue  |   Date   |   Code   |   Project   |
 |:--------|:--------|:--------:|:--------:|:--------:|:--------:|
 |Wonderful-Team| ![Star](https://img.shields.io/github/stars/wonderful-team-robotics/wonderful_team_robotics.svg?style=social&label=Star) <br> [**Wonderful Team: Zero-Shot Physical Task Planning with Visual LLMs**](https://arxiv.org/pdf/2407.19094) <br> | ArXiv | 2024-12-4 | [Github](https://github.com/wonderful-team-robotics/wonderful_team_robotics) | [Project](https://wonderful-team-robotics.github.io) |
 |AffordanceLLM| ![Star](https://img.shields.io/github/stars/wj-on-un/AffordanceLLM_implementation.svg?style=social&label=Star) <br> [**AffordanceLLM: Grounding Affordance from Vision Language Models**](https://arxiv.org/abs/2401.06341) <br> | CVPR | 2024-4-17 | [Github](https://github.com/wj-on-un/AffordanceLLM_implementation) | [Project](https://jasonqsy.github.io/AffordanceLLM/) |
@@ -249,7 +249,7 @@
 [<u><🎯Back to Top></u>](#head-content)
 
 #### Manipulation
-|  Model  |  Title  |   Venue  |   Date   |   Code   |   Project   |
+|  Name  |  Title  |   Venue  |   Date   |   Code   |   Project   |
 |:--------|:--------|:--------:|:--------:|:--------:|:--------:|
 |OpenVLA| ![Star](https://img.shields.io/github/stars/openvla/openvla.svg?style=social&label=Star) <br> [**OpenVLA: An Open-Source Vision-Language-Action Model**](https://arxiv.org/pdf/2406.09246) <br> | ArXiv | 2024-9-5 | [Github](https://github.com/openvla/openvla) | [Project](https://openvla.github.io) |
 |LLARVA| ![Star](https://img.shields.io/github/stars/Dantong88/LLARVA.svg?style=social&label=Star) <br> [**LLARVA: Vision-Action Instruction Tuning Enhances Robot Learning**](https://arxiv.org/pdf/2406.11815) <br> | CoRL | 2024-6-17 | [Github](https://github.com/Dantong88/LLARVA) | [Project](https://llarva24.github.io) |
@@ -263,7 +263,7 @@
 [<u><🎯Back to Top></u>](#head-content)
 
 #### Planning
-|  Model  |  Title  |   Venue  |   Date   |   Code   |   Project   |
+|  Name  |  Title  |   Venue  |   Date   |   Code   |   Project   |
 |:--------|:--------|:--------:|:--------:|:--------:|:--------:|
 |LLaRP| ![Star](https://img.shields.io/github/stars/apple/ml-llarp.svg?style=social&label=Star) <br> [**Large Language Models as Generalizable Policies for Embodied Tasks**](https://openaccess.thecvf.com/content/CVPR2024/papers/Yuan_Visual_Programming_for_Zero-shot_Open-Vocabulary_3D_Visual_Grounding_CVPR_2024_paper.pdf) <br> | ICLR | 2024-4-16 | [Github](https://github.com/apple/ml-llarp) | [Project](https://llm-rl.github.io) |
 |MP5| ![Star](https://img.shields.io/github/stars/IranQin/MP5.svg?style=social&label=Star) <br> [**MP5: A Multi-modal Open-ended Embodied System in Minecraft via Active Perception**](https://arxiv.org/pdf/2312.07472) <br> | CVPR | 2024-3-24 | [Github](https://github.com/IranQin/MP5) | [Project](https://iranqin.github.io/MP5.github.io/) |
@@ -276,7 +276,7 @@
 [<u><🎯Back to Top></u>](#head-content)
 
 #### Navigation
-|  Model  |  Title  |   Venue  |   Date   |   Code   |   Project   |
+|  Name  |  Title  |   Venue  |   Date   |   Code   |   Project   |
 |:--------|:--------|:--------:|:--------:|:--------:|:--------:|
 |ConceptGraphs| ![Star](https://img.shields.io/github/stars/concept-graphs/concept-graphs.svg?style=social&label=Star) <br> [**ConceptGraphs: Open-Vocabulary 3D Scene Graphs for Perception and Planning**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10610243) <br> | ICRA | 2024-5-13 | [Github](https://github.com/concept-graphs/concept-graphs) | [Project](https://concept-graphs.github.io) |
 |RILA| [**RILA: Reflective and Imaginative Language Agent for Zero-Shot Semantic Audio-Visual Navigation**](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_RILA_Reflective_and_Imaginative_Language_Agent_for_Zero-Shot_Semantic_Audio-Visual_CVPR_2024_paper.pdf) <br> | CVPR | 2024-4-27 | Github | Project |
@@ -287,7 +287,7 @@
 [<u><🎯Back to Top></u>](#head-content)
 
 ### Automated tool management
-|  Model  |  Title  |   Venue  |   Date   |   Code   |   Project   |
+|  Name  |  Title  |   Venue  |   Date   |   Code   |   Project   |
 |:--------|:--------|:--------:|:--------:|:--------:|:--------:|
 | TROVE      | ![Star](https://img.shields.io/github/stars/zorazrw/trove.svg?style=social&label=Star) <br> [**TROVE: Inducing Verifiable and Efficient Toolboxes for Solving Programmatic Tasks**](https://arxiv.org/abs/2401.12869) | arXiv | 2024-01-23 | [Github](https://github.com/zorazrw/trove) | Project |
 | Tool-LMM   | ![Star](https://img.shields.io/github/stars/MLLM-Tool/MLLM-Tool.svg?style=social&label=Star) <br> [**Tool-LMM: A Large Multi-Modal Model for Tool Agent Learning**](https://arxiv.org/abs/2401.10727) | arXiv | 2024-1-19 | [Github](https://github.com/MLLM-Tool/MLLM-Tool) | Project |
@@ -307,32 +307,32 @@
 [<u><🎯Back to Top></u>](#head-content)
 
 ## Text-to-vision
-|  Model  |  Title  |   Venue  |   Date   |   Code   |   Project   |
+|  Name  |  Title  |   Venue  |   Date   |   Code   |   Project   |
 |:--------|:--------|:--------:|:--------:|:--------:|:--------:|
 
 [<u><🎯Back to Top></u>](#head-content)
 
 ### Text-to-image
-|  Model  |  Title  |   Venue  |   Date   |   Code   |   Project   |
+|  Name  |  Title  |   Venue  |   Date   |   Code   |   Project   |
 |:--------|:--------|:--------:|:--------:|:--------:|:--------:|
 
 [<u><🎯Back to Top></u>](#head-content)
 
 ### Text-to-3D
-|  Model  |  Title  |   Venue  |   Date   |   Code   |   Project   |
+|  Name  |  Title  |   Venue  |   Date   |   Code   |   Project   |
 |:--------|:--------|:--------:|:--------:|:--------:|:--------:|
 
 [<u><🎯Back to Top></u>](#head-content)
 
 ### Text-to-video
-|  Model  |  Title  |   Venue  |   Date   |   Code   |   Project   |
+|  Name  |  Title  |   Venue  |   Date   |   Code   |   Project   |
 |:--------|:--------|:--------:|:--------:|:--------:|:--------:|
 
 [<u><🎯Back to Top></u>](#head-content)
 
 ## Other applications
 ### Face
-|  Model  |  Title  |   Venue  |   Date   |   Code   |   Project   |
+|  Name  |  Title  |   Venue  |   Date   |   Code   |   Project   |
 |:--------|:--------|:--------:|:--------:|:--------:|:--------:|
 
 [<u><🎯Back to Top></u>](#head-content)
