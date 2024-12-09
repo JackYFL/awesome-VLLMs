@@ -38,7 +38,14 @@
         - [Egocentric understanding](#egocentric-understanding)
   - [Vision-to-action](#vision-to-action)
       - [Autonomous driving](#autonomous-driving)
+        - [Perception](#perception)
+        - [Planning](#planning)
+        - [Prediction](#prediction)
       - [Embodied AI](#embodied-ai)
+        - [Perception](#perception)
+        - [Manipulation](#manipulation)
+        - [Planning](#planning)
+        - [Navigation](#navigation)
       - [Automated tool management](#automated-tool-management)
   - [Text-to-vision](#text-to-vision)
       - [Text-to-image](#text-to-image)
@@ -172,7 +179,11 @@
 #### Planning
 |  Model  |  Title  |   Venue  |   Date   |   Code   |   Project   |
 |:--------|:--------|:--------:|:--------:|:--------:|:--------:|
-|LanguageMPC | [**LanguageMPC: Large Language Models as Decision Makers for Autonomous Driving**](https://arxiv.org/pdf/2310.03026) <br> | ArXiv | 2023-10-13 | Github | [Project](https://sites.google.com/view/llm-ad) |
+|DriveVLM | [**DriveVLM: The Convergence of Autonomous Driving and Large Vision-Language Models**](https://arxiv.org/abs/2402.12289) <br> | CoRL | 2024-6-25 | Github | [Project](https://tsinghua-mars-lab.github.io/DriveVLM/) |
+|DiLu | ![Star](https://img.shields.io/github/stars/PJLab-ADG/DiLu.svg?style=social&label=Star) <br> [**DiLu: A Knowledge-Driven Approach to Autonomous Driving with Large Language Models**](https://arxiv.org/pdf/2309.16292) <br> | ICLR | 2024-2-22 | [Github](https://github.com/PJLab-ADG/DiLu) | [Project](https://pjlab-adg.github.io/DiLu/) |
+|GPT-Driver | ![Star](https://img.shields.io/github/stars/PointsCoder/GPT-Driver.svg?style=social&label=Star) <br> [**DGPT-Driver: Learning to Drive with GPT**](https://arxiv.org/abs/2402.12289) <br> | NeurlPS Workshop | 2023-12-5 | [Github](https://github.com/PointsCoder/GPT-Driver) | [Project](https://pointscoder.github.io/projects/gpt_driver/index.html) |
+|ADriver-I | [**ADriver-I: A General World Model for Autonomous Driving**](https://arxiv.org/pdf/2311.13549) <br> | ArXiv | 2023-11-22 | [Github](https://github.com/PJLab-ADG/DiLu) | [Project](https://pjlab-adg.github.io/DiLu/) |
+|SurrealDriver | ![Star](https://img.shields.io/github/stars/AIR-DISCOVER/Driving-Thinking-Dataset.svg?style=social&label=Star) <br> [**SurrealDriver: Designing LLM-powered Generative Driver Agent Framework based on Human Drivers’ Driving-thinking Data**](https://arxiv.org/pdf/2309.13193) <br> | ArXiv | 2024-7-22 | [Github](https://github.com/AIR-DISCOVER/Driving-Thinking-Dataset) | Project |
 
 [<u><🎯Back to Top></u>](#head-content)
 
