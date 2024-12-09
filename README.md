@@ -63,6 +63,8 @@
 | ![Star](https://img.shields.io/github/stars/Yutong-Zhou-cv/Awesome-Text-to-Image.svg?style=social&label=Star) <br> [**Vision + Language Applications: A Survey**](https://openaccess.thecvf.com/content/CVPR2023W/GCV/papers/Zhou_Vision__Language_Applications_A_Survey_CVPRW_2023_paper.pdf) <br> | CVPRW | 2023-5-24 | Github | [Project](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image) |
 | [**Vision-and-Language Pretrained Models: A Survey**](https://arxiv.org/pdf/2204.07356.pdf) <br> | IJCAI (survey track) | 2022-5-3 | Github | Project |
 
+[<u><🎯Back to Top></u>](#head-content)
+
 ### MLLM surveys
 |  Title  |   Venue  |   Date   |   Code   |   Project   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
@@ -77,6 +79,8 @@
 | [**Exploring the Reasoning Abilities of Multimodallarge Language Models (mllms): a Comprehensive survey on Emerging Trends in Multimodal Reasonings**](https://arxiv.org/pdf/2401.06805) <br> | AriXv | 2024-1-18 | Github | Project |
 | [**Visual Instruction Tuning towards General-Purpose Multimodal Model: A Survey**](https://arxiv.org/pdf/2312.16602) <br> | ArXiv | 2023-12-27 | Github | Project |
 | [**Multimodal Large Language Models: A Survey**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10386743) <br> | BigData | 2023-12-15 | Github | Project |
+
+[<u><🎯Back to Top></u>](#head-content)
 
 ## Vision-to-text
 ### Image-to-text
@@ -227,6 +231,7 @@
 #### Planning
 |  Model  |  Title  |   Venue  |   Date   |   Code   |   Project   |
 |:--------|:--------|:--------:|:--------:|:--------:|:--------:|
+|LLaRP| ![Star](https://img.shields.io/github/stars/apple/ml-llarp.svg?style=social&label=Star) <br> [**Large Language Models as Generalizable Policies for Embodied Tasks**](https://openaccess.thecvf.com/content/CVPR2024/papers/Yuan_Visual_Programming_for_Zero-shot_Open-Vocabulary_3D_Visual_Grounding_CVPR_2024_paper.pdf) <br> | ICLR | 2024-4-16 | [Github](https://github.com/apple/ml-llarp) | [Project](https://llm-rl.github.io) |
 |EmbodiedGPT| ![Star](https://img.shields.io/github/stars/EmbodiedGPT/EmbodiedGPT_Pytorch.svg?style=social&label=Star) <br> [**EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought**](https://openaccess.thecvf.com/content/CVPR2024/papers/Yuan_Visual_Programming_for_Zero-shot_Open-Vocabulary_3D_Visual_Grounding_CVPR_2024_paper.pdf) <br> | NeurlPS | 2023-11-2 | [Github](https://github.com/EmbodiedGPT/EmbodiedGPT_Pytorch) | [Project](https://embodiedgpt.github.io) |
 |ELLM| ![Star](https://img.shields.io/github/stars/yuqingd/ellm.svg?style=social&label=Star) <br> [**Guiding Pretraining in Reinforcement Learning with Large Language Models**](https://proceedings.mlr.press/v202/du23f/du23f.pdf) <br> | ICML | 2023-9-15 | [Github](https://github.com/yuqingd/ellm) | Project |
 |NLMap| ![Star](https://img.shields.io/github/stars/ericrosenbrown/nlmap_spot.svg?style=social&label=Star) <br> [**Open-vocabulary Queryable Scene Representations for Real World Planning**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10161534) <br> | ICRA | 2023-7-4 | [Github](https://github.com/ericrosenbrown/nlmap_spot) | [Project](https://nlmap-saycan.github.io) |
