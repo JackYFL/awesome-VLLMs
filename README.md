@@ -228,7 +228,6 @@
 ### Automated tool management
 |  Model  |  Title  |   Venue  |   Date   |   Code   |   Project   |
 |:--------|:--------|:--------:|:--------:|:--------:|:--------:|
-
 | TROVE      | ![Star](https://img.shields.io/github/stars/zorazrw/trove.svg?style=social&label=Star) <br> [**TROVE: Inducing Verifiable and Efficient Toolboxes for Solving Programmatic Tasks**](https://arxiv.org/abs/2401.12869) | arXiv | 2024-01-23 | [Github](https://github.com/zorazrw/trove) | Project |
 | Tool-LMM   | ![Star](https://img.shields.io/github/stars/MLLM-Tool/MLLM-Tool.svg?style=social&label=Star) <br> [**Tool-LMM: A Large Multi-Modal Model for Tool Agent Learning**](https://arxiv.org/abs/2401.10727) | arXiv | 2024-1-19 | [Github](https://github.com/MLLM-Tool/MLLM-Tool) | Project |
 | CLOVA      | ![Star](https://img.shields.io/github/stars/clova-tool/CLOVA-tool.svg?style=social&label=Star) <br> [**CLOVA: A Closed-loop Visual Assistant with Tool Usage and Update**](https://arxiv.org/abs/2312.10908) | CVPR | 2023-12-18 | [Github](https://github.com/clova-tool/CLOVA-tool) | [Project](https://clova-tool.github.io/) |
