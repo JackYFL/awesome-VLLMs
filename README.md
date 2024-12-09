@@ -204,8 +204,8 @@
 |:--------|:--------|:--------:|:--------:|:--------:|:--------:|
 |AffordanceLLM| ![Star](https://img.shields.io/github/stars/wj-on-un/AffordanceLLM_implementation.svg?style=social&label=Star) <br> [**AffordanceLLM: Grounding Affordance from Vision Language Models**](https://arxiv.org/abs/2401.06341) <br> | CVPR | 2024-4-17 | [Github](https://github.com/wj-on-un/AffordanceLLM_implementation) | [Project](https://jasonqsy.github.io/AffordanceLLM/) |
 |3DVisProg| ![Star](https://img.shields.io/github/stars/CurryYuan/ZSVG3D.svg?style=social&label=Star) <br> [**Visual Programming for Zero-shot Open-Vocabulary 3D Visual Grounding**](https://openaccess.thecvf.com/content/CVPR2024/papers/Yuan_Visual_Programming_for_Zero-shot_Open-Vocabulary_3D_Visual_Grounding_CVPR_2024_paper.pdf) <br> | CVPR | 2024-3-23 | [Github](https://github.com/CurryYuan/ZSVG3D) | [Project](https://curryyuan.github.io/ZSVG3D/) |
-|Wonderful-Team| [**PaLM-E: An Embodied Multimodal Language Model**](https://arxiv.org/pdf/2303.03378) <br> | ICML | 2023-3-6 | Github | [Project](https://palm-e.github.io) |
-|| ![Star](https://img.shields.io/github/stars/wonderful-team-robotics/wonderful_team_robotics.svg?style=social&label=Star) <br> [**Wonderful Team: Zero-Shot Physical Task Planning with Visual LLMs**](https://arxiv.org/pdf/2303.03378) <br> | ArXiv | 2023-3-6 | [Github](https://github.com/wonderful-team-robotics/wonderful_team_robotics) | [Project](https://wonderful-team-robotics.github.io) |
+|PaLM-E| [**PaLM-E: An Embodied Multimodal Language Model**](https://arxiv.org/pdf/2303.03378) <br> | ICML | 2023-3-6 | Github | [Project](https://palm-e.github.io) |
+|Wonderful-Team| ![Star](https://img.shields.io/github/stars/wonderful-team-robotics/wonderful_team_robotics.svg?style=social&label=Star) <br> [**Wonderful Team: Zero-Shot Physical Task Planning with Visual LLMs**](https://arxiv.org/pdf/2303.03378) <br> | ArXiv | 2023-3-6 | [Github](https://github.com/wonderful-team-robotics/wonderful_team_robotics) | [Project](https://wonderful-team-robotics.github.io) |
 
 [<u><🎯Back to Top></u>](#head-content)
 
