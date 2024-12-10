@@ -350,6 +350,7 @@
 
 ### Anomaly Detetcion
 |  Name  |  Title  |   Venue  |   Date   |   Code   |   Project   |
+|:--------|:--------|:--------:|:--------:|:--------:|:--------:|
 | AnomalyAdapt | [**Anomaly Detection by Adapting a pre-trained Vision Language Model**](https://arxiv.org/abs/2403.09493) | arXiv | 2024-03-14 | Github | Project |
 | ZeroShotAD | ![Star](https://img.shields.io/github/stars/ByChelsea/VAND-APRIL-GAN.svg?style=social&label=Star) <br> [**A zero-/fewshot anomaly classification and segmentation method for cvpr 2023 vand workshop challenge tracks 1&2**](https://arxiv.org/abs/2305.17382) | arXiv | 2023-10-11 | [Github](https://github.com/ByChelsea/VAND-APRIL-GAN) | Project |
 | WinCLIP | ![Star](https://img.shields.io/github/stars/mlfoundations/open_clip.svg?style=social&label=Star) <br> [**WinCLIP: Zero-/few-shot anomaly classification and segmentation**](https://arxiv.org/pdf/2303.14814) | CVPR | 2023-03-26 | [Github](https://github.com/mlfoundations/open_clip) | Project |
