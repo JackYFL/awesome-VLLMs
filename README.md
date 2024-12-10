@@ -346,9 +346,10 @@
 |  Name  |  Title  |   Venue  |   Date   |   Code   |   Project   |
 |:--------|:--------|:--------:|:--------:|:--------:|:--------:|
 | ExpLLM | [**ExpLLM: Towards Chain of Thought for Facial Expression Recognition**](https://arxiv.org/pdf/2409.02828) | arXiv | 2024-09-04 | Github | [Project](https://starhiking.github.io/ExpLLM_Page) |
-| EMO-LLaMA | ![Star](https://img.shields.io/github/xxtars/JackYFL/EMO-LLaMA.svg?style=social&label=Star) <br> [**EMO-LLaMA: Enhancing Facial Emotion Understanding with Instruction Tuning**](https://arxiv.org/pdf/2408.11424) | arXiv | 2024-08-21 | [Github](https://github.com/xxtars/EMO-LLaMA) | Project |
+| EMO-LLaMA | ![Star](https://img.shields.io/github/xxtars/EMO-LLaMA.svg?style=social&label=Star) <br> [**EMO-LLaMA: Enhancing Facial Emotion Understanding with Instruction Tuning**](https://arxiv.org/pdf/2408.11424) | arXiv | 2024-08-21 | [Github](https://github.com/xxtars/EMO-LLaMA) | Project |
 | EmoLA   | ![Star](https://img.shields.io/github/stars/JackYFL/EmoLA.svg?style=social&label=Star) <br> [**Facial Affective Behavior Analysis with Instruction Tuning**](https://arxiv.org/pdf/2404.05052) | ECCV | 2024-7-12 | [Github](https://github.com/JackYFL/EmoLA) | [Project](https://johnx69.github.io/FABA/) |
 
+[<u><🎯Back to Top></u>](#head-content)
 
 ### Anomaly Detetcion
 |  Name  |  Title  |   Venue  |   Date   |   Code   |   Project   |
