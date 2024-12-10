@@ -73,6 +73,7 @@
 | ![Star](https://img.shields.io/github/stars/BradyFU/Awesome-Multimodal-Large-Language-Models.svg?style=social&label=Star) <br> [**MME-Survey: A Comprehensive Survey on Evaluation of Multimodal LLMs**](https://arxiv.org/pdf/2411.15296) <br> | ArXiv | 2024-11-22 | Github | [Project](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/) |
 | [**A Survey on Multimodal Large Language Models**](https://academic.oup.com/nsr/advance-article-pdf/doi/10.1093/nsr/nwae403/60676453/nwae403.pdf) <br> | National Science Review | 2024-11-12 | Github | Project |
 | [**Video Understanding with Large Language Models: A Survey**](https://arxiv.org/pdf/2312.17432) <br> | ArXiv | 2024-6-24 | Github | [Project](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding) |
+| ![Star](https://img.shields.io/github/stars/HKUST-LongGroup/Awesome-MLLM-Benchmarks.svg?style=social&label=Star) <br> [**A Survey on Multimodal Benchmarks: In the Era of Large AI Models**](https://arxiv.org/pdf/2409.18142) <br> | ArXiv | 2024-9-21 | Github | [Project](https://github.com/HKUST-LongGroup/Awesome-MLLM-Benchmarks) |
 | ![Star](https://img.shields.io/github/stars/yunlong10/Awesome-LLMs-for-Video-Understanding.svg?style=social&label=Star) <br> [**The Revolution of Multimodal Large Language Models: A Survey**](https://arxiv.org/pdf/2402.12451) <br> | ArXiv | 2024-6-6 | Github | Project |
 | ![Star](https://img.shields.io/github/stars/lhanchao777/LVLM-Hallucinations-Survey.svg?style=social&label=Star) <br> [**A Survey on Hallucination in Large Vision-Language Models**](https://arxiv.org/pdf/2402.00253) <br> | ArXiv | 2024-5-6 | Github | [Project](https://github.com/lhanchao777/LVLM-Hallucinations-Survey) |
 | [**Exploring the Frontier of Vision-Language Models: A Survey of Current Methodologies and Future Directions**](https://arxiv.org/pdf/2404.07214) <br> | ArXiv | 2024-4-12 | Github | Project |
@@ -344,7 +345,7 @@
 ### Face
 |  Name  |  Title  |   Venue  |   Date   |   Code   |   Project   |
 |:--------|:--------|:--------:|:--------:|:--------:|:--------:|
-| SocialPerception | ![Star](https://img.shields.io/github/stars/carinahausladen/clip-face-bias.svg?style=social&label=Star) <br> [**Social perception of faces in a vision-language model**](https://arxiv.org/abs/2408.14435) | arXiv | 2024-08-31 | [Github](https://github.com/carinahausladen/clip-face-bias) | Project |
+| ExpLLM | [**ExpLLM: Towards Chain of Thought for Facial Expression Recognition**](https://arxiv.org/pdf/2409.02828) | arXiv | 2024-09-04 | Github | [Project](https://starhiking.github.io/ExpLLM_Page) |
 | EmoLA   | ![Star](https://img.shields.io/github/stars/JackYFL/EmoLA.svg?style=social&label=Star) <br> [**Facial Affective Behavior Analysis with Instruction Tuning**](https://arxiv.org/pdf/2404.05052) | ECCV | 2024-7-12 | [Github](https://github.com/JackYFL/EmoLA) | [Project](https://johnx69.github.io/FABA/) |
 
 
