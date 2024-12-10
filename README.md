@@ -319,18 +319,18 @@
 [<u><🎯Back to Top></u>](#head-content)
 
 ## Text-to-vision
-|  Name  |  Title  |   Venue  |   Date   |   Code   |   Project   |
-|:--------|:--------|:--------:|:--------:|:--------:|:--------:|
-| LLMGA | ![Star](https://img.shields.io/github/stars/dvlab-research/LLMGA.svg?style=social&label=Star) <br> [**LLMGA: Multimodal Large Language Model based Generation Assistant**](https://arxiv.org/pdf/2311.16500) | ECCV | 2024-7-27 | [GitHub](https://github.com/dvlab-research/LLMGA) | [Project](https://llmga.github.io/) |
-| LMD | ![Star](https://img.shields.io/github/stars/TonyLianLong/LLM-groundedDiffusion.svg?style=social&label=Star) <br> [**LLM-grounded Diffusion: Enhancing Prompt Understanding of Text-to-Image Diffusion Models with Large Language Models**](https://arxiv.org/pdf/2305.13655) | TMLR | 2024-3-4 | [GitHub](https://github.com/TonyLianLong/LLM-groundedDiffusion) | [Project](https://llm-grounded-diffusion.github.io/) |
-| SEED | ![Star](https://img.shields.io/github/stars/AILab-CVC/SEED.svg?style=social&label=Star) <br> [**Planting a SEED of Vision in Large Language Model**](https://arxiv.org/pdf/2307.08041) | ICLR | 2023-8-12 | [GitHub](https://github.com/AILab-CVC/SEED) | [Project](https://ailab-cvc.github.io/seed/) |
-| GILL | ![Star](https://img.shields.io/github/stars/kohjingyu/gill.svg?style=social&label=Star) <br> [**Generating Images with Multimodal Language Models**](https://arxiv.org/pdf/2305.17216) | NeurlPS | 2023-5-26 | [GitHub](https://github.com/kohjingyu/gill) | [Project](https://jykoh.com/gill) |
-
-[<u><🎯Back to Top></u>](#head-content)
 
 ### Text-to-image
 |  Name  |  Title  |   Venue  |   Date   |   Code   |   Project   |
 |:--------|:--------|:--------:|:--------:|:--------:|:--------:|
+| LLMGA | ![Star](https://img.shields.io/github/stars/dvlab-research/LLMGA.svg?style=social&label=Star) <br> [**LLMGA: Multimodal Large Language Model based Generation Assistant**](https://arxiv.org/pdf/2311.16500) | ECCV | 2024-7-27 | [GitHub](https://github.com/dvlab-research/LLMGA) | [Project](https://llmga.github.io/) |
+| Emu | ![Star](https://img.shields.io/github/stars/baaivision/Emu.svg?style=social&label=Star) <br> [**Generative pretraining in multimodality,**](https://arxiv.org/pdf/2307.05222) | ICLR | 2024-5-8 | [GitHub](https://github.com/baaivision/Emu) | Project |
+| LaVIT | ![Star](https://img.shields.io/github/stars/jy0205/LaVIT.svg?style=social&label=Star) <br> [**Unified Language-Vision Pretraining in LLM with Dynamic Discrete Visual Tokenization**](https://arxiv.org/pdf/2309.04669) | ICLR | 2024-3-22 | [GitHub](https://github.com/jy0205/LaVIT) | Project |
+| MiniGPT-5 | ![Star](https://img.shields.io/github/stars/eric-ai-lab/MiniGPT-5.svg?style=social&label=Star) <br> [**MiniGPT-5: Interleaved Vision-and-Language Generation via Generative Vokens**](https://arxiv.org/pdf/2310.02239) | ArXiv | 2024-3-15 | [GitHub](https://github.com/eric-ai-lab/MiniGPT-5) | [Project](https://eric-ai-lab.github.io/minigpt-5.github.io/) |
+| LMD | ![Star](https://img.shields.io/github/stars/TonyLianLong/LLM-groundedDiffusion.svg?style=social&label=Star) <br> [**LLM-grounded Diffusion: Enhancing Prompt Understanding of Text-to-Image Diffusion Models with Large Language Models**](https://arxiv.org/pdf/2305.13655) | TMLR | 2024-3-4 | [GitHub](https://github.com/TonyLianLong/LLM-groundedDiffusion) | [Project](https://llm-grounded-diffusion.github.io/) |
+| VL-GPT | ![Star](https://img.shields.io/github/stars/AILab-CVC/VL-GPT.svg?style=social&label=Star) <br> [**VL-GPT: A Generative Pre-trained Transformer for Vision and Language Understanding and Generation**](https://arxiv.org/pdf/2307.08041) | ArXiv | 2023-12-4 | [GitHub](https://github.com/AILab-CVC/VL-GPT) | Project |
+| SEED | ![Star](https://img.shields.io/github/stars/AILab-CVC/SEED.svg?style=social&label=Star) <br> [**Planting a SEED of Vision in Large Language Model**](https://arxiv.org/pdf/2307.08041) | ICLR | 2023-8-12 | [GitHub](https://github.com/AILab-CVC/SEED) | [Project](https://ailab-cvc.github.io/seed/) |
+| GILL | ![Star](https://img.shields.io/github/stars/kohjingyu/gill.svg?style=social&label=Star) <br> [**Generating Images with Multimodal Language Models**](https://arxiv.org/pdf/2305.17216) | NeurlPS | 2023-5-26 | [GitHub](https://github.com/kohjingyu/gill) | [Project](https://jykoh.com/gill) |
 
 [<u><🎯Back to Top></u>](#head-content)
 
