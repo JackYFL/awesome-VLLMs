@@ -354,10 +354,7 @@
 ### Anomaly Detetcion
 |  Name  |  Title  |   Venue  |   Date   |   Code   |   Project   |
 |:--------|:--------|:--------:|:--------:|:--------:|:--------:|
-| AnomalyAdapt | [**Anomaly Detection by Adapting a pre-trained Vision Language Model**](https://arxiv.org/abs/2403.09493) | arXiv | 2024-03-14 | Github | Project |
-| ZeroShotAD | ![Star](https://img.shields.io/github/stars/ByChelsea/VAND-APRIL-GAN.svg?style=social&label=Star) <br> [**A zero-/fewshot anomaly classification and segmentation method for cvpr 2023 vand workshop challenge tracks 1&2**](https://arxiv.org/abs/2305.17382) | arXiv | 2023-10-11 | [Github](https://github.com/ByChelsea/VAND-APRIL-GAN) | Project |
-| WinCLIP | ![Star](https://img.shields.io/github/stars/mlfoundations/open_clip.svg?style=social&label=Star) <br> [**WinCLIP: Zero-/few-shot anomaly classification and segmentation**](https://arxiv.org/pdf/2303.14814) | CVPR | 2023-03-26 | [Github](https://github.com/mlfoundations/open_clip) | Project |
-| AnomalyCLIP | ![Star](https://img.shields.io/github/stars/zqhang/AnomalyCLIP.svg?style=social&label=Star) <br> [**AnomalyCLIP: Object-agnostic prompt learning for zero-shot anomaly detection**](https://arxiv.org/abs/2310.18961) | ICLR | 2023-03-16 | [Github](https://github.com/zqhang/AnomalyCLIP) | Project |
+| LAVAD   | ![Star](https://img.shields.io/github/stars/lucazanella/lavad.svg?style=social&label=Star) <br> [**Harnessing Large Language Models for Training-free Video Anomaly Detectiong**](https://arxiv.org/pdf/2404.05052) | CVPR | 2024-4-1 | [Github](https://github.com/lucazanella/lavad) | [Project](https://lucazanella.github.io/lavad/) |
 
 [<u><🎯Back to Top></u>](#head-content)
 
