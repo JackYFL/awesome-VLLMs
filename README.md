@@ -183,7 +183,6 @@
 
 ### Video-to-text
 
-[<u><🎯Back to Top></u>](#head-content)
 ####  General domain
 |  Name  |  Title  |   Venue  |   Date   |   Code   |   Project   |
 |:--------|:--------|:--------:|:--------:|:--------:|:--------:|
@@ -197,7 +196,6 @@
 | Goldfish | ![Star](https://img.shields.io/github/stars/Vision-CAIR/MiniGPT4-video) <br> [Goldfish: Vision-Language Understanding of Arbitrarily Long Videos](https://arxiv.org/abs/2407.12679) | ECCV | 2024-07-17 | [Github](https://vision-cair.github.io/Goldfish_website/) | [Project](https://vision-cair.github.io/Goldfish_website/) |
 | ST-LLM | ![Star](https://img.shields.io/github/stars/TencentARC/ST-LLM) <br> [ST-LLM: Large language models are effective temporal learners](https://arxiv.org/pdf/2404.00308) | ECCV | 2024-03-30 | [Github](https://github.com/TencentARC/ST-LLM) | Project |
 | LongVU | ![Star](https://img.shields.io/github/stars/Vision-CAIR/LongVU) <br> [LongVU: Spatiotemporal Adaptive Compression for Long Video-Language Understanding](https://arxiv.org/pdf/2410.17434) | ArXiv | 2024-10-22 | [Github](https://github.com/Vision-CAIR/LongVU) | [Project](https://vision-cair.github.io/LongVU) |
-
 
 [<u><🎯Back to Top></u>](#head-content)
 #### Video conversation
