@@ -343,6 +343,7 @@
 ### Text-to-3D
 |  Name  |  Title  |   Venue  |   Date   |   Code   |   Project   |
 |:--------|:--------|:--------:|:--------:|:--------:|:--------:|
+| LI3D | [**Towards Language-guided Interactive 3D Generation: LLMs as Layout Interpreter with Generative Feedback**](https://arxiv.org/pdf/2305.15808) | NeurlPS | 2023-5-26 | GitHub | Project |
 
 [<u><🎯Back to Top></u>](#head-content)
 
