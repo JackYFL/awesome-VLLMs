@@ -55,6 +55,7 @@
       - [Text-to-video](#text-to-video)
   - [Other applications](#other-applications)
       - [Face](#face)
+      - [Anomaly Detetcion](#anomaly-detetcion)
 
 ## Existing VLM surveys
 ### VLM surveys
@@ -354,6 +355,7 @@
 ### Anomaly Detetcion
 |  Name  |  Title  |   Venue  |   Date   |   Code   |   Project   |
 |:--------|:--------|:--------:|:--------:|:--------:|:--------:|
+| CUVA   | ![Star](https://img.shields.io/github/stars/fesvhtr/CUVA.svg?style=social&label=Star) <br> [**Uncovering What Why and How: A Comprehensive Benchmark for Causation Understanding of Video Anomaly**](https://arxiv.org/pdf/2405.00181) | CVPR | 2024-5-6 | [Github](https://github.com/fesvhtr/CUVA) | Project |
 | LAVAD   | ![Star](https://img.shields.io/github/stars/lucazanella/lavad.svg?style=social&label=Star) <br> [**Harnessing Large Language Models for Training-free Video Anomaly Detectiong**](https://arxiv.org/pdf/2404.05052) | CVPR | 2024-4-1 | [Github](https://github.com/lucazanella/lavad) | [Project](https://lucazanella.github.io/lavad/) |
 
 [<u><🎯Back to Top></u>](#head-content)
