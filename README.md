@@ -347,8 +347,8 @@
 |  Name  |  Title  |   Venue  |   Date   |   Code   |   Project   |
 |:--------|:--------|:--------:|:--------:|:--------:|:--------:|
 | Face-MLLM | [**Face-MLLM: A Large Face Perception Model**](https://arxiv.org/pdf/2410.20717) | arXiv | 2024-10-28 | Github | Project |
-| ExpLLM | [**ExpLLM: Towards Chain of Thought for Facial Expression Recognition**](https://arxiv.org/pdf/2409.02828) | arXiv | 2024-09-04 | Github | [Project](https://starhiking.github.io/ExpLLM_Page) |
-| EMO-LLaMA | ![Star](https://img.shields.io/github/stars/xxtars/EMO-LLaMA.svg?style=social&label=Star) <br> [**EMO-LLaMA: Enhancing Facial Emotion Understanding with Instruction Tuning**](https://arxiv.org/pdf/2408.11424) | arXiv | 2024-08-21 | [Github](https://github.com/xxtars/EMO-LLaMA) | Project |
+| ExpLLM | [**ExpLLM: Towards Chain of Thought for Facial Expression Recognition**](https://arxiv.org/pdf/2409.02828) | arXiv | 2024-9-4 | Github | [Project](https://starhiking.github.io/ExpLLM_Page) |
+| EMO-LLaMA | ![Star](https://img.shields.io/github/stars/xxtars/EMO-LLaMA.svg?style=social&label=Star) <br> [**EMO-LLaMA: Enhancing Facial Emotion Understanding with Instruction Tuning**](https://arxiv.org/pdf/2408.11424) | arXiv | 2024-8-21 | [Github](https://github.com/xxtars/EMO-LLaMA) | Project |
 | EmoLA   | ![Star](https://img.shields.io/github/stars/JackYFL/EmoLA.svg?style=social&label=Star) <br> [**Facial Affective Behavior Analysis with Instruction Tuning**](https://arxiv.org/pdf/2404.05052) | ECCV | 2024-7-12 | [Github](https://github.com/JackYFL/EmoLA) | [Project](https://johnx69.github.io/FABA/) |
 | EmoLLM   | ![Star](https://img.shields.io/github/stars/yan9qu/EmoLLM.svg?style=social&label=Star) <br> [**EmoLLM: Multimodal Emotional Understanding Meets Large Language Models**](https://arxiv.org/pdf/2406.16442) | ArXiv | 2024-6-29 | [Github](https://github.com/yan9qu/EmoLLM) | Project |
 
@@ -357,6 +357,7 @@
 ### Anomaly Detetcion
 |  Name  |  Title  |   Venue  |   Date   |   Code   |   Project   |
 |:--------|:--------|:--------:|:--------:|:--------:|:--------:|
+| HAWK   | ![Star](https://img.shields.io/github/stars/jqtangust/hawk.svg?style=social&label=Star) <br> [**HAWK: Learning to Understand Open-World Video Anomalies**](https://arxiv.org/pdf/2405.16886) | ArXiv | 2024-5-27 | [Github](https://github.com/jqtangust/hawk) | Project |
 | CUVA   | ![Star](https://img.shields.io/github/stars/fesvhtr/CUVA.svg?style=social&label=Star) <br> [**Uncovering What Why and How: A Comprehensive Benchmark for Causation Understanding of Video Anomaly**](https://arxiv.org/pdf/2405.00181) | CVPR | 2024-5-6 | [Github](https://github.com/fesvhtr/CUVA) | Project |
 | LAVAD   | ![Star](https://img.shields.io/github/stars/lucazanella/lavad.svg?style=social&label=Star) <br> [**Harnessing Large Language Models for Training-free Video Anomaly Detectiong**](https://arxiv.org/pdf/2404.05052) | CVPR | 2024-4-1 | [Github](https://github.com/lucazanella/lavad) | [Project](https://lucazanella.github.io/lavad/) |
 
