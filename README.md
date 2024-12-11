@@ -188,7 +188,7 @@
 ####  General domain
 |  Name  |  Title  |   Venue  |   Date   |   Code   |   Project   |
 |:--------|:--------|:--------:|:--------:|:--------:|:--------:|
-| Video-LLaMA2 | ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/VideoLLaMA2) <br> [VideoLLaMA 2: Advancing Spatial-Temporal Modeling and Audio Understanding in Video-LLMs](https://arxiv.org/pdf/2406.07476) | ArXiv | 2024-10-30 | [Github](https://github.com/DAMO-NLP-SG/Video-LLaMA2) | Project | 
+| Video-LLaMA2 | ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/VideoLLaMA2) <br> [VideoLLaMA 2: Advancing Spatial-Temporal Modeling and Audio Understanding in Video-LLMs](https://arxiv.org/pdf/2406.07476) | ArXiv | 2024-10-30 | [Github](https://github.com/DAMO-NLP-SG/Video-LLaMA2) | Project |
 | LongVU | ![Star](https://img.shields.io/github/stars/Vision-CAIR/LongVU) <br> [LongVU: Spatiotemporal Adaptive Compression for Long Video-Language Understanding](https://arxiv.org/pdf/2410.17434) | ArXiv | 2024-10-22 | [Github](https://github.com/Vision-CAIR/LongVU) | [Project](https://vision-cair.github.io/LongVU) |
 | Goldfish | ![Star](https://img.shields.io/github/stars/Vision-CAIR/MiniGPT4-video) <br> [Goldfish: Vision-Language Understanding of Arbitrarily Long Videos](https://arxiv.org/abs/2407.12679) | ECCV | 2024-07-17 | [Github](https://vision-cair.github.io/Goldfish_website/) | [Project](https://vision-cair.github.io/Goldfish_website/) |
 | MiniGPT4-Video | ![Star](https://img.shields.io/github/stars/Vision-CAIR/MiniGPT4-video) <br> [MiniGPT4-video: Advancing multimodal llms for video understanding with interleaved visual-textual tokens](https://arxiv.org/pdf/2404.03413) | CVPR Workshop | 2024-04-04 | [Github](https://github.com/Vision-CAIR/MiniGPT4-video) | [Project](https://vision-cair.github.io/MiniGPT4-video/) |
@@ -197,12 +197,22 @@
 | Video-LLaMA |  ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/Video-LLaMA) <br> [Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding](https://arxiv.org/pdf/2306.02858) | EMNLP | 2023-10-25 | [Github](https://github.com/DAMO-NLP-SG/Video-LLaMA) | Project |
 | Vid2Seq | ![Star](https://img.shields.io/github/stars/google-research/scenic) <br> [Vid2Seq: Large-Scale Pretraining of a Visual Language Model for Dense Video Captioning](https://arxiv.org/pdf/2302.14115) | CVPR | 2023-03-21 | [Github](https://github.com/google-research/scenic/tree/main/scenic/projects/vid2seq) | [Project](https://antoyang.github.io/vid2seq.html) |
 | LaViLa | ![Star](https://img.shields.io/github/stars/facebookresearch/LaViLa) <br> [Learning Video Representations from Large Language Models](https://arxiv.org/abs/2212.04501) | CVPR | 2022-12-08 | [Github](https://github.com/facebookresearch/LaViLa) | [Project](https://facebookresearch.github.io/LaViLa/) |
-| VideoBERT | ![Star](https://img.shields.io/github/stars/ammesatyajit/VideoBERT) <br> [VideoBERT: A joint model for video and language representation learning](https://arxiv.org/pdf/1904.01766) <br> | ICCV | 2019-09-11 | [Github](https://github.com/ammesatyajit/VideoBERT) | Project | 
+| VideoBERT | ![Star](https://img.shields.io/github/stars/ammesatyajit/VideoBERT) <br> [VideoBERT: A joint model for video and language representation learning](https://arxiv.org/pdf/1904.01766) <br> | ICCV | 2019-09-11 | [Github](https://github.com/ammesatyajit/VideoBERT) | Project |
 
 [<u><🎯Back to Top></u>](#head-content)
 #### Video conversation
 |  Name  |  Title  |   Venue  |   Date   |   Code   |   Project   |
 |:--------|:--------|:--------:|:--------:|:--------:|:--------:|
+| Video-LLaVA | ![Star](https://img.shields.io/github/stars/PKU-YuanGroup/Video-LLaVA) <br> [Video-llava: Learning united visual representation by alignment before projection](https://arxiv.org/pdf/2311.10122) | EMNLP | 2024-10-01 | [Github](https://github.com/PKU-YuanGroup/Video-LLaVA) | Project |
+| BT-Adapter | ![Star](https://img.shields.io/github/stars/farewellthree/BT-Adapter) <br> [BT-Adapter: Video Conversation is Feasible Without Video Instruction Tuning](https://arxiv.org/pdf/2309.15785) | CVPR | 2024-06-27 | [Github](https://github.com/farewellthree/BT-Adapter) | Project |
+| VideoGPT+ | ![Star](https://img.shields.io/github/stars/mbzuai-oryx/VideoGPT-plus) <br> [VideoGPT+: Integrating Image and Video Encoders for Enhanced Video Understanding](https://arxiv.org/pdf/2406.09418) | arXiv | 2024-06-13 | [Github](https://github.com/mbzuai-oryx/VideoGPT-plus) | Project |
+| Video-ChatGPT | ![Star](https://img.shields.io/github/stars/mbzuai-oryx/Video-ChatGPT) <br> [Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models](https://arxiv.org/pdf/2306.05424) | ACL | 2024-06-10 | [Github](https://github.com/mbzuai-oryx/Video-ChatGPT) | Project |
+| MVBench | ![Star](https://img.shields.io/github/stars/OpenGVLab/Ask-Anything) <br> [MVBench: A Comprehensive Multi-modal Video Understanding Benchmark](https://arxiv.org/abs/2311.17005) | CVPR | 2024-05-23 | [Github](https://github.com/OpenGVLab/Ask-Anything) | Project |
+| LVChat | ![Star](https://img.shields.io/github/stars/wangyu-ustc/LVChat) <br> [LVCHAT: Facilitating Long Video Comprehension](https://arxiv.org/pdf/2402.12079) | ArXiv | 2024-02-19 | [Github](https://github.com/wangyu-ustc/LVChat) | Project |
+| VideoChat | ![Star](https://img.shields.io/github/stars/OpenGVLab/Ask-Anything) <br> [VideoChat: Chat-Centric Video Understanding](https://arxiv.org/pdf/2305.06355) | ArXiv | 2024-01-04 | [Github](https://github.com/OpenGVLab/Ask-Anything) | Project |
+| Valley | ![Star](https://img.shields.io/github/stars/RupertLuo/Valley) <br> [Valley: Video Assistant with Large Language model Enhanced abilitY](https://arxiv.org/abs/2306.07207) | ArXiv | 2023-10-08 | [Github](https://github.com/RupertLuo/Valley) | [Project](https://valley-vl.github.io/) |
+
+
 
 [<u><🎯Back to Top></u>](#head-content)
 #### Egocentric view
@@ -376,4 +386,3 @@
 
 <!-- ## <span id="head8"> Contributors </span>
 Thanks to all the contributors! -->
-
