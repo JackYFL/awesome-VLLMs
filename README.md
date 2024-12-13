@@ -539,7 +539,7 @@ Thanks to all the contributors! -->
 ### Efficiency
 |  Name  |  Title  |   Venue  |   Date   |   Code   |   Project   |
 |:--------|:--------|:--------:|:--------:|:--------:|:--------:|
-| Dynamic-VLM  | ![Star](https://img.shields.io/github/stars/OpenGVLab/PVC.svg?style=social&label=Star) <br> [**Dynamic-VLM: Simple Dynamic Visual Token Compression for VideoLLM**](https://arxiv.org/pdf/2412.09530) | ArXiv | 2024-12-12 | Github | Project |
+| Dynamic-VLM  | [**Dynamic-VLM: Simple Dynamic Visual Token Compression for VideoLLM**](https://arxiv.org/pdf/2412.09530) | ArXiv | 2024-12-12 | Github | Project |
 | PVC  | ![Star](https://img.shields.io/github/stars/OpenGVLab/PVC.svg?style=social&label=Star) <br> [**PVC: Progressive Visual Token Compression for Unified Image and Video Processing in Large Vision-Language Models**](https://arxiv.org/pdf/2410.06169) | ArXiv | 2024-12-12 | [Github](https://github.com/OpenGVLab/PVC) | Project |
 | VTC-CLS  | ![Star](https://img.shields.io/github/stars/THU-MIG/VTC-CLS.svg?style=social&label=Star) <br> [**[CLS] Token Tells Everything Needed for Training-free Efficient MLLMs**](https://arxiv.org/pdf/2412.09613) | ArXiv | 2024-12-8 | [Github](https://github.com/THU-MIG/VTC-CLS) | Project |
 | NegToMe  | ![Star](https://img.shields.io/github/stars/1jsingh/negtome.svg?style=social&label=Star) <br> [**Negative Token Merging: Image-based Adversarial Feature Guidance**](https://arxiv.org/pdf/2412.01339) | ArXiv | 2024-12-5 | [Github](https://github.com/1jsingh/negtome) | [Project](https://negtome.github.io/) |
