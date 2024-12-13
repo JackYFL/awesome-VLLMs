@@ -500,6 +500,8 @@
 ### Text-to-video
 |  Name  |  Title  |   Venue  |   Date   |   Code   |   Project   |
 |:--------|:--------|:--------:|:--------:|:--------:|:--------:|
+| VideoStudio | ![Star](https://img.shields.io/github/stars/FuchenUSTC/LLM-groundedDiffusion.svg?style=social&label=Star) <br> [**VideoStudio: Generating Consistent-Content and Multi-Scene Videos**](https://arxiv.org/pdf/2401.01256) | ECCV | 2024-9-16 | [GitHub](https://github.com/FuchenUSTC/VideoStudio) | [Project](https://vidstudio.github.io) |
+| LLM-groundedDiffusion | ![Star](https://img.shields.io/github/stars/TonyLianLong/LLM-groundedDiffusion.svg?style=social&label=Star) <br> [**LLM-grounded Diffusion: Enhancing Prompt Understanding of Text-to-Image Diffusion Models with Large Language Models**](https://arxiv.org/pdf/2305.13655) | TMLR | 2023-11-27 | [GitHub](https://github.com/TonyLianLong/LLM-groundedDiffusion) | [Project](https://llm-grounded-diffusion.github.io) |
 
 [<u><🎯Back to Top></u>](#head-content)
 
