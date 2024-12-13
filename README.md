@@ -488,6 +488,8 @@
 |  Name  |  Title  |   Venue  |   Date   |   Code   |   Project   |
 |:--------|:--------|:--------:|:--------:|:--------:|:--------:|
 | 3DGPT | ![Star](https://img.shields.io/github/stars/Chuny1/3DGPT.svg?style=social&label=Star) <br> [**3D-GPT: Procedural 3D Modeling with Large Language Models**](https://arxiv.org/pdf/2310.12945) | ArXiv | 2024-5-29 | [GitHub](https://github.com/Chuny1/3DGPT) | [Project](https://chuny1.github.io/3DGPT/3dgpt.html) |
+| Holodeck | ![Star](https://img.shields.io/github/stars/allenai/Holodeck.svg?style=social&label=Star) <br> [**Holodeck: Language Guided Generation of 3D Embodied AI Environments**](https://arxiv.org/pdf/2312.09067) | ArXiv | 2024-5-29 | [GitHub](https://github.com/allenai/Holodeck) | [Project](https://yueyang1996.github.io/holodeck/) |
+| ShapeGPT | ![Star](https://img.shields.io/github/stars/OpenShapeLab/ShapeGPT.svg?style=social&label=Star) <br> [**ShapeGPT: 3D Shape Generation with A Unified Multi-modal Language Model**](https://arxiv.org/pdf/2311.17618) | ArXiv | 2023-12-1 | [GitHub](https://github.com/OpenShapeLab/ShapeGPT) | [Project](https://shapegpt.github.io) |
 | LI3D | [**Towards Language-guided Interactive 3D Generation: LLMs as Layout Interpreter with Generative Feedback**](https://arxiv.org/pdf/2305.15808) | NeurlPS | 2023-5-26 | GitHub | Project |
 
 [<u><🎯Back to Top></u>](#head-content)
