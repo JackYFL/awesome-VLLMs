@@ -8,6 +8,7 @@
     <img src="assets/VLM_revolution.png" width="90%" height="90%">
 </p>
 
+Visual-language models (VLM) have emerged as a powerful tool for learning a unified embedding space for vision and language. Inspired by large language models, which have demonstrated strong reasoning and multi-task capabilities, vision large language models (VLLMs) are gaining increasing attention for building general-purpose and specialized VLMs.
 
 ## 📢 News
 
@@ -533,9 +534,6 @@
 
 [<u><🎯Back to Top></u>](#head-content)
 
-<!-- ## <span id="head8"> Contributors </span>
-Thanks to all the contributors! -->
-
 ### Efficiency
 |  Name  |  Title  |   Venue  |   Date   |   Code   |   Project   |
 |:--------|:--------|:--------:|:--------:|:--------:|:--------:|
@@ -570,3 +568,7 @@ Thanks to all the contributors! -->
 | LLaVA-HR   | ![Star](https://img.shields.io/github/stars/luogen1996/LLaVA-HR.svg?style=social&label=Star) <br> [**HFeast Your Eyes: Mixture-of-Resolution Adaptation for Multimodal Large Language Models**](https://arxiv.org/abs/2403.03003) | ArXiv | 2024-3-5 | [Github](https://github.com/luogen1996/LLaVA-HR) | Project |
 
 [<u><🎯Back to Top></u>](#head-content)
+
+## <span id="head8"> Contributors </span>
+
+Thanks to all the contributors! 
