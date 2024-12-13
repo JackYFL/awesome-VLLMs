@@ -341,6 +341,16 @@
 #### Egocentric view
 |  Name  |  Title  |   Venue  |   Date   |   Code   |   Project   |
 |:--------|:--------|:--------:|:--------:|:--------:|:--------:|
+| EgoVideo | ![Star](https://img.shields.io/github/stars/OpenGVLab/EgoVideo) <br> [EgoVideo: Exploring Egocentric Foundation Model and Downstream Adaptation](https://arxiv.org/pdf/2406.18070) | CVPR Workshop | 2024-07-01 | [Github](https://github.com/OpenGVLab/EgoVideo) | Project |
+| ROSA | [Learning to Segment Referred Objects from Narrated Egocentric Videos](https://openaccess.thecvf.com/content/CVPR2024/papers/Shen_Learning_to_Segment_Referred_Objects_from_Narrated_Egocentric_Videos_CVPR_2024_paper.pdf) | CVPR | 2024-06-11 | Github | Project |
+| EgoNCE++ | ![Star](https://img.shields.io/github/stars/xuboshen/EgoNCEpp) <br> [EgoNCE++: Do Egocentric Video-Language Models Really Understand Hand-Object Interactions?](https://arxiv.org/pdf/2405.17719) | ArXiv | 2024-06-03 | [Github](https://github.com/xuboshen/EgoNCEpp) | Project |
+| GPT4Ego | [GPT4Ego: Unleashing the Potential of Pre-trained Models for Zero-Shot Egocentric Action Recognition](https://arxiv.org/pdf/2401.10039) | ArXiv | 2024-05-11 | Github | Project |
+| LEAP | [LEAP: LLM-Generation of Egocentric Action Programs](https://arxiv.org/pdf/2312.00055) | ArXiv | 2023-11-29 | Github | Project |
+| EgoVLPv2 | ![Star](https://img.shields.io/github/stars/facebookresearch/EgoVLPv2) <br> [EgoVLPv2: Egocentric Video-Language Pre-training with Fusion in the Backbone](https://arxiv.org/pdf/2307.05463) | ICCV | 2023-08-19 | [Github](https://github.com/facebookresearch/EgoVLPv2) | [Project](https://shramanpramanick.github.io/EgoVLPv2/) |
+| LLM-Inner-Speech | ![Star](https://img.shields.io/github/stars/YingWANGG/LLM-Inner-Speech) <br> [Egocentric Video Comprehension via Large Language Model Inner Speech](https://mengyeren.com/research/2023/egocentric-video-comprehension-via-large-language-model-inner-speech/wang-2023-egocentric.pdf) | CVPR Workshop | 2023-06-18 | [Github](https://github.com/YingWANGG/LLM-Inner-Speech) | Project |
+| LLM-Brain | [LLM as A Robotic Brain: Unifying Egocentric Memory and Control](https://arxiv.org/pdf/2304.09349v2) | ArXiv | 2023-04-25 | Github | Project |
+| EgoVLP | ![Star](https://img.shields.io/github/stars/showlab/EgoVLP) <br> [Egocentric Video-Language Pretraining](https://arxiv.org/pdf/2206.01670) | NeurIPS | 2022-10-13 | [Github](https://github.com/showlab/EgoVLP) | [Project](https://qinghonglin.github.io/EgoVLP/) |
+
 
 [<u><🎯Back to Top></u>](#head-content)
 
