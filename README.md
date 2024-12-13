@@ -8,13 +8,15 @@
     <img src="assets/VLM_revolution.png" width="90%" height="90%">
 </p>
 
-Visual-language models (VLM) have emerged as a powerful tool for learning a unified embedding space for vision and language. Inspired by large language models, which have demonstrated strong reasoning and multi-task capabilities, vision large language models (VLLMs) are gaining increasing attention for building general-purpose and specialized VLMs.
+Visual-language models (VLM) have emerged as a powerful tool for learning a unified embedding space for vision and language. Inspired by large language models, which have demonstrated strong reasoning and multi-task capabilities, vision large language models (VLLMs) are gaining increasing attention for building general-purpose and specialized VLMs. In this repo, we summarize current literatures from the application perspective, we wish this repo could provide help for VLLM research community.
+
+**If you are interested in this project, you can contribute to this repo by pulling requests!**
 
 ## 📢 News
 
 🚀 **What's New in This Update**:
 
-* [2024.12.30]: 🔥 We release our VLLM application paper list repo!
+* [2024.12.15]: 🔥 We release our VLLM application paper list repo!
 
 <span id="head-content"><font size=5><center><b> Table of Contents </b> </center></font></span>
 - [Visual Large Language Models for Generalized and Specialized Applications](#awesome-vllms)
