@@ -56,6 +56,7 @@
   - [Other applications](#other-applications)
       - [Face](#face)
       - [Anomaly Detetcion](#anomaly-detetcion)
+      - [Efficiency](#efficiency)
 
 ## Existing VLM surveys
 ### VLM surveys
@@ -534,3 +535,8 @@
 
 <!-- ## <span id="head8"> Contributors </span>
 Thanks to all the contributors! -->
+
+### Face
+|  Name  |  Title  |   Venue  |   Date   |   Code   |   Project   |
+|:--------|:--------|:--------:|:--------:|:--------:|:--------:|
+| LLaVA-HR   | ![Star](https://img.shields.io/github/stars/luogen1996/LLaVA-HR.svg?style=social&label=Star) <br> [**HFeast Your Eyes: Mixture-of-Resolution Adaptation for Multimodal Large Language Models**](https://arxiv.org/abs/2403.03003) | ArXiv | 2024-3-5 | [Github](https://github.com/luogen1996/LLaVA-HR) | Project |
