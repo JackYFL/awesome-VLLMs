@@ -536,7 +536,17 @@
 <!-- ## <span id="head8"> Contributors </span>
 Thanks to all the contributors! -->
 
-### Face
+### Efficiency
 |  Name  |  Title  |   Venue  |   Date   |   Code   |   Project   |
 |:--------|:--------|:--------:|:--------:|:--------:|:--------:|
+| YOPO  | ![Star](https://img.shields.io/github/stars/ZhangAIPI/YOPO_MLLM_Pruning.svg?style=social&label=Star) <br> [**Treat Visual Tokens as Text? But Your MLLM Only Needs Fewer Efforts to See**](https://arxiv.org/pdf/2410.06169) | NeurlPS | 2024-11-30 | [Github](https://github.com/ZhangAIPI/YOPO_MLLM_Pruning) | Project |
+| LLaVolta  | ![Star](https://img.shields.io/github/stars/Beckschen/LLaVolta.svg?style=social&label=Star) <br> [**Efficient Large Multi-modal Models via Visual Context Compression**](https://arxiv.org/pdf/2405.20985) | NeurlPS | 2024-11-6 | [Github](https://github.com/Beckschen/LLaVolta) | Project |
+| TRIM  | ![Star](https://img.shields.io/github/stars/FreedomIntelligence/TRIM.svg?style=social&label=Star) <br> [**Less is More: A Simple yet Effective Token Reduction Method for Efficient Multi-modal LLMs**](https://arxiv.org/pdf/2409.10994) | COLING | 2024-9-28 | [Github](https://github.com/FreedomIntelligence/TRIM/) | Project |
+| TokenPacker  | ![Star](https://img.shields.io/github/stars/CircleRadon/TokenPacker.svg?style=social&label=Star) <br> [**TokenPacker: Efficient Visual Projector for Multimodal LLM**](https://arxiv.org/pdf/2405.20985) | ArXiv | 2024-8-28 | [Github](https://github.com/CircleRadon/TokenPacker) | Project |
+| MaVEn  | [**MaVEn: An Effective Multi-granularity Hybrid Visual Encoding Framework for Multimodal Large Language Model**](https://arxiv.org/pdf/2408.12321) | NeurlPS | 2024-8-26 | Github | Project |
+| HiRED  | ![Star](https://img.shields.io/github/stars/hasanar1f/HiRED.svg?style=social&label=Star) <br> [**HiRED: Attention-Guided Token Dropping for Efficient Inference of High-Resolution Vision-Language Models in Resource-Constrained Environments**](https://arxiv.org/pdf/2408.10945) | AAAI | 2024-8-20 | [Github](https://github.com/hasanar1f/HiRED) | Project |
+| VoCo-LLaMA  | ![Star](https://img.shields.io/github/stars/Yxxxb/VoCo-LLaMA.svg?style=social&label=Star) <br> [**VoCo-LLaMA: Towards Vision Compression with Large Language Models**](https://arxiv.org/pdf/2405.20985) | ArXiv | 2024-6-18 | [Github](https://github.com/Yxxxb/VoCo-LLaMA) | [Project](https://yxxxb.github.io/VoCo-LLaMA-page/) |
+| DeCo  | ![Star](https://img.shields.io/github/stars/yaolinli/DeCo.svg?style=social&label=Star) <br> [**DeCo: Decoupling Token Compression from Semantic Abstraction in Multimodal Large Language Models**](https://arxiv.org/pdf/2405.20985) | ECCV | 2024-5-31 | [Github](https://github.com/yaolinli/DeCo) | Project |
+| LLaVA-PruMerge  | ![Star](https://img.shields.io/github/stars/42Shawn/LLaVA-PruMerge.svg?style=social&label=Star) <br> [**LLaVA-PruMerge: Adaptive Token Reduction for Efficient Large Multimodal Models**](https://arxiv.org/pdf/2403.15388) | ECCV | 2024-5-22 | [Github](https://github.com/42Shawn/LLaVA-PruMerge) | [Project](https://llava-prumerge.github.io) |
+| FastV  | ![Star](https://img.shields.io/github/stars/pkunlp-icler/FastV.svg?style=social&label=Star) <br> [**An Image is Worth 1/2 Tokens After Layer 2: Plug-and-Play Inference Acceleration for Large Vision-Language Models**](https://arxiv.org/abs/2403.03003) | ECCV | 2024-5-5 | [Github](https://github.com/pkunlp-icler/FastV) | Project |
 | LLaVA-HR   | ![Star](https://img.shields.io/github/stars/luogen1996/LLaVA-HR.svg?style=social&label=Star) <br> [**HFeast Your Eyes: Mixture-of-Resolution Adaptation for Multimodal Large Language Models**](https://arxiv.org/abs/2403.03003) | ArXiv | 2024-3-5 | [Github](https://github.com/luogen1996/LLaVA-HR) | Project |
