@@ -76,6 +76,7 @@ In this repository, we provide a comprehensive summary of the current literature
 ### MLLM surveys
 |  Title  |   Venue  |   Date   |   Code   |   Project   |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Towards Explainable and Interpretable Multimodal Large Language Models: A Comprehensive Survey**](https://arxiv.org/pdf/2412.02104) <br> | ArXiv | 2024-12-3 | Github | Project |
 | ![Star](https://img.shields.io/github/stars/BradyFU/Awesome-Multimodal-Large-Language-Models.svg?style=social&label=Star) <br> [**A Survey on Multimodal Large Language Models**](https://arxiv.org/pdf/2306.13549.pdf) <br> | T-PAMI | 2024-11-29 | Github | [Project](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) |
 | ![Star](https://img.shields.io/github/stars/BradyFU/Awesome-Multimodal-Large-Language-Models.svg?style=social&label=Star) <br> [**MME-Survey: A Comprehensive Survey on Evaluation of Multimodal LLMs**](https://arxiv.org/pdf/2411.15296) <br> | ArXiv | 2024-11-22 | Github | [Project](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/) |
 | [**A Survey on Multimodal Large Language Models**](https://academic.oup.com/nsr/advance-article-pdf/doi/10.1093/nsr/nwae403/60676453/nwae403.pdf) <br> | National Science Review | 2024-11-12 | Github | Project |
