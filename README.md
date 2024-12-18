@@ -250,7 +250,7 @@ In this repository, we provide a comprehensive summary of the current literature
 
 [<u><🎯Back to Top></u>](#head-content)
 
-#### VLLM + X
+#### VLLM+X
 ##### Remote sensing
 |  Name  |  Title  |   Venue  |   Date   |   Code   |   Project   |
 |:--------|:--------|:--------:|:--------:|:--------:|:--------:|
