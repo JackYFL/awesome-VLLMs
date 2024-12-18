@@ -33,7 +33,7 @@ In this repository, we provide a comprehensive summary of the current literature
             - [RES](#res)
             - [OCR](#ocr)
             - [Retrieval](#retrieval)
-        - [VLLM+X](#VLLM+X)
+        - [VLLM+X](#vllm+x)
             - [Remote sensing](#remote-sensing)
             - [Medical](#medical)
             - [Science and math](#science-and-math)
