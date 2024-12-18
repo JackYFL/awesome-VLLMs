@@ -320,6 +320,7 @@ In this repository, we provide a comprehensive summary of the current literature
 ####  General domain
 |  Name  |  Title  |   Venue  |   Date   |   Code   |   Project   |
 |:--------|:--------|:--------:|:--------:|:--------:|:--------:|
+| Apollo | [Apollo: An Exploration of Video Understanding in Large Multimodal Models](https://arxiv.org/pdf/2412.10360) | ArXiv | 2024-12-13 | Github | [Project](https://apollo-lmms.github.io) |
 | Video-LLaMA2 | ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/VideoLLaMA2) <br> [VideoLLaMA 2: Advancing Spatial-Temporal Modeling and Audio Understanding in Video-LLMs](https://arxiv.org/pdf/2406.07476) | ArXiv | 2024-10-30 | [Github](https://github.com/DAMO-NLP-SG/Video-LLaMA2) | Project |
 | LongVU | ![Star](https://img.shields.io/github/stars/Vision-CAIR/LongVU) <br> [LongVU: Spatiotemporal Adaptive Compression for Long Video-Language Understanding](https://arxiv.org/pdf/2410.17434) | ArXiv | 2024-10-22 | [Github](https://github.com/Vision-CAIR/LongVU) | [Project](https://vision-cair.github.io/LongVU) |
 | Goldfish | ![Star](https://img.shields.io/github/stars/Vision-CAIR/MiniGPT4-video) <br> [Goldfish: Vision-Language Understanding of Arbitrarily Long Videos](https://arxiv.org/abs/2407.12679) | ECCV | 2024-07-17 | [Github](https://vision-cair.github.io/Goldfish_website/) | [Project](https://vision-cair.github.io/Goldfish_website/) |
@@ -580,8 +581,8 @@ In this repository, we provide a comprehensive summary of the current literature
 |  Name  |  Title  |   Venue  |   Date   |   Code   |   Project   |
 |:--------|:--------|:--------:|:--------:|:--------:|:--------:|
 
-
 [<u><🎯Back to Top></u>](#head-content)
+
 
 ## <span id="head8"> Contributors </span>
 
