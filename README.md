@@ -62,6 +62,7 @@ In this repository, we provide a comprehensive summary of the current literature
       - [Face](#face)
       - [Anomaly Detetcion](#anomaly-detetcion)
       - [Efficiency](#efficiency)
+      - [Security](#security)
 
 ## Existing VLM surveys
 ### VLM surveys
@@ -571,6 +572,13 @@ In this repository, we provide a comprehensive summary of the current literature
 | DeCo  | ![Star](https://img.shields.io/github/stars/yaolinli/DeCo.svg?style=social&label=Star) <br> [**DeCo: Decoupling Token Compression from Semantic Abstraction in Multimodal Large Language Models**](https://arxiv.org/pdf/2405.20985) | ArXiv | 2024-5-31 | [Github](https://github.com/yaolinli/DeCo) | Project |
 | LLaVA-PruMerge  | ![Star](https://img.shields.io/github/stars/42Shawn/LLaVA-PruMerge.svg?style=social&label=Star) <br> [**LLaVA-PruMerge: Adaptive Token Reduction for Efficient Large Multimodal Models**](https://arxiv.org/pdf/2403.15388) | ArXiv | 2024-5-22 | [Github](https://github.com/42Shawn/LLaVA-PruMerge) | [Project](https://llava-prumerge.github.io) |
 | FastV  | ![Star](https://img.shields.io/github/stars/pkunlp-icler/FastV.svg?style=social&label=Star) <br> [**An Image is Worth 1/2 Tokens After Layer 2: Plug-and-Play Inference Acceleration for Large Vision-Language Models**](https://arxiv.org/pdf/2403.06764) | ECCV | 2024-5-5 | [Github](https://github.com/pkunlp-icler/FastV) | Project |
+| LLaVA-HR   | ![Star](https://img.shields.io/github/stars/luogen1996/LLaVA-HR.svg?style=social&label=Star) <br> [**HFeast Your Eyes: Mixture-of-Resolution Adaptation for Multimodal Large Language Models**](https://arxiv.org/abs/2403.03003) | ArXiv | 2024-3-5 | [Github](https://github.com/luogen1996/LLaVA-HR) | Project |
+
+[<u><🎯Back to Top></u>](#head-content)
+
+### Security
+|  Name  |  Title  |   Venue  |   Date   |   Code   |   Project   |
+|:--------|:--------|:--------:|:--------:|:--------:|:--------:|
 | LLaVA-HR   | ![Star](https://img.shields.io/github/stars/luogen1996/LLaVA-HR.svg?style=social&label=Star) <br> [**HFeast Your Eyes: Mixture-of-Resolution Adaptation for Multimodal Large Language Models**](https://arxiv.org/abs/2403.03003) | ArXiv | 2024-3-5 | [Github](https://github.com/luogen1996/LLaVA-HR) | Project |
 
 [<u><🎯Back to Top></u>](#head-content)
