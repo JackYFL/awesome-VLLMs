@@ -6,7 +6,7 @@
     <img src="assets/VLM_revolution.png" width="90%" height="90%">
 </p>
 
-**Visual-language models (VLMs)** have emerged as powerful tools for learning unified embedding spaces that integrate vision and language. Inspired by the success of large language models (LLMs), which have demonstrated remarkable reasoning and multi-task capabilities, vision large language models (VLLMs) are gaining significant attention for developing both general-purpose and specialized VLMs.
+**Vision language models (VLMs)** have emerged as powerful tools for learning unified embedding spaces that integrate vision and language. Inspired by the success of large language models (LLMs), which have demonstrated remarkable reasoning and multi-task capabilities, visual large language models (VLLMs) are gaining significant attention for developing both general-purpose and specialized VLMs.
 
 In this repository, we provide a comprehensive summary of the current literature from an application-oriented perspective. We hope this resource serves as a valuable reference for the VLLM research community.
 
