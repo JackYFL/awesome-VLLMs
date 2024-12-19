@@ -62,6 +62,7 @@ In this repository, we provide a comprehensive summary of the current literature
     - [Anomaly Detetcion](#anomaly-detetcion)
     - [Efficiency](#efficiency)
     - [Security](#security)
+    - [Gaming](#gaming)
 
 ## Existing VLM surveys
 
