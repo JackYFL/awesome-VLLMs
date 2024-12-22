@@ -580,6 +580,12 @@ In this repository, we provide a comprehensive summary of the current literature
 ### Security
 |  Name  |  Title  |   Venue  |   Date   |   Code   |   Project   |
 |:--------|:--------|:--------:|:--------:|:--------:|:--------:|
+| SynthVLM   | ![Star](https://img.shields.io/github/stars/starriver030515/SynthVLM.svg?style=social&label=Star) <br> [**Synthvlm: High-efficiency and high-quality synthetic data for vision language models**](https://arxiv.org/pdf/2407.20756) | ArXiv | 2024-8-10 | [Github](https://github.com/starriver030515/SynthVLM) | Project |
+| WolfMLLM   | ![Star](https://img.shields.io/github/stars/ChengshuaiZhao0/The-Wolf-Within.svg?style=social&label=Star) <br> [**The Wolf Within: Covert Injection of Malice into MLLM Societies via an MLLM Operative**](https://arxiv.org/pdf/2402.14859) | ArXiv | 2024-6-3 | [Github](https://github.com/ChengshuaiZhao0/The-Wolf-Within) | Project |
+| AttackMLLM   | [**Synthvlm: High-efficiency and high-quality synthetic data for vision language models**](https://arxiv.org/pdf/2405.09981) | ICLRW | 2024-5-16 | Github | Project |
+| OODCV   | ![Star](https://img.shields.io/github/stars/UCSC-VLAA/vllm-safety-benchmark.svg?style=social&label=Star) <br> [**How Many Unicorns Are in This Image? A Safety Evaluation Benchmark for Vision LLMs**](https://arxiv.org/pdf/2311.16101) | ECCV | 2023-11-27 | [Github](https://github.com/UCSC-VLAA/vllm-safety-benchmark) | Project |
+| InjectMLLM   | ![Star](https://img.shields.io/github/stars/ebagdasa/multimodal_injection.svg?style=social&label=Star) <br> [**(ab) using images and sounds for indirect instruction injection in multi-modal llms**](https://arxiv.org/pdf/2307.10490) | ArXiv | 2023-10-3 | [Github](https://github.com/ebagdasa/multimodal_injection) | Project |
+| AdvMLLM   | [**On the Adversarial Robustness of Multi-Modal Foundation Models**](https://arxiv.org/pdf/2308.10741) | ICCVW | 2023-8-21 | Github | Project |
 
 [<u><🎯Back to Top></u>](#head-content)
 
