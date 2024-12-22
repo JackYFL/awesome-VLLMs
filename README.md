@@ -617,6 +617,7 @@ In this repository, we provide a comprehensive summary of the current literature
 | OODCV   | ![Star](https://img.shields.io/github/stars/UCSC-VLAA/vllm-safety-benchmark.svg?style=social&label=Star) <br> [**How Many Unicorns Are in This Image? A Safety Evaluation Benchmark for Vision LLMs**](https://arxiv.org/pdf/2311.16101) | ECCV | 2023-11-27 | [Github](https://github.com/UCSC-VLAA/vllm-safety-benchmark) | Project |
 | InjectMLLM   | ![Star](https://img.shields.io/github/stars/ebagdasa/multimodal_injection.svg?style=social&label=Star) <br> [**(ab) using images and sounds for indirect instruction injection in multi-modal llms**](https://arxiv.org/pdf/2307.10490) | ArXiv | 2023-10-3 | [Github](https://github.com/ebagdasa/multimodal_injection) | Project |
 | AdvMLLM   | [**On the Adversarial Robustness of Multi-Modal Foundation Models**](https://arxiv.org/pdf/2308.10741) | ICCVW | 2023-8-21 | Github | Project |
+
 [<u><🎯Back to Top></u>](#head-content)
 
 ### Gaming
