@@ -60,10 +60,16 @@ In this repository, we provide a comprehensive summary of the current literature
   - [Other applications](#other-applications)
     - [Face](#face)
     - [Anomaly Detetcion](#anomaly-detetcion)
+<<<<<<< HEAD
     - [Gaming](#gaming)
     - [Efficiency](#efficiency)
     - [Security](#security)
     - [Interpretability](#interpretability)
+=======
+    - [Efficiency](#efficiency)
+    - [Security](#security)
+    - [Gaming](#gaming)
+>>>>>>> origin/main
 
 ## Existing VLM surveys
 
@@ -618,6 +624,7 @@ In this repository, we provide a comprehensive summary of the current literature
 | OODCV   | ![Star](https://img.shields.io/github/stars/UCSC-VLAA/vllm-safety-benchmark.svg?style=social&label=Star) <br> [**How Many Unicorns Are in This Image? A Safety Evaluation Benchmark for Vision LLMs**](https://arxiv.org/pdf/2311.16101) | ECCV | 2023-11-27 | [Github](https://github.com/UCSC-VLAA/vllm-safety-benchmark) | Project |
 | InjectMLLM   | ![Star](https://img.shields.io/github/stars/ebagdasa/multimodal_injection.svg?style=social&label=Star) <br> [**(ab) using images and sounds for indirect instruction injection in multi-modal llms**](https://arxiv.org/pdf/2307.10490) | ArXiv | 2023-10-3 | [Github](https://github.com/ebagdasa/multimodal_injection) | Project |
 | AdvMLLM   | [**On the Adversarial Robustness of Multi-Modal Foundation Models**](https://arxiv.org/pdf/2308.10741) | ICCVW | 2023-8-21 | Github | Project |
+<<<<<<< HEAD
 
 [<u><🎯Back to Top></u>](#head-content)
 
@@ -643,9 +650,28 @@ In this repository, we provide a comprehensive summary of the current literature
 | Title                                                                                                                                                                                                                                           |          Venue          |    Date    |  Code  |                                     Project                                     |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------: | :--------: | :----: | :-----------------------------------------------------------------------------: |
 | LLaVA-CAM    | ![Star](https://img.shields.io/github/stars/zhangbaijin/From-Redundancy-to-Relevance.svg?style=social&label=Star) <br> [**From Redundancy to Relevance: Information Flow in LVLMs Across Reasoning Tasks**](https://arxiv.org/pdf/2406.06579)         |         ArXiv         | 2024-10-17 | [Github](https://github.com/zhangbaijin/From-Redundancy-to-Relevance)  |     Project     |
+=======
+>>>>>>> origin/main
 
 [<u><🎯Back to Top></u>](#head-content)
 
+### Gaming
+
+| Name        | Title                                                                                                                                                                                                                                      |         Venue         |    Date    |                        Code                        |                          Project                          |
+| :---------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------: | :--------: | :------------------------------------------------: | :-------------------------------------------------------: |
+| ADAM        | ![Star](https://img.shields.io/github/stars/OpenCausaLab/ADAM.svg?style=social&label=Star) <br> [**Adam: An Embodied Causal Agent in Open-World Environments**](https://arxiv.org/pdf/2410.22194)                                          |         ArXiv         | 2024-10-29 |   [Github](https://github.com/OpenCausaLab/ADAM)   |      [Project](https://opencausalab.github.io/ADAM/)      |
+| VARP        | [**Can VLMs Play Action Role-Playing Games? Take Black Myth Wukong as a Study Case**](https://arxiv.org/pdf/2409.12889)                                                                                                                    |         ArXiv         | 2024-09-19 |                       Github                       |         [Project](https://varp-agent.github.io/)          |
+| DLLM        | ![Star](https://img.shields.io/github/stars/IranQin/MP5.svg?style=social&label=Star) <br> [**World Models with Hints of Large Language Models for Goal Achieving**](https://arxiv.org/pdf/2403.03186)                                      |         ArXiv         | 2024-06-11 |                       Github                       |                          Project                          |
+| MineDreamer | ![Star](https://img.shields.io/github/stars/Zhoues/MineDreamer.svg?style=social&label=Star) <br> [**MineDreamer: Learning to Follow Instructions via Chain-of-Imagination for Simulated-World Control**](https://arxiv.org/pdf/2403.12037) | NeurIPS 2024 Workshop | 2024-03-18 |  [Github](https://github.com/Zhoues/MineDreamer)   | [Project](https://sites.google.com/view/minedreamer/main) |
+| HAS         | [**Hierarchical Auto-Organizing System for Open-Ended Multi-Agent Navigation**](https://arxiv.org/pdf/2403.08282v1)                                                                                                                        |         ICLR          | 2024-03-13 |                       Github                       |                          Project                          |
+| CRADLE      | ![Star](https://img.shields.io/github/stars/BAAI-Agents/Cradle.svg?style=social&label=Star) <br> [**CRADLE: Empowering Foundation Agents Towards General Computer Control**](https://arxiv.org/pdf/2403.03186)                             |         ArXiv         | 2024-03-05 |  [Github](https://github.com/BAAI-Agents/Cradle)   |     [Project](https://baai-agents.github.io/Cradle/)      |
+| Atari-GPT   | [**Atari-GPT: Benchmarking Multimodal Large Language Models as Low-Level Policies in Atari Games**](https://arxiv.org/abs/2408.15950)                                                                                                      |         ArXiv         | 2024-03-05 |                       Github                       |      [Project](https://dev1nw.github.io/atari-gpt/)       |
+| MP5         | ![Star](https://img.shields.io/github/stars/IranQin/MP5.svg?style=social&label=Star) <br> [**MP5: A Multi-modal Open-ended Embodied System in Minecraft via Active Perception**](https://arxiv.org/pdf/2403.03186)                         |         CVPR          | 2023-12-12 |      [Github](https://github.com/IranQin/MP5)      |    [Project](https://iranqin.github.io/MP5.github.io/)    |
+| STEVE       | ![Star](https://img.shields.io/github/stars/rese1f/STEVE.svg?style=social&label=Star) <br> [**See and Think: Embodied Agent in Virtual Environment**](https://arxiv.org/pdf/2311.15209)                                                    |         ECCV          | 2023-11-26 |     [Github](https://github.com/rese1f/STEVE)      |        [Project](https://rese1f.github.io/STEVE/)         |
+| STEVE-EYE   | ![Star](https://img.shields.io/github/stars/BAAI-Agents/Steve-Eye.svg?style=social&label=Star) <br> [**Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds**](https://arxiv.org/pdf/2403.03186)           |         ICLR          | 2023-10-20 | [Github](https://github.com/BAAI-Agents/Steve-Eye) |    [Project](https://sites.google.com/view/steve-eye)     |
+| JARVIS-1    | ![Star](https://img.shields.io/github/stars/CraftJarvis/JARVIS-1.svg?style=social&label=Star) <br> [**JARVIS-1: Open-world Multi-task Agents with Memory-Augmented Multimodal Language Models**](https://arxiv.org/pdf/2403.03186)         |         ArXiv         | 2023-10-11 | [Github](https://github.com/CraftJarvis/JARVIS-1)  |     [Project](https://craftjarvis-jarvis1.github.io/)     |
+
+[<u><🎯Back to Top></u>](#head-content)
 
 ## <span id="head8"> Contributors </span>
 
