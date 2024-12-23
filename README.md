@@ -60,9 +60,10 @@ In this repository, we provide a comprehensive summary of the current literature
   - [Other applications](#other-applications)
     - [Face](#face)
     - [Anomaly Detetcion](#anomaly-detetcion)
+    - [Gaming](#gaming)
     - [Efficiency](#efficiency)
     - [Security](#security)
-    - [Gaming](#gaming)
+    - [Interpretability](#interpretability)
 
 ## Existing VLM surveys
 
@@ -637,6 +638,14 @@ In this repository, we provide a comprehensive summary of the current literature
 | JARVIS-1    | ![Star](https://img.shields.io/github/stars/CraftJarvis/JARVIS-1.svg?style=social&label=Star) <br> [**JARVIS-1: Open-world Multi-task Agents with Memory-Augmented Multimodal Language Models**](https://arxiv.org/pdf/2403.03186)         |         ArXiv         | 2023-10-11 | [Github](https://github.com/CraftJarvis/JARVIS-1)  |     [Project](https://craftjarvis-jarvis1.github.io/)     |
 
 [<u><🎯Back to Top></u>](#head-content)
+
+### Interpretability
+| Title                                                                                                                                                                                                                                           |          Venue          |    Date    |  Code  |                                     Project                                     |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------: | :--------: | :----: | :-----------------------------------------------------------------------------: |
+| LLaVA-CAM    | ![Star](https://img.shields.io/github/stars/zhangbaijin/From-Redundancy-to-Relevance.svg?style=social&label=Star) <br> [**From Redundancy to Relevance: Information Flow in LVLMs Across Reasoning Tasks**](https://arxiv.org/pdf/2406.06579)         |         ArXiv         | 2024-10-17 | [Github](https://github.com/zhangbaijin/From-Redundancy-to-Relevance)  |     Project     |
+
+[<u><🎯Back to Top></u>](#head-content)
+
 
 ## <span id="head8"> Contributors </span>
 
