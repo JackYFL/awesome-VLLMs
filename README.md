@@ -60,16 +60,11 @@ In this repository, we provide a comprehensive summary of the current literature
   - [Other applications](#other-applications)
     - [Face](#face)
     - [Anomaly Detetcion](#anomaly-detetcion)
-<<<<<<< HEAD
     - [Gaming](#gaming)
     - [Efficiency](#efficiency)
     - [Security](#security)
     - [Interpretability](#interpretability)
-=======
-    - [Efficiency](#efficiency)
-    - [Security](#security)
-    - [Gaming](#gaming)
->>>>>>> origin/main
+    
 
 ## Existing VLM surveys
 
@@ -651,7 +646,7 @@ In this repository, we provide a comprehensive summary of the current literature
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------: | :--------: | :----: | :-----------------------------------------------------------------------------: |
 | LLaVA-CAM    | ![Star](https://img.shields.io/github/stars/zhangbaijin/From-Redundancy-to-Relevance.svg?style=social&label=Star) <br> [**From Redundancy to Relevance: Information Flow in LVLMs Across Reasoning Tasks**](https://arxiv.org/pdf/2406.06579)         |         ArXiv         | 2024-10-17 | [Github](https://github.com/zhangbaijin/From-Redundancy-to-Relevance)  |     Project     |
 =======
->>>>>>> origin/main
+
 
 [<u><🎯Back to Top></u>](#head-content)
 
