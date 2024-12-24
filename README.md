@@ -70,8 +70,8 @@ In this repository, we provide a comprehensive summary of the current literature
 
 ### VLM surveys
 
-| Name | Title | Venue | Date | Code | Project |
-| :--- | :---- | :---: | :--: | :--: | :-----: |
+| Title | Venue | Date | Code | Project |
+| :---- | :---: | :--: | :--: | :-----: |
 | ![Star](https://img.shields.io/github/stars/jingyi0000/VLM_survey.svg?style=social&label=Star) <br>[**Vision-Language Models for Vision Tasks: A Survey**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10445007) <br>                                                                  |        T-PAMI        | 2024-8-8  | Github |        [Project](https://github.com/jingyi0000/VLM_survey)         |
 | ![Star](https://img.shields.io/github/stars/Yutong-Zhou-cv/Awesome-Text-to-Image.svg?style=social&label=Star) <br> [**Vision + Language Applications: A Survey**](https://openaccess.thecvf.com/content/CVPR2023W/GCV/papers/Zhou_Vision__Language_Applications_A_Survey_CVPRW_2023_paper.pdf) <br> |        CVPRW         | 2023-5-24 | Github | [Project](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image) |
 | [**Vision-and-Language Pretrained Models: A Survey**](https://arxiv.org/pdf/2204.07356.pdf) <br>                                                                                                                                                                                                    | IJCAI (survey track) | 2022-5-3  | Github |                              Project                               |
@@ -80,8 +80,8 @@ In this repository, we provide a comprehensive summary of the current literature
 
 ### MLLM surveys
 
-| Name | Title | Venue | Date | Code | Project |
-| :--- | :---- | :---: | :--: | :--: | :-----: |
+| Title | Venue | Date | Code | Project |
+| :---- | :---: | :--: | :--: | :-----: |
 | [**Towards Explainable and Interpretable Multimodal Large Language Models: A Comprehensive Survey**](https://arxiv.org/pdf/2412.02104) <br>                                                                                                     |          ArXiv          | 2024-12-3  | Github |                                     Project                                     |
 | ![Star](https://img.shields.io/github/stars/BradyFU/Awesome-Multimodal-Large-Language-Models.svg?style=social&label=Star) <br> [**A Survey on Multimodal Large Language Models**](https://arxiv.org/pdf/2306.13549.pdf) <br>                    |         T-PAMI          | 2024-11-29 | Github | [Project](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)  |
 | ![Star](https://img.shields.io/github/stars/BradyFU/Awesome-Multimodal-Large-Language-Models.svg?style=social&label=Star) <br> [**MME-Survey: A Comprehensive Survey on Evaluation of Multimodal LLMs**](https://arxiv.org/pdf/2411.15296) <br> |          ArXiv          | 2024-11-22 | Github | [Project](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/) |
