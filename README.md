@@ -63,7 +63,7 @@ In this repository, we provide a comprehensive summary of the current literature
     - [Gaming](#gaming)
     - [Efficiency](#efficiency)
     - [Security](#security)
-    - [Interpretability](#interpretability)
+    - [Interpretability and explainability](#interpretability-and-explainability)
     
 
 ## Existing VLM surveys
@@ -645,11 +645,25 @@ In this repository, we provide a comprehensive summary of the current literature
 
 [<u><🎯Back to Top></u>](#head-content)
 
-### Interpretability
+### Interpretability and explainability
 
 | Name | Title | Venue | Date | Code | Project |
 | :--- | :---- | :---: | :--: | :--: | :-----: |
-| LLaVA-CAM    | ![Star](https://img.shields.io/github/stars/zhangbaijin/From-Redundancy-to-Relevance.svg?style=social&label=Star) <br> [**From Redundancy to Relevance: Information Flow in LVLMs Across Reasoning Tasks**](https://arxiv.org/pdf/2406.06579)         |         ArXiv         | 2024-10-17 | [Github](https://github.com/zhangbaijin/From-Redundancy-to-Relevance)  |     Project     |
+| MultiTrust    | ![Star](https://img.shields.io/github/stars/thu-ml/MMTrustEval.svg?style=social&label=Star) <br> [**MULTITRUST: A Comprehensive Benchmark Towards Trustworthy Multimodal Large Language Models**](https://arxiv.org/pdf/2406.07057) |         ArXiv         | 2024-12-6 | [Github](https://github.com/thu-ml/MMTrustEval)  |     [Project](https://multi-trust.github.io)     |
+| LexVLA    | ![Star](https://img.shields.io/github/stars/Clementine24/LexVLA.svg?style=social&label=Star) <br> [**Unified Lexical Representation for Interpretable Visual-Language Alignment**](https://arxiv.org/pdf/2407.17827) |         NeurlPS         | 2024-11-11 | [Github](https://github.com/Clementine24/LexVLA)  |     Project     |
+| MUB    | ![Star](https://img.shields.io/github/stars/Yunkai696/MUB.svg?style=social&label=Star) <br> [**Exploring Response Uncertainty in MLLMs: An Empirical Evaluation under Misleading Scenarios**](https://arxiv.org/pdf/2411.02708) |         ArXiv         | 2024-11-5 | [Github](https://github.com/Yunkai696/MUB)  |     Project     |
+| LLaVA-CAM    | ![Star](https://img.shields.io/github/stars/zhangbaijin/From-Redundancy-to-Relevance.svg?style=social&label=Star) <br> [**From Redundancy to Relevance: Information Flow in LVLMs Across Reasoning Tasks**](https://arxiv.org/pdf/2406.06579) |         ArXiv         | 2024-10-17 | [Github](https://github.com/zhangbaijin/From-Redundancy-to-Relevance)  |     Project     |
+| LLaVA-Interp    | ![Star](https://img.shields.io/github/stars/clemneo/llava-interp.svg?style=social&label=Star) <br> [**Towards Interpreting Visual Information Processing in Vision-Language Models**](https://arxiv.org/pdf/2410.07149) | ArXiv | 2024-10-9 | [Github](https://github.com/clemneo/llava-interp)  |     Project     |
+| MLLM-ONTO    | ![Star](https://img.shields.io/github/stars/jihenAM/MLLM_ONTO.svg?style=social&label=Star) <br> [**Enhancing Explainability in Multimodal Large Language Models Using Ontological Context**](https://arxiv.org/pdf/2409.18753) | ArXiv | 2024-9-27 | [Github](https://github.com/jihenAM/MLLM_ONTO)  |     Project     |
+| MLLM-Projection    | ![Star](https://img.shields.io/github/stars/claws-lab/projection-in-MLLMs.svg?style=social&label=Star) <br> [**Cross-Modal Projection in Multimodal LLMs Doesn’t Really Project Visual Attributes to Textual Space**](https://aclanthology.org/2024.acl-short.60.pdf) | ArXiv | 2024-8-9 | [Github](https://github.com/claws-lab/projection-in-MLLMs)  |     [Project](https://claws-lab.github.io/projection-in-MLLMs/)     |
+| Reason2Drive    | ![Star](https://img.shields.io/github/stars/fudan-zvg/reason2drive.svg?style=social&label=Star) <br> [**Reason2Drive: Towards Interpretable and Chain-based Reasoning for Autonomous Driving**](https://arxiv.org/pdf/2312.03661) | ECCV | 2024-7-20 | [Github](https://github.com/fudan-zvg/reason2drive)  |     Project  |
+| LVLM-LP    | ![Star](https://img.shields.io/github/stars/Qinyu-Allen-Zhao/LVLM-LP.svg?style=social&label=Star) <br> [**The First to Know: How Token Distributions Reveal Hidden Knowledge in Large Vision-Language Models?**](https://arxiv.org/pdf/2403.09037) | ECCV | 2024-7-17 | [Github](https://github.com/Qinyu-Allen-Zhao/LVLM-LP)  |     Project  |
+| Holmes-VAD    | [**Holmes-VAD: Towards Unbiased and Explainable Video Anomaly Detection via Multi-modal LLM**](https://arxiv.org/pdf/2406.12235) | ArXiv | 2024-6-18 | Github  |     Project  |
+| DeCo    | ![Star](https://img.shields.io/github/stars/yaolinli/DeCo.svg?style=social&label=Star) <br> [**DeCo: Decoupling Token Compression from Semantic Abstraction in Multimodal Large Language Models**](https://arxiv.org/pdf/2405.20985) | ICML | 2024-5-31 | [Github](https://github.com/yaolinli/DeCo)  |     Project     |
+| MAIA    | ![Star](https://img.shields.io/github/stars/multimodal-interpretability/maia.svg?style=social&label=Star) <br> [**A Multimodal Automated Interpretability Agent**](https://arxiv.org/pdf/2404.14394) | ICML | 2024-4-22 | [Github](https://github.com/multimodal-interpretability/maia)  |     [Project](https://multimodal-interpretability.csail.mit.edu/maia/)     |
+| OLIVE    | ![Star](https://img.shields.io/github/stars/jq-zh/olive-dataset.svg?style=social&label=Star) <br> [**What Are We Measuring When We Evaluate Large Vision-Language Models? An Analysis of Latent Factors and Biases**](https://arxiv.org/abs/2404.02415) | NAACL | 2024-4-3 | [Github](https://github.com/jq-zh/olive-dataset)  |     Project     |
+| BenchLMM    | ![Star](https://img.shields.io/github/stars/AIFEG/BenchLMM.svg?style=social&label=Star) <br> [**BenchLMM: Benchmarking Cross-style Visual Capability of Large Multimodal Models**](https://arxiv.org/pdf/2312.02896) | ECCV | 2023-12-6 | [Github](https://github.com/AIFEG/BenchLMM)  |     [Project](https://aifeg.github.io/BenchLMM/)     |
+| VCD    | ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/VCD.svg?style=social&label=Star) <br> [**VCD: Mitigating Object Hallucinations in Large Vision-Language Models through Visual Contrastive Decoding**](https://arxiv.org/pdf/2311.16922) | CVPR | 2023-11-28 | [Github](https://github.com/DAMO-NLP-SG/VCD)  |     Project     |
 
 
 [<u><🎯Back to Top></u>](#head-content)
