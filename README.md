@@ -16,7 +16,7 @@ In this repository, we provide a comprehensive summary of the current literature
 
 🚀 **What's New in This Update**:
 
-- [2025.1.2]: 🔥 We add more interpretation papers to our paper list, thanks the contribution of [Ruoyu](https://github.com/RuoyuChen10)!
+- [2025.1.2]: 🔥 We add more interpretation papers to our paper list, thanks for the contributions from [Ruoyu](https://github.com/RuoyuChen10)!
 - [2024.12.15]: 🔥 We release our VLLM application paper list repo!
 
 <span id="head-content"><font size=5><center><b> Table of Contents </b> </center></font></span>
