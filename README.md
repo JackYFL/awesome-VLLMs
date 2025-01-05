@@ -16,6 +16,7 @@ In this repository, we provide a comprehensive summary of the current literature
 
 🚀 **What's New in This Update**:
 
+- [2025.1.4]: 🔥 We updated the general domain and egocentric video papers in our paper list, thanks for the contributions from [Wentao](https://github.com/Cogito2012)!
 - [2025.1.2]: 🔥 We add more interpretation papers to our paper list, thanks for the contributions from [Ruoyu](https://github.com/RuoyuChen10)!
 - [2024.12.15]: 🔥 We release our VLLM application paper list repo!
 
