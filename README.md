@@ -86,7 +86,7 @@ In this repository, we provide a comprehensive summary of the current literature
 
 | Title | Venue | Date | Code | Project |
 | :---- | :---: | :--: | :--: | :-----: |
-| [**OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use**](https://openreview.net/pdf/ed2f5ee6b84c3b118cb953b6e750486dbd700419.pdf) <br>    |  ArXiv | 2024-12-27  | Github | Project |
+| [**OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use**](https://openreview.net/pdf/ed2f5ee6b84c3b118cb953b6e750486dbd700419.pdf) <br>    |  ArXiv | 2024-12-27  | Github | [Project](https://github.com/OS-Agent-Survey/OS-Agent-Survey) |
 | [**Towards Explainable and Interpretable Multimodal Large Language Models: A Comprehensive Survey**](https://arxiv.org/pdf/2412.02104) <br>                                                                                                     |          ArXiv          | 2024-12-3  | Github |                                     Project                                     |
 | ![Star](https://img.shields.io/github/stars/BradyFU/Awesome-Multimodal-Large-Language-Models.svg?style=social&label=Star) <br> [**A Survey on Multimodal Large Language Models**](https://arxiv.org/pdf/2306.13549.pdf) <br>                    |         T-PAMI          | 2024-11-29 | Github | [Project](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)  |
 | ![Star](https://img.shields.io/github/stars/BradyFU/Awesome-Multimodal-Large-Language-Models.svg?style=social&label=Star) <br> [**MME-Survey: A Comprehensive Survey on Evaluation of Multimodal LLMs**](https://arxiv.org/pdf/2411.15296) <br> |          ArXiv          | 2024-11-22 | Github | [Project](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/) |
