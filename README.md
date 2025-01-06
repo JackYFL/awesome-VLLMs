@@ -16,6 +16,7 @@ In this repository, we provide a comprehensive summary of the current literature
 
 🚀 **What's New in This Update**:
 
+- [2025.1.6]: 🔥 We add one OS Agent survey paper in our paper list, and a new category: complex reasoning!
 - [2025.1.4]: 🔥 We updated the general domain and egocentric video papers in our paper list, thanks for the contributions from [Wentao](https://github.com/Cogito2012)!
 - [2025.1.2]: 🔥 We add more interpretation papers to our paper list, thanks for the contributions from [Ruoyu](https://github.com/RuoyuChen10)!
 - [2024.12.15]: 🔥 We release our VLLM application paper list repo!
@@ -66,6 +67,7 @@ In this repository, we provide a comprehensive summary of the current literature
     - [Efficiency](#efficiency)
     - [Security](#security)
     - [Interpretability and explainability](#interpretability-and-explainability)
+    - [Complex reasoning](#complex-reasoning)
     
 
 ## Existing VLM surveys
@@ -84,6 +86,7 @@ In this repository, we provide a comprehensive summary of the current literature
 
 | Title | Venue | Date | Code | Project |
 | :---- | :---: | :--: | :--: | :-----: |
+| [**OS Agents: A Survey on MLLM-based Agents for General Computing Devices Use**](https://openreview.net/pdf/ed2f5ee6b84c3b118cb953b6e750486dbd700419.pdf) <br>    |  ArXiv | 2024-12-27  | Github | Project |
 | [**Towards Explainable and Interpretable Multimodal Large Language Models: A Comprehensive Survey**](https://arxiv.org/pdf/2412.02104) <br>                                                                                                     |          ArXiv          | 2024-12-3  | Github |                                     Project                                     |
 | ![Star](https://img.shields.io/github/stars/BradyFU/Awesome-Multimodal-Large-Language-Models.svg?style=social&label=Star) <br> [**A Survey on Multimodal Large Language Models**](https://arxiv.org/pdf/2306.13549.pdf) <br>                    |         T-PAMI          | 2024-11-29 | Github | [Project](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)  |
 | ![Star](https://img.shields.io/github/stars/BradyFU/Awesome-Multimodal-Large-Language-Models.svg?style=social&label=Star) <br> [**MME-Survey: A Comprehensive Survey on Evaluation of Multimodal LLMs**](https://arxiv.org/pdf/2411.15296) <br> |          ArXiv          | 2024-11-22 | Github | [Project](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models/) |
@@ -690,6 +693,14 @@ In this repository, we provide a comprehensive summary of the current literature
 | VCD    | ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/VCD.svg?style=social&label=Star) <br> [**VCD: Mitigating Object Hallucinations in Large Vision-Language Models through Visual Contrastive Decoding**](https://arxiv.org/pdf/2311.16922) | CVPR | 2023-11-28 | [Github](https://github.com/DAMO-NLP-SG/VCD)  |     Project     |
 | LLaVA-RLHF    | ![Star](https://img.shields.io/github/stars/llava-rlhf/LLaVA-RLHF.svg?style=social&label=Star) <br> [**LLaVA-RLHF: Aligning Large Multimodal Models with Factually Augmented RLHF**](https://arxiv.org/pdf/2309.14525) | ArXiv | 2023-9-25 | [Github](https://github.com/llava-rlhf/LLaVA-RLHF)  |     [Project](https://llava-rlhf.github.io/)     |
 
+
+[<u><🎯Back to Top></u>](#head-content)
+### Interpretability and explainability
+
+| Name | Title | Venue | Date | Code | Project |
+| :--- | :---- | :---: | :--: | :--: | :-----: |
+| Virgo    | ![Star](https://img.shields.io/github/stars/PKU-RUCAIBox/Virgo.svg?style=social&label=Star) <br> [**Virgo: A Preliminary Exploration on Reproducing o1-like MLLM**](https://arxiv.org/pdf/2501.01904) | ArXiv | 2025-1-3 | [Github](https://github.com/RUCAIBox/Virgo)  |     Project     |
+| LLaVA-CoT    | ![Star](https://img.shields.io/github/stars/PKU-YuanGroup/LLaVA-CoT.svg?style=social&label=Star) <br> [**LLaVA-CoT: Let Vision Language Models Reason Step-by-Step**](https://arxiv.org/pdf/2411.10440) | ArXiv | 2024-11-25 | [Github](https://github.com/PKU-YuanGroup/LLaVA-CoT)  |     [Project](https://huggingface.co/spaces/Xkev/Llama-3.2V-11B-cot)     |
 
 [<u><🎯Back to Top></u>](#head-content)
 
