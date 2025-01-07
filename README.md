@@ -15,7 +15,7 @@ In this repository, we provide a comprehensive summary of the current literature
 ## 📢 News
 
 🚀 **What's New in This Update**:
-
+- [2025.1.7]: 🔥🔥🔥 Our survey paper is released! Please check this [link](https://arxiv.org/pdf/2501.02765) for more information.
 - [2025.1.6]: 🔥 We add one OS Agent survey paper in our paper list, and a new category: complex reasoning!
 - [2025.1.4]: 🔥 We updated the general domain and egocentric video papers in our paper list, thanks for the contributions from [Wentao](https://github.com/Cogito2012)!
 - [2025.1.2]: 🔥 We add more interpretation papers to our paper list, thanks for the contributions from [Ruoyu](https://github.com/RuoyuChen10)!
