@@ -1,6 +1,6 @@
 # Awesome Visual Large Language Models (VLLMs)
 
-## 🔥🔥🔥 Visual Large Language Models for Generalized and Specialized Applications
+## 🔥🔥🔥 [Visual Large Language Models for Generalized and Specialized Applications](https://arxiv.org/pdf/2501.02765)
 
 <p align="center">
     <img src="assets/VLM_revolution.png" width="90%" height="90%">
