@@ -15,6 +15,7 @@ In this repository, we provide a comprehensive summary of the current literature
 ## 📢 News
 
 🚀 **What's New in This Update**:
+- [2025.1.13]: 🔥 Adding one VFM survey paper!
 - [2025.1.12]: 🔥 Adding one  efficient MLLM paper!
 - [2025.1.9]: 🔥🔥🔥 Adding one  efficient MLLM survey!
 - [2025.1.7]: 🔥🔥🔥 Our survey paper is released! Please check this [link](https://arxiv.org/pdf/2501.02765) for more information. We add more tool management papers in our paper list.
@@ -78,6 +79,7 @@ In this repository, we provide a comprehensive summary of the current literature
 
 | Title | Venue | Date | Code | Project |
 | :---- | :---: | :--: | :--: | :-----: |
+| ![Star](https://img.shields.io/github/stars/awaisrauf/Awesome-CV-Foundational-Models.svg?style=social&label=Star) <br>[**Foundation Models Defining a New Era in Vision: A Survey and Outlook**](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10834497) <br>  |        T-PAMI        | 2025-1-9  | Github |        [Project](https://github.com/awaisrauf/Awesome-CV-Foundational-Models)         |
 | ![Star](https://img.shields.io/github/stars/jingyi0000/VLM_survey.svg?style=social&label=Star) <br>[**Vision-Language Models for Vision Tasks: A Survey**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10445007) <br>                                                                  |        T-PAMI        | 2024-8-8  | Github |        [Project](https://github.com/jingyi0000/VLM_survey)         |
 | ![Star](https://img.shields.io/github/stars/Yutong-Zhou-cv/Awesome-Text-to-Image.svg?style=social&label=Star) <br> [**Vision + Language Applications: A Survey**](https://openaccess.thecvf.com/content/CVPR2023W/GCV/papers/Zhou_Vision__Language_Applications_A_Survey_CVPRW_2023_paper.pdf) <br> |        CVPRW         | 2023-5-24 | Github | [Project](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image) |
 | [**Vision-and-Language Pretrained Models: A Survey**](https://arxiv.org/pdf/2204.07356.pdf) <br>                                                                                                                                                                                                    | IJCAI (survey track) | 2022-5-3  | Github |                              Project                               |
