@@ -1,5 +1,7 @@
 # Awesome Visual Large Language Models (VLLMs)
-
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 ## 🔥🔥🔥 [Visual Large Language Models for Generalized and Specialized Applications](https://arxiv.org/pdf/2501.02765)
 
 <p align="center">
@@ -24,7 +26,7 @@ In this repository, we provide a comprehensive summary of the current literature
 - [2025.1.2]: 🔥 We add more interpretation papers to our paper list, thanks for the contributions from [Ruoyu](https://github.com/RuoyuChen10)!
 - [2024.12.15]: 🔥 We release our VLLM application paper list repo!
 
-<span id="head-content"><font size=5><center><b> Table of Contents </b> </center></font></span>
+<span id="head-content"><font size=5><center><b> :rainbow: Table of Contents </b> </center></font></span>
 
 - [Visual Large Language Models for Generalized and Specialized Applications](#awesome-vllms)
   - [Existing VLM surveys](#existing-vlm-surveys)
