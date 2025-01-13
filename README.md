@@ -15,6 +15,7 @@ In this repository, we provide a comprehensive summary of the current literature
 ## 📢 News
 
 🚀 **What's New in This Update**:
+- [2025.1.12]: 🔥 Adding one  efficient MLLM paper!
 - [2025.1.9]: 🔥🔥🔥 Adding one  efficient MLLM survey!
 - [2025.1.7]: 🔥🔥🔥 Our survey paper is released! Please check this [link](https://arxiv.org/pdf/2501.02765) for more information. We add more tool management papers in our paper list.
 - [2025.1.6]: 🔥 We add one OS Agent survey paper in our paper list, and a new category: complex reasoning!
