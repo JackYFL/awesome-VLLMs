@@ -88,7 +88,7 @@ In this repository, we provide a comprehensive summary of the current literature
 | ![Star](https://img.shields.io/github/stars/Yutong-Zhou-cv/Awesome-Text-to-Image.svg?style=social&label=Star) <br> [**Vision + Language Applications: A Survey**](https://openaccess.thecvf.com/content/CVPR2023W/GCV/papers/Zhou_Vision__Language_Applications_A_Survey_CVPRW_2023_paper.pdf) <br> |        CVPRW         | 2023-5-24 | Github | [Project](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image) |
 | [**Vision-and-Language Pretrained Models: A Survey**](https://arxiv.org/pdf/2204.07356.pdf) <br>                                                                                                                                                                                                    | IJCAI (survey track) | 2022-5-3  | Github |                              Project                               |
 
-[<u><🎯Back to Top></u>](#head-content)
+[<u>🎯Back to Top</u>](#head-content)
 
 ### MLLM surveys
 
@@ -111,7 +111,7 @@ In this repository, we provide a comprehensive summary of the current literature
 | [**Visual Instruction Tuning towards General-Purpose Multimodal Model: A Survey**](https://arxiv.org/pdf/2312.16602) <br>                                                                                                                       |          ArXiv          | 2023-12-27 | Github |                                     Project                                     |
 | [**Multimodal Large Language Models: A Survey**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10386743) <br>                                                                                                                        |         BigData         | 2023-12-15 | Github |                                     Project                                     |
 
-[<u><🎯Back to Top></u>](#head-content)
+[<u>🎯Back to Top</u>](#head-content)
 
 ## Vision-to-text
 
@@ -167,7 +167,7 @@ In this repository, we provide a comprehensive summary of the current literature
 | Kosmos-1            | ![Star](https://img.shields.io/github/stars/microsoft/unilm.svg?style=social&label=Star) <br> [**Language Is Not All You Need: Aligning Perception with Language Models**](https://arxiv.org/pdf/2302.14045)                                                       | NeurIPS | 2023-02-27 |                    [Github](https://github.com/microsoft/unilm)                    |                               Project                               |
 | Flamingo            | ![Star](https://img.shields.io/github/stars/mlfoundations/open_flamingo.svg?style=social&label=Star) <br> [**Flamingo: a Visual Language Model for Few-Shot Learning**](https://arxiv.org/pdf/2204.14198)                                                          | NeurIPS | 2022-04-29 |              [Github](https://github.com/mlfoundations/open_flamingo)              |                               Project                               |
 
-[<u><🎯Back to Top></u>](#head-content)
+[<u>🎯Back to Top</u>](#head-content)
 
 ##### REC
 
@@ -208,7 +208,7 @@ In this repository, we provide a comprehensive summary of the current literature
 | DetGPT          | ![Star](https://img.shields.io/github/stars/OptimalScale/DetGPT.svg?style=social&label=Star) <br> [**DetGPT: Detect What You Need via Reasoning**](https://arxiv.org/pdf/2305.14167)                                                                   |  ArXiv  | 2023-05-23 | [Github](https://github.com/OptimalScale/DetGPT)                  | [Project](https://detgpt.github.io/)                    |
 | VisionLLM       | ![Star](https://img.shields.io/github/stars/OpenGVLab/VisionLLM.svg?style=social&label=Star) <br> [**VisionLLM: Large Language Model is also an Open-Ended Decoder for Vision-Centric Tasks**](https://arxiv.org/pdf/2305.11175)                       |  ArXiv  | 2023-05-18 | [Github](https://github.com/OpenGVLab/VisionLLM)                  | Project                                                 |
 
-[<u><🎯Back to Top></u>](#head-content)
+[<u>🎯Back to Top</u>](#head-content)
 
 ##### RES
 
@@ -234,7 +234,7 @@ In this repository, we provide a comprehensive summary of the current literature
 | ContextDET  | ![Star](https://img.shields.io/github/stars/yuhangzang/ContextDET.svg?style=social&label=Star) <br> [**Contextual Object Detection with Multimodal Large Language Models**](https://arxiv.org/pdf/2305.18279)                                          |  ArXiv  | 2023-05-29 |                   [Github](https://github.com/yuhangzang/ContextDET)                    |                         Project                         |
 | VisionLLM   | ![Star](https://img.shields.io/github/stars/OpenGVLab/VisionLLM.svg?style=social&label=Star) <br> [**VisionLLM: Large Language Model is also an Open-Ended Decoder for Vision-Centric Tasks**](https://arxiv.org/pdf/2305.11175)                       |  ArXiv  | 2023-05-18 |                    [Github](https://github.com/OpenGVLab/VisionLLM)                     |                         Project                         |
 
-[<u><🎯Back to Top></u>](#head-content)
+[<u>🎯Back to Top</u>](#head-content)
 
 ##### OCR
 
@@ -260,7 +260,7 @@ In this repository, we provide a comprehensive summary of the current literature
 | mPLUG-DocOwl             | ![Star](https://img.shields.io/github/stars/X-PLUG/mPLUG-DocOwl.svg?style=social&label=Star) <br> [**mPLUG-DocOwl: Modularized Multimodal Large Language Model for Document Understanding**](https://arxiv.org/abs/2307.02499)                                     |  ArXiv  | 2023-07-04 |                       [Github](https://github.com/X-PLUG/mPLUG-DocOwl)                       |               Project                |
 | LLaVAR                   | ![Star](https://img.shields.io/github/stars/SALT-NLP/LLaVAR.svg?style=social&label=Star) <br> [**LLaVAR: Enhanced Visual Instruction Tuning for Text-Rich Image Understanding**](https://arxiv.org/abs/2306.17107)                                                 |  ArXiv  | 2023-06-29 |                         [Github](https://github.com/SALT-NLP/LLaVAR)                         | [Project](https://llavar.github.io/) |
 
-[<u><🎯Back to Top></u>](#head-content)
+[<u>🎯Back to Top</u>](#head-content)
 
 ##### Retrieval
 
@@ -271,7 +271,7 @@ In this repository, we provide a comprehensive summary of the current literature
 | Wiki-LLaVA | [**Wiki-LLaVA: Hierarchical Retrieval-Augmented Generation for Multimodal LLMs**](https://arxiv.org/abs/2404.15406)                                                                                           | CVPR  | 2023-04-23 |                   [Github]()                    |                     Project                      |
 | UniMuR     | [**Unified Embeddings for Multimodal Retrieval via Frozen LLMs**](https://arxiv.org/abs/1905.03197)                                                                                                           | ICML  | 2019-05-08 |                   [Github]()                    |                     Project                      |
 
-[<u><🎯Back to Top></u>](#head-content)
+[<u>🎯Back to Top</u>](#head-content)
 
 #### VLLM+X
 
@@ -289,7 +289,7 @@ In this repository, we provide a comprehensive summary of the current literature
 | GeoChat   | ![Star](https://img.shields.io/github/stars/mbzuai-oryx/geochat.svg?style=social&label=Star) <br> [**GeoChat: Grounded Large Vision-Language Model for Remote Sensing**](https://arxiv.org/pdf/2311.15826) <br>                                                       |     CVPR     | 2023-11-24 |   [Github](https://github.com/mbzuai-oryx/geochat)   | [Project](https://mbzuai-oryx.github.io/GeoChat/) |
 | RSGPT     | ![Star](https://img.shields.io/github/stars/Lavender105/RSGPT.svg?style=social&label=Star) <br> [**RSGPT: A Remote Sensing Vision Language Model and Benchmark**](https://arxiv.org/pdf/2307.15266) <br>                                                              |    ArXiv     | 2023-07-28 |    [Github](https://github.com/Lavender105/RSGPT)    |                      Project                      |
 
-[<u><🎯Back to Top></u>](#head-content)
+[<u>🎯Back to Top</u>](#head-content)
 
 ##### Medical
 
@@ -305,7 +305,7 @@ In this repository, we provide a comprehensive summary of the current literature
 | LLaVA-Med      | ![Star](https://img.shields.io/github/stars/microsoft/LLaVA-Med.svg?style=social&label=Star) <br> [**LLaVA-Med: Training a Large Language-and-Vision Assistant for Biomedicine in One Day**](https://arxiv.org/pdf/2306.00890) <br>                 | NeurIPS | 2023-06-01 |    [Github](https://github.com/microsoft/LLaVA-Med)     | Project |
 | CXR-RePaiR-Gen | [**Retrieval Augmented Chest X-Ray Report Generation using OpenAI GPT models**](https://arxiv.org/pdf/2305.03660) <br>                                                                                                                              |  MLHC   | 2023-05-05 |                         Github                          | Project |
 
-[<u><🎯Back to Top></u>](#head-content)
+[<u>🎯Back to Top</u>](#head-content)
 
 ##### Science and math
 
@@ -324,7 +324,7 @@ In this repository, we provide a comprehensive summary of the current literature
 | T-SciQ         | ![Star](https://img.shields.io/github/stars/T-SciQ/T-SciQ.svg?style=social&label=Star) <br> [**T-SciQ: Teaching Multimodal Chain-of-Thought Reasoning via Mixed Large Language Model Signals for Science Question Answering**](https://arxiv.org/pdf/2305.03453) <br> |  AAAI   | 2023-12-18 |             [Github](https://github.com/T-SciQ/T-SciQ)              |                   Project                    |
 | ScienceQA      | ![Star](https://img.shields.io/github/stars/lupantech/ScienceQA.svg?style=social&label=Star) <br> [**Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering**](https://arxiv.org/pdf/2209.09513) <br>                               | NeurIPS | 2022-10-17 |          [Github](https://github.com/lupantech/ScienceQA)           |   [Project](https://scienceqa.github.io/)    |
 
-[<u><🎯Back to Top></u>](#head-content)
+[<u>🎯Back to Top</u>](#head-content)
 
 ##### Graphics and UI
 
@@ -334,7 +334,7 @@ In this repository, we provide a comprehensive summary of the current literature
 | Ferret-UI | [**Ferret-UI: Grounded Mobile UI Understanding with Multimodal LLMs**](https://arxiv.org/pdf/2404.05719) <br>                                                                                    | ECCV  | 2024-04-08 |                         Github                          | Project |
 | CogAgent  | ![Star](https://img.shields.io/github/stars/THUDM/CogVLM.svg?style=social&label=Star) <br> [**CogAgent: A Visual Language Model for GUI Agents**](https://arxiv.org/pdf/2312.08914) <br>         | CVPR  | 2023-12-21 |        [Github](https://github.com/THUDM/CogVLM)        | Project |
 
-[<u><🎯Back to Top></u>](#head-content)
+[<u>🎯Back to Top</u>](#head-content)
 
 ##### Financial analysis
 
@@ -343,7 +343,7 @@ In this repository, we provide a comprehensive summary of the current literature
 | FinTral    | [**FinTral: A Family of GPT-4 Level Multimodal Financial Large Language Models**](https://arxiv.org/pdf/2402.10986) <br>                                                                                                |  ACL  | 2024-06-14 |                     Github                     | Project |
 | FinVis-GPT | ![Star](https://img.shields.io/github/stars/wwwadx/FinVis-GPT.svg?style=social&label=Star) <br> [**FinVis-GPT: A Multimodal Large Language Model for Financial Chart Analysis**](https://arxiv.org/pdf/2308.01430) <br> | ArXiv | 2023-07-31 | [Github](https://github.com/wwwadx/FinVis-GPT) | Project |
 
-[<u><🎯Back to Top></u>](#head-content)
+[<u>🎯Back to Top</u>](#head-content)
 
 ### Video-to-text
 
@@ -369,7 +369,7 @@ In this repository, we provide a comprehensive summary of the current literature
 | LaViLa | ![Star](https://img.shields.io/github/stars/facebookresearch/LaViLa) <br> [Learning Video Representations from Large Language Models](https://arxiv.org/abs/2212.04501) | CVPR | 2022-12-08 | [Github](https://github.com/facebookresearch/LaViLa) | [Project](https://facebookresearch.github.io/LaViLa/) |
 | VideoBERT | ![Star](https://img.shields.io/github/stars/ammesatyajit/VideoBERT) <br> [VideoBERT: A joint model for video and language representation learning](https://arxiv.org/pdf/1904.01766) <br> | ICCV | 2019-09-11 | [Github](https://github.com/ammesatyajit/VideoBERT) | Project | 
 
-[<u><🎯Back to Top></u>](#head-content)
+[<u>🎯Back to Top</u>](#head-content)
 
 #### Video conversation
 
@@ -384,7 +384,7 @@ In this repository, we provide a comprehensive summary of the current literature
 | VideoChat     | ![Star](https://img.shields.io/github/stars/OpenGVLab/Ask-Anything) <br> [VideoChat: Chat-Centric Video Understanding](https://arxiv.org/pdf/2305.06355)                                                 | ArXiv | 2024-01-04 |  [Github](https://github.com/OpenGVLab/Ask-Anything)   |                 Project                 |
 | Valley        | ![Star](https://img.shields.io/github/stars/RupertLuo/Valley) <br> [Valley: Video Assistant with Large Language model Enhanced abilitY](https://arxiv.org/abs/2306.07207)                                | ArXiv | 2023-10-08 |     [Github](https://github.com/RupertLuo/Valley)      | [Project](https://valley-vl.github.io/) |
 
-[<u><🎯Back to Top></u>](#head-content)
+[<u>🎯Back to Top</u>](#head-content)
 #### Egocentric view
 |  Name  |  Title  |   Venue  |   Date   |   Code   |   Project   |
 |:--------|:--------|:--------:|:--------:|:--------:|:--------:|
@@ -396,7 +396,7 @@ In this repository, we provide a comprehensive summary of the current literature
 | LLM-Brain | [LLM as A Robotic Brain: Unifying Egocentric Memory and Control](https://arxiv.org/pdf/2304.09349v2) | ArXiv | 2023-04-25 | Github | Project |
 | LaViLa | ![Star](https://img.shields.io/github/stars/facebookresearch/LaViLa) <br> [Learning Video Representations from Large Language Models](https://arxiv.org/abs/2212.04501) | CVPR | 2022-12-08 | [Github](https://github.com/facebookresearch/LaViLa) | [Project](https://facebookresearch.github.io/LaViLa/) |
 
-[<u><🎯Back to Top></u>](#head-content)
+[<u>🎯Back to Top</u>](#head-content)
 
 ## Vision-to-action
 
@@ -413,7 +413,7 @@ In this repository, we provide a comprehensive summary of the current literature
 | LiDAR-LLM   | [**LiDAR-LLM: Exploring the Potential of Large Language Models for 3D LiDAR Understanding**](https://arxiv.org/pdf/2312.14074v1) <br>                                                                                                                                          | CoRR  | 2023-12-21 |                        Github                        | [Project](https://sites.google.com/view/lidar-llm) |
 | Dolphis     | ![Star](https://img.shields.io/github/stars/SaFoLab-WISC/Dolphins.svg?style=social&label=Star) <br> [**Dolphins: Multimodal Language Model for Driving**](https://arxiv.org/abs/2312.00438) <br>                                                                               | ArXiv | 2023-12-1  |  [Github](https://github.com/SaFoLab-WISC/Dolphins)  |      [Project](https://vlm-driver.github.io/)      |
 
-[<u><🎯Back to Top></u>](#head-content)
+[<u>🎯Back to Top</u>](#head-content)
 
 #### Planning
 
@@ -427,7 +427,7 @@ In this repository, we provide a comprehensive summary of the current literature
 | GPT-Driver    | ![Star](https://img.shields.io/github/stars/PointsCoder/GPT-Driver.svg?style=social&label=Star) <br> [**DGPT-Driver: Learning to Drive with GPT**](https://arxiv.org/abs/2402.12289) <br>                                                                                             | NeurlPS Workshop | 2023-12-5  |                      [Github](https://github.com/PointsCoder/GPT-Driver)                       |   [Project](https://pointscoder.github.io/projects/gpt_driver/index.html)    |
 | ADriver-I     | [**ADriver-I: A General World Model for Autonomous Driving**](https://arxiv.org/pdf/2311.13549) <br>                                                                                                                                                                                  |      ArXiv       | 2023-11-22 |                                             Github                                             |                                   Project                                    |
 
-[<u><🎯Back to Top></u>](#head-content)
+[<u>🎯Back to Top</u>](#head-content)
 
 #### Prediction
 
@@ -436,7 +436,7 @@ In this repository, we provide a comprehensive summary of the current literature
 | BEV-InMLLM     | ![Star](https://img.shields.io/github/stars/xmed-lab/NuInstruct.svg?style=social&label=Star) <br> [**Holistic autonomous driving understanding by bird’s-eye-view injected multi-Modal large model**](https://openaccess.thecvf.com/content/CVPR2024/papers/Ding_Holistic_Autonomous_Driving_Understanding_by_Birds-Eye-View_Injected_Multi-Modal_Large_Models_CVPR_2024_paper.pdf) <br> | CVPR  | 2024-1-2 |     [Github](https://github.com/xmed-lab/NuInstruct)     | Project |
 | Prompt4Driving | ![Star](https://img.shields.io/github/stars/wudongming97/Prompt4Driving.svg?style=social&label=Star) <br> [**Language Prompt for Autonomous Driving**](https://arxiv.org/pdf/2309.04379) <br>                                                                                                                                                                                            | ArXiv | 2023-9-8 | [Github](https://github.com/wudongming97/Prompt4Driving) | Project |
 
-[<u><🎯Back to Top></u>](#head-content)
+[<u>🎯Back to Top</u>](#head-content)
 
 ### Embodied AI
 
@@ -450,7 +450,7 @@ In this repository, we provide a comprehensive summary of the current literature
 | WREPLAN        | [**REPLAN: Robotic Replanning with Perception and Language Models**](https://arxiv.org/pdf/2401.04157) <br>                                                                                                                                                                                                                         | ArXiv | 2024-2-20 |                                    Github                                    | [Project](https://replan-lm.github.io/replan.github.io/) |
 | PaLM-E         | [**PaLM-E: An Embodied Multimodal Language Model**](https://arxiv.org/pdf/2303.03378) <br>                                                                                                                                                                                                                                          | ICML  | 2023-3-6  |                                    Github                                    |           [Project](https://palm-e.github.io)            |
 
-[<u><🎯Back to Top></u>](#head-content)
+[<u>🎯Back to Top</u>](#head-content)
 
 #### Manipulation
 
@@ -465,7 +465,7 @@ In this repository, we provide a comprehensive summary of the current literature
 | RT-2         | [**RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control**](https://robotics-transformer2.github.io/assets/rt2.pdf) <br>                                                                                                 | ArXiv | 2023-7-28  |                             Github                             | [Project](https://robotics-transformer-x.github.io) |
 | Instruct2Act | ![Star](https://img.shields.io/github/stars/OpenGVLab/Instruct2Act.svg?style=social&label=Star) <br> [**Instruct2Act: Mapping Multi-modality Instructions to Robotic Actions with Large Language Model**](https://arxiv.org/pdf/2305.11176) <br> | ArXiv | 2023-5-24  |      [Github](https://github.com/OpenGVLab/Instruct2Act)       |                       Project                       |
 
-[<u><🎯Back to Top></u>](#head-content)
+[<u>🎯Back to Top</u>](#head-content)
 
 #### Planning
 
@@ -479,7 +479,7 @@ In this repository, we provide a comprehensive summary of the current literature
 | 3D-LLM      | ![Star](https://img.shields.io/github/stars/UMass-Foundation-Model/3D-LLM.svg?style=social&label=Star) <br> [**3D-LLM: Injecting the 3D World into Large Language Models**](https://arxiv.org/abs/2307.12981) <br>                                                                                                                                    | NeurlPS | 2023-7-24  |  [Github](https://github.com/UMass-Foundation-Model/3D-LLM)  |   [Project](hhttps://vis-www.cs.umass.edu/3dllm/)   |
 | NLMap       | ![Star](https://img.shields.io/github/stars/ericrosenbrown/nlmap_spot.svg?style=social&label=Star) <br> [**Open-vocabulary Queryable Scene Representations for Real World Planning**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10161534) <br>                                                                                         |  ICRA   |  2023-7-4  |    [Github](https://github.com/ericrosenbrown/nlmap_spot)    |      [Project](https://nlmap-saycan.github.io)      |
 
-[<u><🎯Back to Top></u>](#head-content)
+[<u>🎯Back to Top</u>](#head-content)
 
 #### Navigation
 
@@ -491,7 +491,7 @@ In this repository, we provide a comprehensive summary of the current literature
 | VLN-VER       | ![Star](https://img.shields.io/github/stars/DefaultRui/VLN-VER.svg?style=social&label=Star) <br> [**Volumetric Environment Representation for Vision-Language Navigation**](https://arxiv.org/pdf/2403.14158) <br>                                                           | CVPR  | 2024-3-24 |       [Github](https://github.com/DefaultRui/VLN-VER)        |                      Project                      |
 | MultiPLY      | ![Star](https://img.shields.io/github/stars/UMass-Foundation-Model/MultiPLY.svg?style=social&label=Star) <br> [**MultiPLY: A Multisensory Object-Centric Embodied Large Language Model in 3D World**](https://arxiv.org/abs/2401.08577) <br>                                 | CVPR  | 2024-1-16 | [Github](https://github.com/UMass-Foundation-Model/MultiPLY) | [Project](https://vis-www.cs.umass.edu/multiply/) |
 
-[<u><🎯Back to Top></u>](#head-content)
+[<u>🎯Back to Top</u>](#head-content)
 
 ### Automated tool management
 
@@ -522,7 +522,7 @@ In this repository, we provide a comprehensive summary of the current literature
 | ViperGPT      | ![Star](https://img.shields.io/github/stars/cvlab-columbia/viper.svg?style=social&label=Star) <br> [**ViperGPT: Visual Inference via Python Execution for Reasoning**](https://arxiv.org/abs/2303.08128)                        |             ICCV             | 2023-3-14  |  [Github](https://github.com/cvlab-columbia/viper)   |                    Project                     |
 | MIND’S EYE    | [**MIND’S EYE: GROUNDED LANGUAGE MODEL REASONING THROUGH SIMULATION**](https://arxiv.org/abs/2210.05359)                                                                                                                        |            arXiv             | 2022-10-11 |                        GitHub                        |                    Project                     |
 
-[<u><🎯Back to Top></u>](#head-content)
+[<u>🎯Back to Top</u>](#head-content)
 
 ## Text-to-vision
 
@@ -545,7 +545,7 @@ In this repository, we provide a comprehensive summary of the current literature
 | SEED         | ![Star](https://img.shields.io/github/stars/AILab-CVC/SEED.svg?style=social&label=Star) <br> [**Planting a SEED of Vision in Large Language Model**](https://arxiv.org/pdf/2307.08041)                                                                                       |  ICLR   | 2023-8-12  |           [GitHub](https://github.com/AILab-CVC/SEED)           |         [Project](https://ailab-cvc.github.io/seed/)          |
 | GILL         | ![Star](https://img.shields.io/github/stars/kohjingyu/gill.svg?style=social&label=Star) <br> [**Generating Images with Multimodal Language Models**](https://arxiv.org/pdf/2305.17216)                                                                                       | NeurlPS | 2023-5-26  |           [GitHub](https://github.com/kohjingyu/gill)           |               [Project](https://jykoh.com/gill)               |
 
-[<u><🎯Back to Top></u>](#head-content)
+[<u>🎯Back to Top</u>](#head-content)
 
 ### Text-to-3D
 
@@ -559,7 +559,7 @@ In this repository, we provide a comprehensive summary of the current literature
 | MeshGPT   | ![Star](https://img.shields.io/github/stars/audi/MeshGPT.svg?style=social&label=Star) <br> [**MeshGPT: Generating Triangle Meshes with Decoder-Only Transformers**](https://arxiv.org/pdf/2311.15475)                    |  ArXiv  | 2023-11-27 |     [GitHub](https://github.com/audi/MeshGPT)      |   [Project](https://nihalsid.github.io/mesh-gpt/)    |
 | LI3D      | [**Towards Language-guided Interactive 3D Generation: LLMs as Layout Interpreter with Generative Feedback**](https://arxiv.org/pdf/2305.15808)                                                                           | NeurlPS | 2023-5-26  |                       GitHub                       |                       Project                        |
 
-[<u><🎯Back to Top></u>](#head-content)
+[<u>🎯Back to Top</u>](#head-content)
 
 ### Text-to-video
 
@@ -574,7 +574,7 @@ In this repository, we provide a comprehensive summary of the current literature
 | SVD                   | ![Star](https://img.shields.io/github/stars/Stability-AI/generative-models.svg?style=social&label=Star) <br> [**Stable Video Diffusion: Scaling Latent Video Diffusion Models to Large Datasets**](https://arxiv.org/pdf/2311.15127)                                         |  TMLR   | 2023-11-27 |   [GitHub](https://github.com/Stability-AI/generative-models)   |  [Project](https://llm-grounded-diffusion.github.io)  |
 | Free-Bloom            | ![Star](https://img.shields.io/github/stars/SooLab/Free-Bloomn.svg?style=social&label=Star) <br> [**Free-Bloom: Zero-Shot Text-to-Video Generator with LLM Director and LDM Animator**](https://arxiv.org/pdf/2309.14494)                                                    | NeurlPS | 2023-9-25  |         [GitHub](https://github.com/SooLab/Free-Bloomn)         |                        Project                        |
 
-[<u><🎯Back to Top></u>](#head-content)
+[<u>🎯Back to Top</u>](#head-content)
 
 ## Other applications
 
@@ -589,7 +589,7 @@ In this repository, we provide a comprehensive summary of the current literature
 | EmoLA     | ![Star](https://img.shields.io/github/stars/JackYFL/EmoLA.svg?style=social&label=Star) <br> [**Facial Affective Behavior Analysis with Instruction Tuning**](https://arxiv.org/pdf/2404.05052)                   | ECCV  | 2024-7-12  |  [Github](https://github.com/JackYFL/EmoLA)   |     [Project](https://johnx69.github.io/FABA/)      |
 | EmoLLM    | ![Star](https://img.shields.io/github/stars/yan9qu/EmoLLM.svg?style=social&label=Star) <br> [**EmoLLM: Multimodal Emotional Understanding Meets Large Language Models**](https://arxiv.org/pdf/2406.16442)       | ArXiv | 2024-6-29  |  [Github](https://github.com/yan9qu/EmoLLM)   |                       Project                       |
 
-[<u><🎯Back to Top></u>](#head-content)
+[<u>🎯Back to Top</u>](#head-content)
 
 ### Anomaly Detetcion
 
@@ -600,7 +600,7 @@ In this repository, we provide a comprehensive summary of the current literature
 | CUVA  | ![Star](https://img.shields.io/github/stars/fesvhtr/CUVA.svg?style=social&label=Star) <br> [**Uncovering What Why and How: A Comprehensive Benchmark for Causation Understanding of Video Anomaly**](https://arxiv.org/pdf/2405.00181) |  CVPR   | 2024-5-6  |   [Github](https://github.com/fesvhtr/CUVA)    |                     Project                     |
 | LAVAD | ![Star](https://img.shields.io/github/stars/lucazanella/lavad.svg?style=social&label=Star) <br> [**Harnessing Large Language Models for Training-free Video Anomaly Detectiong**](https://arxiv.org/pdf/2404.05052)                    |  CVPR   | 2024-4-1  | [Github](https://github.com/lucazanella/lavad) | [Project](https://lucazanella.github.io/lavad/) |
 
-[<u><🎯Back to Top></u>](#head-content)
+[<u>🎯Back to Top</u>](#head-content)
 
 ### Gaming
 
@@ -619,7 +619,7 @@ In this repository, we provide a comprehensive summary of the current literature
 | STEVE-EYE   | ![Star](https://img.shields.io/github/stars/BAAI-Agents/Steve-Eye.svg?style=social&label=Star) <br> [**Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds**](https://arxiv.org/pdf/2403.03186)           |         ICLR          | 2023-10-20 | [Github](https://github.com/BAAI-Agents/Steve-Eye) |    [Project](https://sites.google.com/view/steve-eye)     |
 | JARVIS-1    | ![Star](https://img.shields.io/github/stars/CraftJarvis/JARVIS-1.svg?style=social&label=Star) <br> [**JARVIS-1: Open-world Multi-task Agents with Memory-Augmented Multimodal Language Models**](https://arxiv.org/pdf/2403.03186)         |         ArXiv         | 2023-10-11 | [Github](https://github.com/CraftJarvis/JARVIS-1)  |     [Project](https://craftjarvis-jarvis1.github.io/)     |
 
-[<u><🎯Back to Top></u>](#head-content)
+[<u>🎯Back to Top</u>](#head-content)
 
 ### Efficiency
 
@@ -657,7 +657,7 @@ In this repository, we provide a comprehensive summary of the current literature
 | FastV          | ![Star](https://img.shields.io/github/stars/pkunlp-icler/FastV.svg?style=social&label=Star) <br> [**An Image is Worth 1/2 Tokens After Layer 2: Plug-and-Play Inference Acceleration for Large Vision-Language Models**](https://arxiv.org/pdf/2403.06764)                          |  ECCV   |  2024-5-5  |        [Github](https://github.com/pkunlp-icler/FastV)        |                       Project                        |
 | LLaVA-HR       | ![Star](https://img.shields.io/github/stars/luogen1996/LLaVA-HR.svg?style=social&label=Star) <br> [**HFeast Your Eyes: Mixture-of-Resolution Adaptation for Multimodal Large Language Models**](https://arxiv.org/abs/2403.03003)                                                   |  ArXiv  |  2024-3-5  |       [Github](https://github.com/luogen1996/LLaVA-HR)        |                       Project                        |
 
-[<u><🎯Back to Top></u>](#head-content)
+[<u>🎯Back to Top</u>](#head-content)
 
 ### Security
 
@@ -671,7 +671,7 @@ In this repository, we provide a comprehensive summary of the current literature
 | AdvMLLM   | [**On the Adversarial Robustness of Multi-Modal Foundation Models**](https://arxiv.org/pdf/2308.10741) | ICCVW | 2023-8-21 | Github | Project |
 
 
-[<u><🎯Back to Top></u>](#head-content)
+[<u>🎯Back to Top</u>](#head-content)
 
 ### Interpretability and explainability
 
@@ -714,7 +714,7 @@ In this repository, we provide a comprehensive summary of the current literature
 | LLaVA-RLHF    | ![Star](https://img.shields.io/github/stars/llava-rlhf/LLaVA-RLHF.svg?style=social&label=Star) <br> [**LLaVA-RLHF: Aligning Large Multimodal Models with Factually Augmented RLHF**](https://arxiv.org/pdf/2309.14525) | ArXiv | 2023-9-25 | [Github](https://github.com/llava-rlhf/LLaVA-RLHF)  |     [Project](https://llava-rlhf.github.io/)     |
 
 
-[<u><🎯Back to Top></u>](#head-content)
+[<u>🎯Back to Top</u>](#head-content)
 ### Complex reasoning
 
 | Name | Title | Venue | Date | Code | Project |
@@ -724,7 +724,7 @@ In this repository, we provide a comprehensive summary of the current literature
 | Mulberry    | ![Star](https://img.shields.io/github/stars/HJYao00/Mulberry.svg?style=social&label=Star) <br> [**Mulberry: Empowering mllm with o1-like reasoning and reflection via collective monte carlo tree search**](https://arxiv.org/pdf/2412.18319) | ArXiv | 2024-11-25 | [Github](https://github.com/HJYao00/Mulberry)  |     Project     |
 | LLaVA-CoT    | ![Star](https://img.shields.io/github/stars/PKU-YuanGroup/LLaVA-CoT.svg?style=social&label=Star) <br> [**LLaVA-CoT: Let Vision Language Models Reason Step-by-Step**](https://arxiv.org/pdf/2411.10440) | ArXiv | 2024-11-25 | [Github](https://github.com/PKU-YuanGroup/LLaVA-CoT)  |     [Project](https://huggingface.co/spaces/Xkev/Llama-3.2V-11B-cot)     |
 
-[<u><🎯Back to Top></u>](#head-content)
+[<u>🎯Back to Top</u>](#head-content)
 
 ## <span id="head8"> Contributors </span>
 
