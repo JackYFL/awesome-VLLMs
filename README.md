@@ -27,8 +27,9 @@ In this repository, we provide a comprehensive summary of the current literature
 - [2025.1.2]: 🔥 We add more interpretation papers to our paper list, thanks for the contributions from [Ruoyu](https://github.com/RuoyuChen10)!
 - [2024.12.15]: 🔥 We release our VLLM application paper list repo!
 
-<span id="head-content"><font size=5><center><b> :rainbow: Table of Contents </b> </center></font></span>
+<!-- <span id="head-content"><font size=5><center><b> :rainbow: Table of Contents </b> </center></font></span> -->
 
+## :rainbow: Table of Contents
 - [Visual Large Language Models for Generalized and Specialized Applications](#awesome-vllms)
   - [Existing VLM surveys](#existing-vlm-surveys)
     - [VLM surveys](#vlm-surveys)
