@@ -29,7 +29,7 @@ In this repository, we provide a comprehensive summary of the current literature
 
 <!-- <span id="head-content"><font size=5><center><b> :rainbow: Table of Contents </b> </center></font></span> -->
 
-## :rainbow: Table of Contents
+## :rainbow: <span id="head-content"> Table of Contents
 - [Visual Large Language Models for Generalized and Specialized Applications](#awesome-vllms)
   - [Existing VLM surveys](#existing-vlm-surveys)
     - [VLM surveys](#vlm-surveys)
