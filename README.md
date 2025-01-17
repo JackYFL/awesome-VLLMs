@@ -17,6 +17,7 @@ In this repository, we provide a comprehensive summary of the current literature
 ## 📢 News
 
 🚀 **What's New in This Update**:
+- [2025.1.17]: 🔥 Adding three video-to-text papers, thanks for the contributions from [Enxin](https://github.com/Espere-1119-Song)!
 - [2025.1.14]: 🔥 Adding two complex reasoning papers and one video-to-text paper!
 - [2025.1.13]: 🔥 Adding one VFM survey paper!
 - [2025.1.12]: 🔥 Adding one  efficient MLLM paper!
