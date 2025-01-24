@@ -17,6 +17,7 @@ In this repository, we provide a comprehensive summary of the current literature
 ## 📢 News
 
 🚀 **What's New in This Update**:
+- [2025.1.22]: 🔥 Adding one video-to-text paper!
 - [2025.1.17]: 🔥 Adding three video-to-text papers, thanks for the contributions from [Enxin](https://github.com/Espere-1119-Song)!
 - [2025.1.14]: 🔥 Adding two complex reasoning papers and one video-to-text paper!
 - [2025.1.13]: 🔥 Adding one VFM survey paper!
@@ -352,6 +353,7 @@ In this repository, we provide a comprehensive summary of the current literature
 ####  General domain
 |  Name  |  Title  |   Venue  |   Date   |   Code   |   Project   |
 |:--------|:--------|:--------:|:--------:|:--------:|:--------:|
+| VideoLLaMA3 | ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/VideoLLaMA3) <br> [VideoLLaMA 3: Frontier Multimodal Foundation Models for Image and Video Understanding](https://arxiv.org/pdf/2501.13106v1) | ArXiv | 2025-1-22 | [Github](https://github.com/DAMO-NLP-SG/VideoLLaMA3) | [Project](https://huggingface.co/spaces/lixin4ever/VideoLLaMA2) |
 | Aria | ![Star](https://img.shields.io/github/stars/rhymes-ai/Aria) <br> [ARIA : An Open Multimodal Native Mixture-of-Experts Model](https://arxiv.org/pdf/2410.05993) | ArXiv | 2024-12-17 | [Github](https://github.com/rhymes-ai/Aria) | [Project](https://huggingface.co/rhymes-ai/Aria) |
 | Apollo         | [Apollo: An Exploration of Video Understanding in Large Multimodal Models](https://arxiv.org/pdf/2412.10360)                                                                                                              |     ArXiv     | 2024-12-13 |                                        Github                                         |          [Project](https://apollo-lmms.github.io)          |
 | Video-LLaMA2 | ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/VideoLLaMA2) <br> [VideoLLaMA 2: Advancing Spatial-Temporal Modeling and Audio Understanding in Video-LLMs](https://arxiv.org/pdf/2406.07476) | ArXiv | 2024-10-30 | [Github](https://github.com/DAMO-NLP-SG/Video-LLaMA2) | Project |
