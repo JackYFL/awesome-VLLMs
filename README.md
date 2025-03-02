@@ -17,6 +17,7 @@ In this repository, we provide a comprehensive summary of the current literature
 ## 📢 News
 
 🚀 **What's New in This Update**:
+- [2025.3.2]: 🔥 Adding two projects on complex reasoning: [R1-V](https://github.com/Deep-Agent/R1-V) and [VLM-R1](https://github.com/om-ai-lab/VLM-R1)!
 - [2025.2.23]: 🔥 Adding one video-to-action paper and one vision-to-text paper!
 - [2025.2.1]: 🔥 Adding four video-to-text papers!
 - [2025.1.22]: 🔥 Adding one video-to-text paper!
@@ -736,6 +737,8 @@ In this repository, we provide a comprehensive summary of the current literature
 
 | Name | Title | Venue | Date | Code | Project |
 | :--- | :---- | :---: | :--: | :--: | :-----: |
+| VLM-R1  | ![Star](https://img.shields.io/github/stars/om-ai-lab/VLM-R1.svg?style=social&label=Star) <br> [**VLM-R1: A stable and generalizable R1-style Large Vision-Language Model**]() | None | 2025-2-15 | [Github](https://github.com/om-ai-lab/VLM-R1)  |     Project     |
+| R1-V  | ![Star](https://img.shields.io/github/stars/Deep-Agent/R1-V.svg?style=social&label=Star) <br> [**R1-V: Reinforcing Super Generalization Ability in Vision Language Models with Less Than $3**](https://deepagent.notion.site/rlvr-in-vlms) | Blog | 2025-2-3 | [Github](https://github.com/Deep-Agent/R1-V)  |     Project     |
 | LlamaV-o1  | ![Star](https://img.shields.io/github/stars/mbzuai-oryx/LlamaV-o1.svg?style=social&label=Star) <br> [**LlamaV-o1: Rethinking Step-by-step Visual Reasoning in LLMs**](https://arxiv.org/pdf/2501.06186) | ArXiv | 2025-1-10 | [Github](https://github.com/mbzuai-oryx/LlamaV-o1)  |     [Project](https://mbzuai-oryx.github.io/LlamaV-o1/)     |
 | Virgo    | ![Star](https://img.shields.io/github/stars/RUCAIBox/Virgo.svg?style=social&label=Star) <br> [**Virgo: A Preliminary Exploration on Reproducing o1-like MLLM**](https://arxiv.org/pdf/2501.01904) | ArXiv | 2025-1-3 | [Github](https://github.com/RUCAIBox/Virgo)  |     Project     |
 | Mulberry    | ![Star](https://img.shields.io/github/stars/HJYao00/Mulberry.svg?style=social&label=Star) <br> [**Mulberry: Empowering mllm with o1-like reasoning and reflection via collective monte carlo tree search**](https://arxiv.org/pdf/2412.18319) | ArXiv | 2024-12-31 | [Github](https://github.com/HJYao00/Mulberry)  |     Project     |
