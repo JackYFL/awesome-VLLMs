@@ -17,6 +17,7 @@ In this repository, we provide a comprehensive summary of the current literature
 ## 📢 News
 
 🚀 **What's New in This Update**:
+- [2025.3.6]: 🔥 Adding one paper on complex reasoning!
 - [2025.3.2]: 🔥 Adding two projects on complex reasoning: [R1-V](https://github.com/Deep-Agent/R1-V) and [VLM-R1](https://github.com/om-ai-lab/VLM-R1)!
 - [2025.2.23]: 🔥 Adding one video-to-action paper and one vision-to-text paper!
 - [2025.2.1]: 🔥 Adding four video-to-text papers!
@@ -737,6 +738,7 @@ In this repository, we provide a comprehensive summary of the current literature
 
 | Name | Title | Venue | Date | Code | Project |
 | :--- | :---- | :---: | :--: | :--: | :-----: |
+| Visual-RFT  | ![Star](https://img.shields.io/github/stars/Liuziyu77/Visual-RFT.svg?style=social&label=Star) <br> [**Visual-RFT: Visual Reinforcement Fine-Tuning**](https://arxiv.org/pdf/2503.01785) | ArXiv | 2025-3-3 | [Github](https://github.com/Liuziyu77/Visual-RFT/)  |     Project     |
 | VLM-R1  | ![Star](https://img.shields.io/github/stars/om-ai-lab/VLM-R1.svg?style=social&label=Star) <br> [**VLM-R1: A stable and generalizable R1-style Large Vision-Language Model**]() | None | 2025-2-15 | [Github](https://github.com/om-ai-lab/VLM-R1)  |     Project     |
 | R1-V  | ![Star](https://img.shields.io/github/stars/Deep-Agent/R1-V.svg?style=social&label=Star) <br> [**R1-V: Reinforcing Super Generalization Ability in Vision Language Models with Less Than $3**](https://deepagent.notion.site/rlvr-in-vlms) | Blog | 2025-2-3 | [Github](https://github.com/Deep-Agent/R1-V)  |     Project     |
 | LlamaV-o1  | ![Star](https://img.shields.io/github/stars/mbzuai-oryx/LlamaV-o1.svg?style=social&label=Star) <br> [**LlamaV-o1: Rethinking Step-by-step Visual Reasoning in LLMs**](https://arxiv.org/pdf/2501.06186) | ArXiv | 2025-1-10 | [Github](https://github.com/mbzuai-oryx/LlamaV-o1)  |     [Project](https://mbzuai-oryx.github.io/LlamaV-o1/)     |
