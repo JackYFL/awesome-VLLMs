@@ -17,7 +17,7 @@ In this repository, we provide a comprehensive summary of the current literature
 ## 📢 News
 
 🚀 **What's New in This Update**:
-- [2025.3.10]: 🔥 Adding one paper on complex reasoning!
+- [2025.3.10]: 🔥 Adding one paper on complex reasoning and efficiency!
 - [2025.3.6]: 🔥 Adding one paper on complex reasoning!
 - [2025.3.2]: 🔥 Adding two projects on complex reasoning: [R1-V](https://github.com/Deep-Agent/R1-V) and [VLM-R1](https://github.com/om-ai-lab/VLM-R1)!
 - [2025.2.23]: 🔥 Adding one video-to-action paper and one vision-to-text paper!
@@ -646,6 +646,7 @@ In this repository, we provide a comprehensive summary of the current literature
 
 | Name | Title | Venue | Date | Code | Project |
 | :--- | :---- | :---: | :--: | :--: | :-----: |
+| DART    | [**Stop Looking for “Important Tokens” in Multimodal Language Models: Duplication Matters More**](https://www.arxiv.org/pdf/2502.11494)   |  ArXiv  | 2025-2-17 |         Github                             |                       Project                        |
 | LLaVA-Mini    | ![Star](https://img.shields.io/github/stars/ictnlp/LLaVA-Mini.svg?style=social&label=Star) <br> [**LLaVA-Mini: Efficient Image and Video Large Multimodal Models with One Vision Token**](https://arxiv.org/pdf/2501.03895)   |  ArXiv  | 2025-1-7 |         [Github](https://github.com/ictnlp/LLaVA-Mini)                             |                       Project                        |
 | Dynamic-VLM    | [**Dynamic-VLM: Simple Dynamic Visual Token Compression for VideoLLM**](https://arxiv.org/pdf/2412.09530)                                                |  ArXiv  | 2024-12-12 |                            Github                             |                       Project                        |
 | PVC            | ![Star](https://img.shields.io/github/stars/OpenGVLab/PVC.svg?style=social&label=Star) <br> [**PVC: Progressive Visual Token Compression for Unified Image and Video Processing in Large Vision-Language Models**](https://arxiv.org/pdf/2412.09613?)                                |  ArXiv  | 2024-12-12 |          [Github](https://github.com/OpenGVLab/PVC)           |                       Project                        |
