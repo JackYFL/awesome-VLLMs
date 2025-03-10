@@ -17,7 +17,7 @@ In this repository, we provide a comprehensive summary of the current literature
 ## 📢 News
 
 🚀 **What's New in This Update**:
-- [2025.3.10]: 🔥 Adding two papers on complex reasoning and efficiency!
+- [2025.3.10]: 🔥 Adding three papers on complex reasoning, efficiency and face!
 - [2025.3.6]: 🔥 Adding one paper on complex reasoning!
 - [2025.3.2]: 🔥 Adding two projects on complex reasoning: [R1-V](https://github.com/Deep-Agent/R1-V) and [VLM-R1](https://github.com/om-ai-lab/VLM-R1)!
 - [2025.2.23]: 🔥 Adding one video-to-action paper and one vision-to-text paper!
