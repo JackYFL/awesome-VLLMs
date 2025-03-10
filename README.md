@@ -78,6 +78,7 @@ In this repository, we provide a comprehensive summary of the current literature
     - [Face](#face)
     - [Anomaly Detetcion](#anomaly-detetcion)
     - [Gaming](#gaming)
+  - [Challenges](#challenges)
     - [Efficiency](#efficiency)
     - [Security](#security)
     - [Interpretability and explainability](#interpretability-and-explainability)
@@ -642,6 +643,7 @@ In this repository, we provide a comprehensive summary of the current literature
 
 [<u>🎯Back to Top</u>](#head-content)
 
+## Challenges
 ### Efficiency
 
 
