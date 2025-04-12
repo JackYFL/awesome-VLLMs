@@ -747,7 +747,7 @@ In this repository, we provide a comprehensive summary of the current literature
 
 | Name | Title | Venue | Date | Code | Project |
 | :--- | :---- | :---: | :--: | :--: | :-----: |
-| ThinkLite-VL  | ![Star](https://img.shields.io/github/stars/hiyouga/EasyR1.svg?style=social&label=Star) <br> [**SoTA with Less: MCTS-Guided Sample Selection for Data-Efficient Visual Reasoning Self-Improvement**](https://arxiv.org/pdf/2504.07934) | ArXiv | 2025-4-10 | [Github](https://github.com/si0wang/ThinkLite-VL)  |     Project     |
+| ThinkLite-VL  | ![Star](https://img.shields.io/github/stars/si0wang/ThinkLite-VL.svg?style=social&label=Star) <br> [**SoTA with Less: MCTS-Guided Sample Selection for Data-Efficient Visual Reasoning Self-Improvement**](https://arxiv.org/pdf/2504.07934) | ArXiv | 2025-4-10 | [Github](https://github.com/si0wang/ThinkLite-VL)  |     Project     |
 | Easy-R1  | ![Star](https://img.shields.io/github/stars/hiyouga/EasyR1.svg?style=social&label=Star) <br> [**EasyR1: An Efficient, Scalable, Multi-Modality RL Training Framework**](https://github.com/hiyouga/EasyR1) | Github | 2025-3-19 | [Github](https://github.com/hiyouga/EasyR1)  |     Project     |
 | MedVLM-R1  |  [**MedVLM-R1: Incentivizing Medical Reasoning Capability of Vision-Language Models (VLMs) via Reinforcement Learning**](https://arxiv.org/pdf/2502.19634) | ArXiv | 2025-3-19 | Github  |     Project     |
 | Skywork R1V  |  ![Star](https://img.shields.io/github/stars/SkyworkAI/Skywork-R1V.svg?style=social&label=Star) <br> [**Skywork R1V: Pioneering Multimodal Reasoning with Chain-of-Thought**](https://github.com/SkyworkAI/Skywork-R1V/blob/main/Skywork_R1V.pdf) | GitHub | 2025-3-18 | [Github](https://github.com/SkyworkAI/Skywork-R1V)  |     Project     |
