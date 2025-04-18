@@ -749,7 +749,7 @@ In this repository, we provide a comprehensive summary of the current literature
 
 | Name | Title | Venue | Date | Code | Project |
 | :--- | :---- | :---: | :--: | :--: | :-----: |
-｜ Embodied-R | [Embodied-R: Collaborative Framework for Activating Embodied Spatial Reasoning in Foundation Models via Reinforcement Learning](https://arxiv.org/pdf/2504.12680) | ArXiv | 2025-4-17 | Github | [Project](https://embodiedcity.github.io/Embodied-R/) |
+| Embodied-R | [Embodied-R: Collaborative Framework for Activating Embodied Spatial Reasoning in Foundation Models via Reinforcement Learning](https://arxiv.org/pdf/2504.12680) | ArXiv | 2025-4-17 | Github | [Project](https://embodiedcity.github.io/Embodied-R/) |
 | ThinkLite-VL  | ![Star](https://img.shields.io/github/stars/si0wang/ThinkLite-VL.svg?style=social&label=Star) <br> [**SoTA with Less: MCTS-Guided Sample Selection for Data-Efficient Visual Reasoning Self-Improvement**](https://arxiv.org/pdf/2504.07934) | ArXiv | 2025-4-10 | [Github](https://github.com/si0wang/ThinkLite-VL)  |     Project     |
 | Video-R1  | ![Star](https://img.shields.io/github/stars/tulerfeng/Video-R1.svg?style=social&label=Star) <br> [**Video-R1: Reinforcing Video Reasoning in MLLMs**](https://arxiv.org/pdf/2503.21776) | Github | 2025-3-27 | [Github](https://github.com/tulerfeng/Video-R1)  |     Project     |
 | Easy-R1  | ![Star](https://img.shields.io/github/stars/hiyouga/EasyR1.svg?style=social&label=Star) <br> [**EasyR1: An Efficient, Scalable, Multi-Modality RL Training Framework**](https://github.com/hiyouga/EasyR1) | Github | 2025-3-19 | [Github](https://github.com/hiyouga/EasyR1)  |     Project     |
