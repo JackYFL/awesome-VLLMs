@@ -17,6 +17,7 @@ In this repository, we provide a comprehensive summary of the current literature
 ## 📢 News
 
 🚀 **What's New in This Update**:
+- [2025.4.18]: 🔥 Adding three papers on complex reasoning!
 - [2025.4.12]: 🔥 Adding one paper on complex reasoning and one paper on efficiency!
 - [2025.3.20]: 🔥 Adding eleven papers and 1 wonderful repo on complex reasoning!
 - [2025.3.10]: 🔥 Adding three papers on complex reasoning, efficiency and face!
@@ -362,7 +363,7 @@ In this repository, we provide a comprehensive summary of the current literature
 ####  General domain
 |  Name  |  Title  |   Venue  |   Date   |   Code   |   Project   |
 |:--------|:--------|:--------:|:--------:|:--------:|:--------:|
-| TPO | ![Star](https://img.shields.io/github/stars/ruili33/TPO) <br> [Temporal Preference Optimization for Long-Form Video Understanding](https://arxiv.org/pdf/2501.13919v1) | ArXiv | 2025-1-23 | [Github](https://github.com/ruili33/TPO) | [Project](https://ruili33.github.io/tpo_website/) |
+| Mavors | ![Star](https://img.shields.io/github/stars/DogNeverSleep/Mavors) <br> [Mavors: Multi-granularity Video Representation for Multimodal Large Language Model](https://arxiv.org/pdf/2504.10068) | ArXiv | 2025-4-14 | [Github](https://github.com/DogNeverSleep/Mavors) | [Project](https://mavors-mllm.github.io/) |
 | VideoLLaMA3 | ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/VideoLLaMA3) <br> [VideoLLaMA 3: Frontier Multimodal Foundation Models for Image and Video Understanding](https://arxiv.org/pdf/2501.13106v1) | ArXiv | 2025-1-22 | [Github](https://github.com/DAMO-NLP-SG/VideoLLaMA3) | [Project](https://huggingface.co/spaces/lixin4ever/VideoLLaMA2) |
 | Aria | ![Star](https://img.shields.io/github/stars/rhymes-ai/Aria) <br> [ARIA : An Open Multimodal Native Mixture-of-Experts Model](https://arxiv.org/pdf/2410.05993) | ArXiv | 2024-12-17 | [Github](https://github.com/rhymes-ai/Aria) | [Project](https://huggingface.co/rhymes-ai/Aria) |
 | Apollo         | [Apollo: An Exploration of Video Understanding in Large Multimodal Models](https://arxiv.org/pdf/2412.10360)                                                                                                              |     ArXiv     | 2024-12-13 |                                        Github                                         |          [Project](https://apollo-lmms.github.io)          |
@@ -606,6 +607,7 @@ In this repository, we provide a comprehensive summary of the current literature
 
 | Name | Title | Venue | Date | Code | Project |
 | :--- | :---- | :---: | :--: | :--: | :-----: |
+| FVQ | ![Star](https://img.shields.io/github/stars/wsj-sjtu/FVQ.svg?style=social&label=Star) <br>  [**FVQ: A Large-Scale Dataset and A LMM-based Method for Face Video Quality Assessment**](https://arxiv.org/pdf/2504.09255)  | arXiv | 2025-4-21 |     [Github](https://github.com/wsj-sjtu/FVQ)  |  Project  |
 | Emotion-LLaMA | ![Star](https://img.shields.io/github/stars/ZebangCheng/Emotion-LLaMA.svg?style=social&label=Star) <br>  [**Emotion-LLaMA: Multimodal Emotion Recognition and Reasoning with Instruction Tuning**](https://arxiv.org/pdf/2410.20717)  | arXiv | 2024-11-2 |     [Github](https://github.com/ZebangCheng/Emotion-LLaMA)  |  [Project](https://huggingface.co/spaces/ZebangCheng/Emotion-LLaMA)  |
 | Face-MLLM | [**Face-MLLM: A Large Face Perception Model**](https://arxiv.org/pdf/2410.20717)                                                                                                                                 | arXiv | 2024-10-28 |                    Github                     |                       Project                       |
 | ExpLLM    | [**ExpLLM: Towards Chain of Thought for Facial Expression Recognition**](https://arxiv.org/pdf/2409.02828)                                                                                                       | arXiv |  2024-9-4  |                    Github                     | [Project](https://starhiking.github.io/ExpLLM_Page) |
@@ -747,7 +749,9 @@ In this repository, we provide a comprehensive summary of the current literature
 
 | Name | Title | Venue | Date | Code | Project |
 | :--- | :---- | :---: | :--: | :--: | :-----: |
+｜ Embodied-R | [Embodied-R: Collaborative Framework for Activating Embodied Spatial Reasoning in Foundation Models via Reinforcement Learning](https://arxiv.org/pdf/2504.12680) | ArXiv | 2025-4-17 | Github | [Project](https://embodiedcity.github.io/Embodied-R/) |
 | ThinkLite-VL  | ![Star](https://img.shields.io/github/stars/si0wang/ThinkLite-VL.svg?style=social&label=Star) <br> [**SoTA with Less: MCTS-Guided Sample Selection for Data-Efficient Visual Reasoning Self-Improvement**](https://arxiv.org/pdf/2504.07934) | ArXiv | 2025-4-10 | [Github](https://github.com/si0wang/ThinkLite-VL)  |     Project     |
+| Video-R1  | ![Star](https://img.shields.io/github/stars/tulerfeng/Video-R1.svg?style=social&label=Star) <br> [**Video-R1: Reinforcing Video Reasoning in MLLMs**](https://arxiv.org/pdf/2503.21776) | Github | 2025-3-27 | [Github](https://github.com/tulerfeng/Video-R1)  |     Project     |
 | Easy-R1  | ![Star](https://img.shields.io/github/stars/hiyouga/EasyR1.svg?style=social&label=Star) <br> [**EasyR1: An Efficient, Scalable, Multi-Modality RL Training Framework**](https://github.com/hiyouga/EasyR1) | Github | 2025-3-19 | [Github](https://github.com/hiyouga/EasyR1)  |     Project     |
 | MedVLM-R1  |  [**MedVLM-R1: Incentivizing Medical Reasoning Capability of Vision-Language Models (VLMs) via Reinforcement Learning**](https://arxiv.org/pdf/2502.19634) | ArXiv | 2025-3-19 | Github  |     Project     |
 | Skywork R1V  |  ![Star](https://img.shields.io/github/stars/SkyworkAI/Skywork-R1V.svg?style=social&label=Star) <br> [**Skywork R1V: Pioneering Multimodal Reasoning with Chain-of-Thought**](https://github.com/SkyworkAI/Skywork-R1V/blob/main/Skywork_R1V.pdf) | GitHub | 2025-3-18 | [Github](https://github.com/SkyworkAI/Skywork-R1V)  |     Project     |
@@ -763,6 +767,7 @@ In this repository, we provide a comprehensive summary of the current literature
 | Visual-RFT  | ![Star](https://img.shields.io/github/stars/Liuziyu77/Visual-RFT.svg?style=social&label=Star) <br> [**Visual-RFT: Visual Reinforcement Fine-Tuning**](https://arxiv.org/pdf/2503.01785) | ArXiv | 2025-3-3 | [Github](https://github.com/Liuziyu77/Visual-RFT/)  |     Project     |
 | VLM-R1  | ![Star](https://img.shields.io/github/stars/om-ai-lab/VLM-R1.svg?style=social&label=Star) <br> [**VLM-R1: A stable and generalizable R1-style Large Vision-Language Model**]() | None | 2025-2-15 | [Github](https://github.com/om-ai-lab/VLM-R1)  |     Project     |
 | R1-V  | ![Star](https://img.shields.io/github/stars/Deep-Agent/R1-V.svg?style=social&label=Star) <br> [**R1-V: Reinforcing Super Generalization Ability in Vision Language Models with Less Than $3**](https://deepagent.notion.site/rlvr-in-vlms) | Blog | 2025-2-3 | [Github](https://github.com/Deep-Agent/R1-V)  |     Project     |
+| TPO  | ![Star](https://img.shields.io/github/stars/ruili33/TPO.svg?style=social&label=Star) <br> [**Temporal Preference Optimization for Long-Form Video Understanding**](https://arxiv.org/pdf/2501.13919v2) | ArXiv | 2025-1-10 | [Github](https://github.com/ruili33/TPO)  |     [Project](https://ruili33.github.io/tpo_website/)     |
 | LlamaV-o1  | ![Star](https://img.shields.io/github/stars/mbzuai-oryx/LlamaV-o1.svg?style=social&label=Star) <br> [**LlamaV-o1: Rethinking Step-by-step Visual Reasoning in LLMs**](https://arxiv.org/pdf/2501.06186) | ArXiv | 2025-1-10 | [Github](https://github.com/mbzuai-oryx/LlamaV-o1)  |     [Project](https://mbzuai-oryx.github.io/LlamaV-o1/)     |
 | InternVL2-MPO  | ![Star](https://img.shields.io/github/stars/OpenGVLab/InternVL.svg?style=social&label=Star) <br> [**Enhancing the Reasoning Ability of Multimodal Large Language Models via Mixed Preference Optimization**](https://arxiv.org/abs/2411.10442) | ArXiv | 2025-1-10 | [Github](https://github.com/OpenGVLab/InternVL/tree/main/internvl_chat/shell/internvl2.0_mpo)  |     [Project](https://internvl.github.io/blog/2024-11-14-InternVL-2.0-MPO/)     |
 | Virgo    | ![Star](https://img.shields.io/github/stars/RUCAIBox/Virgo.svg?style=social&label=Star) <br> [**Virgo: A Preliminary Exploration on Reproducing o1-like MLLM**](https://arxiv.org/pdf/2501.01904) | ArXiv | 2025-1-3 | [Github](https://github.com/RUCAIBox/Virgo)  |     Project     |
