@@ -798,7 +798,7 @@ In this repository, we provide a comprehensive summary of the current literature
 
 [<u>🎯Back to Top</u>](#head-content)
 
-## <span id="head8"> Contributors </span>
+# Contributors 
 
 Thanks to all the contributors! You are awesome!
 
@@ -806,7 +806,7 @@ Thanks to all the contributors! You are awesome!
     <img src="https://contrib.rocks/image?repo=JackYFL/awesome-VLLMs&max=500&columns=24">
 </a>
 
-## <span id="head8"> Star History </span>
+# Star history
 
 <a href="https://star-history.com/#JackYFL/awesome-VLLMs&Date">
   <picture>
