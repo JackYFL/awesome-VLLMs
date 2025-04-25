@@ -17,6 +17,7 @@ In this repository, we provide a comprehensive summary of the current literature
 ## 📢 News
 
 🚀 **What's New in This Update**:
+- [2025.4.25]: 🔥 Adding eleven papers on complex reasoning, face, video understanding and medical!
 - [2025.4.18]: 🔥 Adding three papers on complex reasoning!
 - [2025.4.12]: 🔥 Adding one paper on complex reasoning and one paper on efficiency!
 - [2025.3.20]: 🔥 Adding eleven papers and 1 wonderful repo on complex reasoning!
@@ -309,6 +310,7 @@ In this repository, we provide a comprehensive summary of the current literature
 
 | Name | Title | Venue | Date | Code | Project |
 | :--- | :---- | :---: | :--: | :--: | :-----: |
+| EyecareGPT      | ![Star](https://img.shields.io/github/stars/DCDmllm/EyecareGPT.svg?style=social&label=Star) <br> [**EyecareGPT: Boosting Comprehensive Ophthalmology Understanding with Tailored Dataset, Benchmark and Model**](https://arxiv.org/pdf/2504.13650) <br>                                                                                                                             |  ArXiv  | 2025-01-02 |                         [Github](https://github.com/DCDmllm/EyecareGPT)                          | Project |
 | UMed-LVLM      | [**Training Medical Large Vision-Language Models with Abnormal-Aware Feedback**](https://arxiv.org/pdf/2501.01377) <br>                                                                                                                             |  ArXiv  | 2025-01-02 |                         Github                          | Project |
 | PMC-VQA        | ![Star](https://img.shields.io/github/stars/xiaoman-zhang/PMC-VQA.svg?style=social&label=Star) <br> [**PMC-VQA: Visual Instruction Tuning for Medical Visual Question Answering**](https://arxiv.org/pdf/2305.10415) <br>                           |  ArXiv  | 2024-09-08 |   [Github](https://github.com/xiaoman-zhang/PMC-VQA)    | Project |
 | MedVersa       | [**A Generalist Learner for Multifaceted Medical Image Interpretation**](https://arxiv.org/pdf/2405.07988) <br>                                                                                                                                     |  ArXiv  | 2024-05-13 |                         Github                          | Project |
@@ -365,6 +367,7 @@ In this repository, we provide a comprehensive summary of the current literature
 |  Name  |  Title  |   Venue  |   Date   |   Code   |   Project   |
 |:--------|:--------|:--------:|:--------:|:--------:|:--------:|
 | TimeSoccer | [TimeSoccer: An End-to-End Multimodal Large Language Model for Soccer Commentary Generation](https://arxiv.org/pdf/2504.17365) | ArXiv | 2025-4-24 | Github | Project |
+| Eagle 2.5 | ![Star](https://img.shields.io/github/stars/NVlabs/EAGLE) <br> [Eagle 2.5: Boosting Long-Context Post-Training for Frontier Vision-Language Models](https://arxiv.org/pdf/2504.15271) | ArXiv | 2025-4-21 | [Github](https://github.com/NVlabs/EAGLE) | [Project](https://nvlabs.github.io/EAGLE/) |
 | Camera-Bench | ![Star](https://img.shields.io/github/stars/sy77777en/CameraBench) <br> [Towards Understanding Camera Motions in Any Video](https://arxiv.org/pdf/2504.15376) | ArXiv | 2025-4-21 | [Github](https://github.com/sy77777en/CameraBench) | [Project](https://linzhiqiu.github.io/papers/camerabench/) |
 | IV-Bench | ![Star](https://img.shields.io/github/stars/multimodal-art-projection/IV-Bench) <br> [IV-Bench: A Benchmark for Image-Grounded Video Perception and Reasoning in Multimodal LLMs](https://arxiv.org/pdf/2504.15415) | ArXiv | 2025-4-21 | [Github](https://github.com/multimodal-art-projection/IV-Bench) | Project |
 | Mavors | ![Star](https://img.shields.io/github/stars/DogNeverSleep/Mavors) <br> [Mavors: Multi-granularity Video Representation for Multimodal Large Language Model](https://arxiv.org/pdf/2504.10068) | ArXiv | 2025-4-14 | [Github](https://github.com/DogNeverSleep/Mavors) | [Project](https://mavors-mllm.github.io/) |
