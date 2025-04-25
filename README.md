@@ -14,6 +14,16 @@ In this repository, we provide a comprehensive summary of the current literature
 
 **If you are interested in this project, you can contribute to this repo by pulling requests 😊😊😊**
 
+**If you think our paper is helpful for your research, you can cite through this bib tex entry!**
+```
+@article{li2025visual,
+  title={Visual Large Language Models for Generalized and Specialized Applications},
+  author={Li, Yifan and Lai, Zhixin and Bao, Wentao and Tan, Zhen and Dao, Anh and Sui, Kewei and Shen, Jiayi and Liu, Dong and Liu, Huan and Kong, Yu},
+  journal={arXiv preprint arXiv:2501.02765},
+  year={2025}
+}
+```
+
 ## 📢 News
 
 🚀 **What's New in This Update**:
