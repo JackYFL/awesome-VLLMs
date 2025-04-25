@@ -789,4 +789,17 @@ In this repository, we provide a comprehensive summary of the current literature
 
 ## <span id="head8"> Contributors </span>
 
-Thanks to all the contributors!
+Thanks to all the contributors! You are awesome!
+<a href="https://contrib.rocks">
+    <img src="https://contrib.rocks/image?repo=JackYFL/awesome-VLLMs&max=500&columns=24">
+</a>
+
+## <span id="head8"> Star History </span>
+
+<a href="https://star-history.com/#JackYFL/awesome-VLLMs&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=JackYFL/awesome-VLLMs&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=JackYFL/awesome-VLLMs&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=JackYFL/al-folio&type=Date" />
+  </picture>
+</a>
