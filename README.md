@@ -98,6 +98,7 @@ In this repository, we provide a comprehensive summary of the current literature
     - [Interpretability and explainability](#interpretability-and-explainability)
     - [Complex reasoning](#complex-reasoning)
     
+- [Contributors](#contributors)
 
 ## Existing VLM surveys
 
@@ -800,6 +801,7 @@ In this repository, we provide a comprehensive summary of the current literature
 ## <span id="head8"> Contributors </span>
 
 Thanks to all the contributors! You are awesome!
+
 <a href="https://contrib.rocks">
     <img src="https://contrib.rocks/image?repo=JackYFL/awesome-VLLMs&max=500&columns=24">
 </a>
