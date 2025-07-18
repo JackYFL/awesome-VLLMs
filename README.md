@@ -27,6 +27,7 @@ In this repository, we provide a comprehensive summary of the current literature
 ## 📢 News
 
 🚀 **What's New in This Update**:
+- [2025.7.28]: 🔥 Adding three papers on autonomous driving and generative model!
 - [2025.4.25]: 🔥 Adding eleven papers on complex reasoning, face, video understanding and medical!
 - [2025.4.18]: 🔥 Adding three papers on complex reasoning!
 - [2025.4.12]: 🔥 Adding one paper on complex reasoning and one paper on efficiency!
@@ -447,6 +448,7 @@ In this repository, we provide a comprehensive summary of the current literature
 
 | Name | Title | Venue | Date | Code | Project |
 | :--- | :---- | :---: | :--: | :--: | :-----: |
+| DriveBench     | ![Star](https://img.shields.io/github/stars/drive-bench/toolkit.svg?style=social&label=Star) <br> [**Are VLMs Ready for Autonomous Driving? An Empirical Study from the Reliability, Data, and Metric Perspectives**](https://arxiv.org/pdf/2501.04003) <br> | ICCV  | 2025-1-7 |     [Github](https://github.com/drive-bench/toolkit)     | [Project](https://drive-bench.github.io/) |
 | DriveLM     | ![Star](https://img.shields.io/github/stars/OpenDriveLab/DriveLM.svg?style=social&label=Star) <br> [**DriveLM: Driving with Graph Visual Question Answering**](https://arxiv.org/pdf/2312.14150) <br>                                                                          | ECCV  | 2024-7-17  |  [Github](https://github.com/OpenDriveLab/DriveLM)   |                      Project                       |
 | Talk2BEV    | ![Star](https://img.shields.io/github/stars/llmbev/talk2bev.svg?style=social&label=Star) <br> [**Talk2BEV: Language-enhanced Bird’s-eye View Maps for Autonomous Driving**](https://arxiv.org/pdf/2310.02251) <br>                                                             | ICRA  | 2024-5-13  |     [Github](https://github.com/llmbev/talk2bev)     |   [Project](https://llmbev.github.io/talk2bev/)    |
 | Nuscenes-QA | ![Star](https://img.shields.io/github/stars/qiantianwen/NuScenes-QA.svg?style=social&label=Star) <br> [**TNuScenes-QA: A Multi-Modal Visual Question Answering Benchmark for Autonomous Driving Scenario**](https://ojs.aaai.org/index.php/AAAI/article/view/28253/28499) <br> | AAAI  | 2024-3-24  | [Github](https://github.com/qiantianwen/NuScenes-QA) |                      Project                       |
@@ -572,6 +574,9 @@ In this repository, we provide a comprehensive summary of the current literature
 
 | Name | Title | Venue | Date | Code | Project |
 | :--- | :---- | :---: | :--: | :--: | :-----: |
+
+| BAGEL        | ![Star](https://img.shields.io/github/stars/bytedance-seed/BAGEL.svg?style=social&label=Star) <br> [**Emerging Properties in Unified Multimodal Pretraining**](https://arxiv.org/pdf/2505.14683)                                                                 |  ArXiv   | 2025-5-23  |        [GitHub](https://github.com/bytedance-seed/BAGEL)        |              [Project](https://bagel-ai.org/)              |
+| X-Fusion        | [**Emerging Properties in Unified Multimodal Pretraining**](https://arxiv.org/abs/2504.20996)                                                                 |  ICCV   | 2025-4-29  |        GitHub        |              [Project](https://sichengmo.github.io/XFusion/)              |
 | LLMGA        | ![Star](https://img.shields.io/github/stars/dvlab-research/LLMGA.svg?style=social&label=Star) <br> [**LLMGA: Multimodal Large Language Model based Generation Assistant**](https://arxiv.org/pdf/2311.16500)                                                                 |  ECCV   | 2024-7-27  |        [GitHub](https://github.com/dvlab-research/LLMGA)        |              [Project](https://llmga.github.io/)              |
 | Emu          | ![Star](https://img.shields.io/github/stars/baaivision/Emu.svg?style=social&label=Star) <br> [**Generative pretraining in multimodality,**](https://arxiv.org/pdf/2307.05222)                                                                                                |  ICLR   |  2024-5-8  |           [GitHub](https://github.com/baaivision/Emu)           |                            Project                            |
 | Kosmos-G     | [**Kosmos-G: Generating Images in Context with Multimodal Large Language Models**](https://arxiv.org/pdf/2310.02992)                                                                                                                                                         |  ICLR   | 2024-4-26  |                             GitHub                              |              [Project](https://aka.ms/GeneralAI)              |
@@ -769,6 +774,9 @@ In this repository, we provide a comprehensive summary of the current literature
 
 | Name | Title | Venue | Date | Code | Project |
 | :--- | :---- | :---: | :--: | :--: | :-----: |
+
+| FEALLM | ![Star](https://img.shields.io/github/stars/953206211/FEALLM.svg?style=social&label=Star) <br> [**FEALLM: Advancing Facial Emotion Analysis in Multimodal Large Language Models with Emotional Synergy and Reasoning**](https://arxiv.org/pdf/2505.12081) | ArXiv | 2025-5-19 | [Github](https://github.com/953206211/FEALLM) | [Project](https://modelscope.cn/models/953206211/FEALLM) |
+| VisionReasoner | ![Star](https://img.shields.io/github/stars/dvlab-research/VisionReasoner.svg?style=social&label=Star) <br> [**VisionReasoner: Unified Visual Perception and Reasoning via Reinforcement Learning**](https://arxiv.org/pdf/2505.12081) | ArXiv | 2025-5-17 | [Github](https://github.com/dvlab-research/VisionReasoner) | [Project](https://modelscope.cn/models/dvlab-research/VisionReasoner) |
 | Skywork R1V2 | ![Star](https://img.shields.io/github/stars/SkyworkAI/Skywork-R1V.svg?style=social&label=Star) <br> [**Skywork R1V2: Multimodal Hybrid Reinforcement Learning for Reasoning**](https://arxiv.org/pdf/2504.16656) | ArXiv | 2025-4-23 | [Github](https://github.com/SkyworkAI/Skywork-R1V) | [Project](https://modelscope.cn/models/Skywork/Skywork-R1V2-38B) |
 | VisuLogic | ![Star](https://img.shields.io/github/stars/VisuLogic-Benchmark/VisuLogic-Eval.svg?style=social&label=Star) <br> [**VisuLogic: A Benchmark for Evaluating Visual Reasoning in Multi-modal Large Language Models**](http://arxiv.org/abs/2504.15279) | ArXiv | 2025-4-21 | [Github](https://github.com/VisuLogic-Benchmark/VisuLogic-Eval) | [Project](https://visulogic-benchmark.github.io/VisuLogic/) |
 | Embodied-R | [**Embodied-R: Collaborative Framework for Activating Embodied Spatial Reasoning in Foundation Models via Reinforcement Learning**](https://arxiv.org/pdf/2504.12680) | ArXiv | 2025-4-17 | Github | [Project](https://embodiedcity.github.io/Embodied-R/) |
