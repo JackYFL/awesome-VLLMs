@@ -575,7 +575,6 @@ In this repository, we provide a comprehensive summary of the current literature
 
 | Name | Title | Venue | Date | Code | Project |
 | :--- | :---- | :---: | :--: | :--: | :-----: |
-
 | BAGEL        | ![Star](https://img.shields.io/github/stars/bytedance-seed/BAGEL.svg?style=social&label=Star) <br> [**Emerging Properties in Unified Multimodal Pretraining**](https://arxiv.org/pdf/2505.14683)                                                                 |  ArXiv   | 2025-5-23  |        [GitHub](https://github.com/bytedance-seed/BAGEL)        |              [Project](https://bagel-ai.org/)              |
 | X-Fusion        | [**Emerging Properties in Unified Multimodal Pretraining**](https://arxiv.org/abs/2504.20996)                                                                 |  ICCV   | 2025-4-29  |        GitHub        |              [Project](https://sichengmo.github.io/XFusion/)              |
 | LLMGA        | ![Star](https://img.shields.io/github/stars/dvlab-research/LLMGA.svg?style=social&label=Star) <br> [**LLMGA: Multimodal Large Language Model based Generation Assistant**](https://arxiv.org/pdf/2311.16500)                                                                 |  ECCV   | 2024-7-27  |        [GitHub](https://github.com/dvlab-research/LLMGA)        |              [Project](https://llmga.github.io/)              |
