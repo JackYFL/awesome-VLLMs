@@ -27,7 +27,7 @@ In this repository, we provide a comprehensive summary of the current literature
 ## 📢 News
 
 🚀 **What's New in This Update**:
-- [2025.7.28]: 🔥 Adding three papers on autonomous driving and generative model!
+- [2025.7.28]: 🔥 Adding five papers on autonomous driving, generative model and video understanding!
 - [2025.4.25]: 🔥 Adding eleven papers on complex reasoning, face, video understanding and medical!
 - [2025.4.18]: 🔥 Adding three papers on complex reasoning!
 - [2025.4.12]: 🔥 Adding one paper on complex reasoning and one paper on efficiency!
@@ -383,6 +383,7 @@ In this repository, we provide a comprehensive summary of the current literature
 | Eagle 2.5 | ![Star](https://img.shields.io/github/stars/NVlabs/EAGLE) <br> [Eagle 2.5: Boosting Long-Context Post-Training for Frontier Vision-Language Models](https://arxiv.org/pdf/2504.15271) | ArXiv | 2025-4-21 | [Github](https://github.com/NVlabs/EAGLE) | [Project](https://nvlabs.github.io/EAGLE/) |
 | Camera-Bench | ![Star](https://img.shields.io/github/stars/sy77777en/CameraBench) <br> [Towards Understanding Camera Motions in Any Video](https://arxiv.org/pdf/2504.15376) | ArXiv | 2025-4-21 | [Github](https://github.com/sy77777en/CameraBench) | [Project](https://linzhiqiu.github.io/papers/camerabench/) |
 | IV-Bench | ![Star](https://img.shields.io/github/stars/multimodal-art-projection/IV-Bench) <br> [IV-Bench: A Benchmark for Image-Grounded Video Perception and Reasoning in Multimodal LLMs](https://arxiv.org/pdf/2504.15415) | ArXiv | 2025-4-21 | [Github](https://github.com/multimodal-art-projection/IV-Bench) | Project |
+| VideoChat-Online | ![Star](https://img.shields.io/github/stars/MCG-NJU/VideoChat-Online) <br> [Online Video Understanding: OVBench and VideoChat-Online](https://arxiv.org/pdf/2504.15415) | CVPR | 2025-4-21 | [Github](https://github.com/MCG-NJU/VideoChat-Online) | [Project](https://videochat-online.github.io) |
 | Mavors | ![Star](https://img.shields.io/github/stars/DogNeverSleep/Mavors) <br> [Mavors: Multi-granularity Video Representation for Multimodal Large Language Model](https://arxiv.org/pdf/2504.10068) | ArXiv | 2025-4-14 | [Github](https://github.com/DogNeverSleep/Mavors) | [Project](https://mavors-mllm.github.io/) |
 | VideoLLaMA3 | ![Star](https://img.shields.io/github/stars/DAMO-NLP-SG/VideoLLaMA3) <br> [VideoLLaMA 3: Frontier Multimodal Foundation Models for Image and Video Understanding](https://arxiv.org/pdf/2501.13106v1) | ArXiv | 2025-1-22 | [Github](https://github.com/DAMO-NLP-SG/VideoLLaMA3) | [Project](https://huggingface.co/spaces/lixin4ever/VideoLLaMA2) |
 | Aria | ![Star](https://img.shields.io/github/stars/rhymes-ai/Aria) <br> [ARIA : An Open Multimodal Native Mixture-of-Experts Model](https://arxiv.org/pdf/2410.05993) | ArXiv | 2024-12-17 | [Github](https://github.com/rhymes-ai/Aria) | [Project](https://huggingface.co/rhymes-ai/Aria) |
@@ -428,9 +429,11 @@ In this repository, we provide a comprehensive summary of the current literature
 | Valley        | ![Star](https://img.shields.io/github/stars/RupertLuo/Valley) <br> [Valley: Video Assistant with Large Language model Enhanced abilitY](https://arxiv.org/abs/2306.07207)                                | ArXiv | 2023-10-08 |     [Github](https://github.com/RupertLuo/Valley)      | [Project](https://valley-vl.github.io/) |
 
 [<u>🎯Back to Top</u>](#head-content)
+
 #### Egocentric view
 |  Name  |  Title  |   Venue  |   Date   |   Code   |   Project   |
 |:--------|:--------|:--------:|:--------:|:--------:|:--------:|
+| StreamChat | ![Star](https://img.shields.io/github/stars/hmxiong/StreamChat) <br> [Streaming Video Understanding and Multi-round Interaction with Memory-enhanced Knowledge](https://arxiv.org/pdf/2501.13468) | ICLR | 2025-01-23 | [Github](https://github.com/hmxiong/StreamChat) | Project |
 | PALM | ![Star](https://img.shields.io/github/stars/DanDoge/Palm) <br> [PALM: Predicting Actions through Language Models](https://arxiv.org/pdf/2311.17944) | CVPR Workshop | 2024-07-18 | [Github](https://github.com/DanDoge/Palm) | Project |
 | GPT4Ego | [GPT4Ego: Unleashing the Potential of Pre-trained Models for Zero-Shot Egocentric Action Recognition](https://arxiv.org/pdf/2401.10039) | ArXiv | 2024-05-11 | Github | Project |
 | AntGPT | ![Star](https://img.shields.io/github/stars/brown-palm/AntGPT) <br> [AntGPT: Can Large Language Models Help Long-term Action Anticipation from Videos?](https://arxiv.org/pdf/2307.16368) | ICLR | 2024-04-01 | [Github](https://github.com/brown-palm/AntGPT) | [Project](https://brown-palm.github.io/AntGPT/) |
