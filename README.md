@@ -27,7 +27,7 @@ In this repository, we provide a comprehensive summary of the current literature
 ## 📢 News
 
 🚀 **What's New in This Update**:
-- [2025.7.28]: 🔥 Adding five papers on autonomous driving, generative model and video understanding!
+- [2025.7.28]: 🔥 Adding five papers on autonomous driving, vision generation and video understanding!
 - [2025.4.25]: 🔥 Adding eleven papers on complex reasoning, face, video understanding and medical!
 - [2025.4.18]: 🔥 Adding three papers on complex reasoning!
 - [2025.4.12]: 🔥 Adding one paper on complex reasoning and one paper on efficiency!
