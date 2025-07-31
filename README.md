@@ -777,7 +777,6 @@ In this repository, we provide a comprehensive summary of the current literature
 
 | Name | Title | Venue | Date | Code | Project |
 | :--- | :---- | :---: | :--: | :--: | :-----: |
-
 | FEALLM | ![Star](https://img.shields.io/github/stars/953206211/FEALLM.svg?style=social&label=Star) <br> [**FEALLM: Advancing Facial Emotion Analysis in Multimodal Large Language Models with Emotional Synergy and Reasoning**](https://arxiv.org/pdf/2505.12081) | ArXiv | 2025-5-19 | [Github](https://github.com/953206211/FEALLM) | [Project](https://modelscope.cn/models/953206211/FEALLM) |
 | VisionReasoner | ![Star](https://img.shields.io/github/stars/dvlab-research/VisionReasoner.svg?style=social&label=Star) <br> [**VisionReasoner: Unified Visual Perception and Reasoning via Reinforcement Learning**](https://arxiv.org/pdf/2505.12081) | ArXiv | 2025-5-17 | [Github](https://github.com/dvlab-research/VisionReasoner) | [Project](https://modelscope.cn/models/dvlab-research/VisionReasoner) |
 | Skywork R1V2 | ![Star](https://img.shields.io/github/stars/SkyworkAI/Skywork-R1V.svg?style=social&label=Star) <br> [**Skywork R1V2: Multimodal Hybrid Reinforcement Learning for Reasoning**](https://arxiv.org/pdf/2504.16656) | ArXiv | 2025-4-23 | [Github](https://github.com/SkyworkAI/Skywork-R1V) | [Project](https://modelscope.cn/models/Skywork/Skywork-R1V2-38B) |
