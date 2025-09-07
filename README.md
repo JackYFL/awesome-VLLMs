@@ -52,7 +52,10 @@ In this repository, we provide a comprehensive summary of the current literature
 <!-- <span id="head-content"><font size=5><center><b> :rainbow: Table of Contents </b> </center></font></span> -->
 
 ## :rainbow: <span id="head-content"> Table of Contents
-- [Visual Large Language Models for Generalized and Specialized Applications](#awesome-vllms)
+- [Awesome Visual Large Language Models (VLLMs)](#awesome-visual-large-language-models-vllms)
+  - [🔥🔥🔥 Visual Large Language Models for Generalized and Specialized Applications](#-visual-large-language-models-for-generalized-and-specialized-applications)
+  - [📢 News](#-news)
+  - [:rainbow:  Table of Contents](#rainbow--table-of-contents)
   - [Existing VLM surveys](#existing-vlm-surveys)
     - [VLM surveys](#vlm-surveys)
     - [MLLM surveys](#mllm-surveys)
@@ -64,30 +67,30 @@ In this repository, we provide a comprehensive summary of the current literature
         - [RES](#res)
         - [OCR](#ocr)
         - [Retrieval](#retrieval)
-      - [VLLM+X](#vllm+x)
+      - [VLLM+X](#vllmx)
         - [Remote sensing](#remote-sensing)
         - [Medical](#medical)
         - [Science and math](#science-and-math)
         - [Graphics and UI](#graphics-and-ui)
         - [Financial analysis](#financial-analysis)
     - [Video-to-text](#video-to-text)
-      - [General domain](#general-domain)
+      - [General domain](#general-domain-1)
       - [Video conversation](#video-conversation)
-      - [Egocentric understanding](#egocentric-understanding)
+      - [Egocentric view](#egocentric-view)
   - [Vision-to-action](#vision-to-action)
     - [Autonomous driving](#autonomous-driving)
       - [Perception](#perception)
       - [Planning](#planning)
       - [Prediction](#prediction)
     - [Embodied AI](#embodied-ai)
-      - [Perception](#perception)
+      - [Perception](#perception-1)
       - [Manipulation](#manipulation)
-      - [Planning](#planning)
+      - [Planning](#planning-1)
       - [Navigation](#navigation)
     - [Automated tool management](#automated-tool-management)
   - [Text-to-vision](#text-to-vision)
     - [Text-to-image](#text-to-image)
-    - [Text-to-3D](#text-to-3D)
+    - [Text-to-3D](#text-to-3d)
     - [Text-to-video](#text-to-video)
   - [Other applications](#other-applications)
     - [Face](#face)
@@ -98,8 +101,8 @@ In this repository, we provide a comprehensive summary of the current literature
     - [Security](#security)
     - [Interpretability and explainability](#interpretability-and-explainability)
     - [Complex reasoning](#complex-reasoning)
-    
 - [Contributors](#contributors)
+- [Star history](#star-history)
 
 ## Existing VLM surveys
 
@@ -579,8 +582,13 @@ In this repository, we provide a comprehensive summary of the current literature
 
 | Name | Title | Venue | Date | Code | Project |
 | :--- | :---- | :---: | :--: | :--: | :-----: |
-| BAGEL        | ![Star](https://img.shields.io/github/stars/bytedance-seed/BAGEL.svg?style=social&label=Star) <br> [**Emerging Properties in Unified Multimodal Pretraining**](https://arxiv.org/pdf/2505.14683)                                                                 |  ArXiv   | 2025-5-23  |        [GitHub](https://github.com/bytedance-seed/BAGEL)        |              [Project](https://bagel-ai.org/)              |
-| X-Fusion        | [**Emerging Properties in Unified Multimodal Pretraining**](https://arxiv.org/abs/2504.20996)                                                                 |  ICCV   | 2025-4-29  |        GitHub        |              [Project](https://sichengmo.github.io/XFusion/)              |
+| FLUX.1 Kontext | ![Star](https://img.shields.io/github/stars/black-forest-labs/flux.svg?style=social&label=Star) <br> [**FLUX.1 Kontext: Flow Matching for In-Context Image Generation and Editing in Latent Space**](https://arxiv.org/pdf/2506.15742)                                     |  ArXiv  | 2025-6-17  |        [GitHub](https://github.com/black-forest-labs/flux)      | [Project](https://huggingface.co/black-forest-labs/FLUX.1-Kontext-dev)|
+| BAGEL        | ![Star](https://img.shields.io/github/stars/bytedance-seed/BAGEL.svg?style=social&label=Star) <br> [**Emerging Properties in Unified Multimodal Pretraining**](https://arxiv.org/pdf/2505.14683)                                                                             |  ArXiv  | 2025-5-23  |        [GitHub](https://github.com/bytedance-seed/BAGEL)        |              [Project](https://bagel-ai.org/)                 |
+| X-Fusion     | [**X-Fusion: Introducing New Modality to Frozen Large Language Models**](https://arxiv.org/abs/2504.20996)                                                                                                                                                                   |  ICCV   | 2025-4-29  |                             GitHub                              |              [Project](https://sichengmo.github.io/XFusion/)  |
+| Janus-Pro    | ![Star](https://img.shields.io/github/stars/deepseek-ai/Janus.svg?style=social&label=Star) <br> [**Janus-Pro: Unified Multimodal Understanding and Generation with Data and Model Scaling**](https://arxiv.org/pdf/2501.17811)                                               |  ArXiv  | 2025-1-29  |        [GitHub](https://github.com/deepseek-ai/Janus)           |      [Project](https://huggingface.co/papers/2501.17811)      |
+| JanusFlow    | ![Star](https://img.shields.io/github/stars/deepseek-ai/Janus.svg?style=social&label=Star) <br> [**JanusFlow: Harmonizing Autoregression and Rectified Flow for Unified Multimodal Understanding and Generation**](https://arxiv.org/pdf/2411.07975)                         |  ArXiv  | 2024-11-12 |        [GitHub](https://github.com/deepseek-ai/Janus)           |      [Project](https://huggingface.co/papers/2411.07975)      |
+| Janus        | ![Star](https://img.shields.io/github/stars/deepseek-ai/Janus.svg?style=social&label=Star) <br> [**Janus: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation**](https://arxiv.org/pdf/2410.13848)                                                |  ArXiv  | 2024-10-17 |        [GitHub](https://github.com/deepseek-ai/Janus)           |      [Project](https://huggingface.co/papers/2410.13848)      |
+| FLUX.1       | ![Star](https://img.shields.io/github/stars/black-forest-labs/flux.svg?style=social&label=Star) <br> [**FLUX**](https://github.com/black-forest-labs/flux)                                                                                                                   |  None   | 2024-8-1   |        [GitHub](https://github.com/black-forest-labs/flux)      | [Project](https://huggingface.co/black-forest-labs/FLUX.1-dev)|
 | LLMGA        | ![Star](https://img.shields.io/github/stars/dvlab-research/LLMGA.svg?style=social&label=Star) <br> [**LLMGA: Multimodal Large Language Model based Generation Assistant**](https://arxiv.org/pdf/2311.16500)                                                                 |  ECCV   | 2024-7-27  |        [GitHub](https://github.com/dvlab-research/LLMGA)        |              [Project](https://llmga.github.io/)              |
 | Emu          | ![Star](https://img.shields.io/github/stars/baaivision/Emu.svg?style=social&label=Star) <br> [**Generative pretraining in multimodality,**](https://arxiv.org/pdf/2307.05222)                                                                                                |  ICLR   |  2024-5-8  |           [GitHub](https://github.com/baaivision/Emu)           |                            Project                            |
 | Kosmos-G     | [**Kosmos-G: Generating Images in Context with Multimodal Large Language Models**](https://arxiv.org/pdf/2310.02992)                                                                                                                                                         |  ICLR   | 2024-4-26  |                             GitHub                              |              [Project](https://aka.ms/GeneralAI)              |
