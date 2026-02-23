@@ -27,7 +27,7 @@ In this repository, we provide a comprehensive summary of the current literature
 ## 📢 News
 
 🚀 **What's New in This Update**:
-- [2026.2.23]: 🔥 Adding three papers on MLLM explanation! Thanks Ruoyu!
+- [2026.2.23]: 🔥 Adding three papers on VLLM explanation! Thanks Ruoyu!
 - [2025.7.28]: 🔥 Adding five papers on autonomous driving, vision generation and video understanding!
 - [2025.4.25]: 🔥 Adding eleven papers on complex reasoning, face, video understanding and medical!
 - [2025.4.18]: 🔥 Adding three papers on complex reasoning!
