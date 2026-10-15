@@ -380,6 +380,10 @@ In this repository, we provide a comprehensive summary of the current literature
 ####  General domain
 |  Name  |  Title  |   Venue  |   Date   |   Code   |   Project   |
 |:--------|:--------|:--------:|:--------:|:--------:|:--------:|
+| VideoJev | ![Star](https://img.shields.io/github/stars/MCG-NJU/VideoJev) <br> [VideoJev: System One Model for Video Understanding and Interaction](https://arxiv.org/abs/2610.18615) | arXiv 2026 | 2026-10-13 | [Github](https://github.com/MCG-NJU/VideoJev) | - |
+| TimeLens2 | ![Star](https://img.shields.io/github/stars/MCG-NJU/TimeLens2) <br> [TimeLens2: Generalist Video Temporal Grounding with Multimodal LLMs](https://arxiv.org/abs/2607.17423) | arXiv 2026 | 2026-07-19 | [Github](https://github.com/MCG-NJU/TimeLens2) | - |
+| VideoChat3 | ![Star](https://img.shields.io/github/stars/MCG-NJU/VideoChat3) <br> [VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding](https://arxiv.org/abs/2607.14935) | arXiv 2026 | 2026-07-16 | [Github](https://github.com/MCG-NJU/VideoChat3) | - |
+| Video-o3 | ![Star](https://img.shields.io/github/stars/MCG-NJU/Video-o3) <br> [Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning](https://arxiv.org/abs/2601.23224) | ICML 2026 | 2026-01-30 | [Github](https://github.com/MCG-NJU/Video-o3) | - |
 | TimeSoccer | [TimeSoccer: An End-to-End Multimodal Large Language Model for Soccer Commentary Generation](https://arxiv.org/pdf/2504.17365) | ArXiv | 2025-4-24 | Github | Project |
 | Eagle 2.5 | ![Star](https://img.shields.io/github/stars/NVlabs/EAGLE) <br> [Eagle 2.5: Boosting Long-Context Post-Training for Frontier Vision-Language Models](https://arxiv.org/pdf/2504.15271) | ArXiv | 2025-4-21 | [Github](https://github.com/NVlabs/EAGLE) | [Project](https://nvlabs.github.io/EAGLE/) |
 | Camera-Bench | ![Star](https://img.shields.io/github/stars/sy77777en/CameraBench) <br> [Towards Understanding Camera Motions in Any Video](https://arxiv.org/pdf/2504.15376) | ArXiv | 2025-4-21 | [Github](https://github.com/sy77777en/CameraBench) | [Project](https://linzhiqiu.github.io/papers/camerabench/) |
@@ -420,6 +424,7 @@ In this repository, we provide a comprehensive summary of the current literature
 
 | Name | Title | Venue | Date | Code | Project |
 | :--- | :---- | :---: | :--: | :--: | :-----: |
+| OneStreamer | ![Star](https://img.shields.io/github/stars/MCG-NJU/OneStreamer) <br> [OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction](https://arxiv.org/abs/2610.01762) | arXiv 2026 | 2026-10-01 | [Github](https://github.com/MCG-NJU/OneStreamer) | - |
 | Video-LLaVA   | ![Star](https://img.shields.io/github/stars/PKU-YuanGroup/Video-LLaVA) <br> [Video-llava: Learning united visual representation by alignment before projection](https://arxiv.org/pdf/2311.10122)        | EMNLP | 2024-10-01 | [Github](https://github.com/PKU-YuanGroup/Video-LLaVA) |                 Project                 |
 | BT-Adapter    | ![Star](https://img.shields.io/github/stars/farewellthree/BT-Adapter) <br> [BT-Adapter: Video Conversation is Feasible Without Video Instruction Tuning](https://arxiv.org/pdf/2309.15785)               | CVPR  | 2024-06-27 | [Github](https://github.com/farewellthree/BT-Adapter)  |                 Project                 |
 | VideoGPT+     | ![Star](https://img.shields.io/github/stars/mbzuai-oryx/VideoGPT-plus) <br> [VideoGPT+: Integrating Image and Video Encoders for Enhanced Video Understanding](https://arxiv.org/pdf/2406.09418)         | arXiv | 2024-06-13 | [Github](https://github.com/mbzuai-oryx/VideoGPT-plus) |                 Project                 |
